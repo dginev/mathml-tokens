@@ -1,0 +1,1725 @@
+[math] L ∈ [ H , H + 1 ) [end_math]
+
+[math] H [end_math]
+
+[math] 0 [end_math]
+
+[math] L [end_math]
+
+[math] d [end_math]
+
+[math] p [end_math]
+
+[math] ⌈ - [sub] log 2 [end_sub] ⁡ p ⌉ [end_math]
+
+[math] 1 / 127 [end_math]
+
+[math] 𝒑 = { [sub] p i [end_sub] } [end_math]
+
+[math] i [end_math]
+
+[math] 𝒳 [end_math]
+
+[math] 𝒳 [end_math]
+
+[math] n [end_math]
+
+[math] 𝒳 = { 1 , 2 , … , n } [end_math]
+
+[math] { [sub] p i [end_sub] } [end_math]
+
+[math] [sub] p i [end_sub] > 0 [end_math]
+
+[math] i ∈ 𝒳 [end_math]
+
+[math] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sub] p i [end_sub] = 1 [end_math]
+
+[math] [sub] p i [end_sub] ≥ [sub] p j [end_sub] [end_math]
+
+[math] i < j [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] c i [end_sub] ∈ [sup] [arg] { 0 , 1 } [end_arg] * [end_sup] [end_math]
+
+[math] 𝒄 [end_math]
+
+[math] i [end_math]
+
+[math] [sub] l i [end_sub] [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sub] p i [end_sub] [sub] l i [end_sub] [end_math]
+
+[math] [over] R ¯ [end_over] ( 𝒍 , 𝒑 ) ≜ [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] [sub] l i [end_sub] - H ( 𝒑 ) = [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] ( [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] ) [end_math]
+
+[math] H [end_math]
+
+[math] - [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sub] p i [end_sub] lg ⁡ [sub] p i [end_sub] [end_math]
+
+[math] lg ≜ [sub] log 2 [end_sub] [end_math]
+
+[math] 0 [end_math]
+
+[math] 1 [end_math]
+
+[math] 1 [end_math]
+
+[math] 0 [end_math]
+
+[math] 0 [end_math]
+
+[math] 001 [end_math]
+
+[math] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] w ( i ) [sub] l i [end_sub] [end_math]
+
+[math] w ( i ) = [sub] p i [end_sub] [end_math]
+
+[math] { w ( i ) } [end_math]
+
+[math] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] w ( i ) [end_math]
+
+[math] 1 [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] [sub] ℒ n [end_sub] ≜ { 𝒍 ∈ [subsup] ℤ + n [end_subsup] such that [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] ≤ 1 } . such that [end_math]
+
+[math] w ( i ) [end_math]
+
+[math] w ( j ) [end_math]
+
+[math] w ( i ) + w ( j ) [end_math]
+
+[math] i [end_math]
+
+[math] i [end_math]
+
+[math] w ( i ) [end_math]
+
+[math] [sup] 𝒍 opt [end_sup] [end_math]
+
+[math] H ( 𝒑 ) ≤ [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] [subsup] l i opt [end_subsup] < H ( 𝒑 ) + 1 [end_math]
+
+[math] 0 ≤ [over] R ¯ [end_over] ( [sup] 𝒍 opt [end_sup] , 𝒑 ) < 1 . [end_math]
+
+[math] [over] 𝒍 ~ [end_over] [end_math]
+
+[math] [over] H ~ [end_over] ( 𝒑 ) ≤ [over] L ~ [end_over] ( 𝒑 , [over] 𝒍 ~ [end_over] ) < [over] H ~ [end_over] ( 𝒑 ) + 1 [end_math]
+
+[math] 0 ≤ [over] R ~ [end_over] ( [over] 𝒍 ~ [end_over] , 𝒑 ) < 1 [end_math]
+
+[math] [over] H ~ [end_over] [end_math]
+
+[math] [over] L ~ [end_over] [end_math]
+
+[math] [over] R ~ [end_over] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [over] o ¯ [end_over] ( [sub] p 1 [end_sub] ) [end_math]
+
+[math] [over] ω ¯ [end_over] ( [sub] p 1 [end_sub] ) [end_math]
+
+[math] 0 ≤ [over] o ¯ [end_over] ( [sub] p 1 [end_sub] ) ≤ [over] R ¯ [end_over] ( [sup] 𝒍 opt [end_sup] , 𝒑 ) ≤ [over] ω ¯ [end_over] ( [sub] p 1 [end_sub] ) < 1 . [end_math]
+
+[math] [over] ω ¯ [end_over] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [over] o ¯ [end_over] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] [sup] [arg] [over] o ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) [end_math]
+
+[math] [sup] [arg] [over] ω ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) [end_math]
+
+[math] 0 ≤ [sup] [arg] [over] o ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) ≤ [over] R ¯ [end_over] ( [sup] 𝒍 opt [end_sup] , 𝒑 ) ≤ [sup] [arg] [over] ω ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) < 1 . [end_math]
+
+[math] [over] o ~ [end_over] [end_math]
+
+[math] [over] ω ~ [end_over] [end_math]
+
+[math] [sup] [arg] [over] o ~ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] [end_math]
+
+[math] [sup] [arg] [over] ω ~ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] [end_math]
+
+[math] 0 ≤ [over] o ~ [end_over] ( [sub] p 1 [end_sub] ) ≤ [over] R ~ [end_over] ( [over] 𝒍 ~ [end_over] , 𝒑 ) ≤ [over] ω ~ [end_over] ( [sub] p 1 [end_sub] ) ≤ 1 [end_math]
+
+[math] 0 ≤ [sup] [arg] [over] o ~ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) ≤ [over] R ~ [end_over] ( [over] 𝒍 ~ [end_over] , 𝒑 ) ≤ [sup] [arg] [over] ω ~ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) ≤ 1 [end_math]
+
+[math] [over] [arg] [over] o ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_over] [end_math]
+
+[math] [over] [arg] [over] ω ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_over] [end_math]
+
+[math] [sup] [arg] [over] [arg] [over] o ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] [end_math]
+
+[math] [sup] [arg] [over] [arg] [over] ω ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] [end_math]
+
+[math] 0 ≤ [over] [arg] [over] o ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_over] ( [over] H ~ [end_over] ( 𝒑 ) , [sub] p 1 [end_sub] ) ≤ [over] L ~ [end_over] ( 𝒑 , [over] 𝒍 ~ [end_over] ) ≤ [over] [arg] [over] ω ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_over] ( [over] H ~ [end_over] ( 𝒑 ) , [sub] p 1 [end_sub] ) ≤ 1 [end_math]
+
+[math] 0 ≤ [sup] [arg] [over] [arg] [over] o ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [over] H ~ [end_over] ( 𝒑 ) , [sub] p j [end_sub] ) ≤ [over] L ~ [end_over] ( 𝒑 , [over] 𝒍 ~ [end_over] ) ≤ [sup] [arg] [over] [arg] [over] ω ~ [end_arg] [arg] [end_over] ~ [end_arg] [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [over] H ~ [end_over] ( 𝒑 ) , [sub] p j [end_sub] ) ≤ 1 [end_math]
+
+[math] i [end_math]
+
+[math] j [end_math]
+
+[math] w ( i ) + w ( j ) [end_math]
+
+[math] f ( w ( i ) , w ( j ) ) [end_math]
+
+[math] f [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] w root [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] l j [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] i [end_math]
+
+[math] [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] [end_math]
+
+[math] d [end_math]
+
+[math] β [end_math]
+
+[math] β [end_math]
+
+[math] d [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sup] R * [end_sup] [end_math]
+
+[math] [over] R ¯ [end_over] ( 𝒍 , 𝒑 ) ≜ [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sub] p i [end_sub] ( [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] ) [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) ≜ [under] max [arg] i ∈ 𝒳 [end_arg] [end_under] ⁡ ( [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] ) . [end_math]
+
+[math] [sup] f * [end_sup] ( w ( i ) , w ( j ) ) ≜ 2 max ⁡ ( w ( i ) , w ( j ) ) . [end_math]
+
+[math] 𝒫 [end_math]
+
+[math] [sub] l i [end_sub] [end_math]
+
+[math] ⌈ - lg ⁡ [sub] p i [end_sub] ⌉ [end_math]
+
+[math] - lg ⁡ [sub] p i [end_sub] [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) ∈ [ 0 , 1 ) [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sup] ω [arg] ′ ⁣ * [end_arg] [end_sup] ( [sub] p j [end_sub] ) = max ⁡ ( 1 + lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] [end_arg] [end_frac] , [sub] λ j [end_sub] + lg ⁡ [sub] p j [end_sub] ) [end_math]
+
+[math] [sup] ω * [end_sup] ( [sub] p 1 [end_sub] ) = [sup] ω [arg] ′ ⁣ * [end_arg] [end_sup] ( [sub] p 1 [end_sub] ) [end_math]
+
+[math] [sup] o [arg] ′ ⁣ * [end_arg] [end_sup] ( [sub] p j [end_sub] ) = min ⁡ ( [sub] λ j [end_sub] + lg ⁡ [sub] p j [end_sub] , lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] + 1 [end_arg] [end_sup] [end_arg] [end_frac] ) [end_math]
+
+[math] [sub] p j [end_sub] < 0.5 [end_math]
+
+[math] 1 + lg ⁡ [sub] p j [end_sub] [end_math]
+
+[math] [sup] o [arg] ′ ⁣ * [end_arg] [end_sup] ( [sub] p j [end_sub] ) = [sup] o * [end_sup] ( [sub] p j [end_sub] ) [end_math]
+
+[math] [sub] λ j [end_sub] ≜ ⌈ - lg ⁡ [sub] p j [end_sub] ⌉ [end_math]
+
+[math] [sub] l j [end_sub] ≤ ν [end_math]
+
+[math] [sub] p j [end_sub] ≥ [sup] 2 [arg] - ν [end_arg] [end_sup] [end_math]
+
+[math] [sub] p j [end_sub] ≤ 1 / ( [sup] 2 ν [end_sup] - 1 ) [end_math]
+
+[math] [sub] l j [end_sub] ≥ ν [end_math]
+
+[math] d [end_math]
+
+[math] [sup] R d [end_sup] [end_math]
+
+[math] d [end_math]
+
+[math] d [end_math]
+
+[math] [sup] R d [end_sup] ( 𝒑 , 𝒍 ) ≜ [frac] 1 d [end_frac] lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [subsup] p i [arg] 1 + d [end_arg] [end_subsup] [sup] 2 [arg] d [sub] l i [end_sub] [end_arg] [end_sup] = [frac] 1 d [end_frac] lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] [sup] 2 [arg] d ( [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] ) [end_arg] [end_sup] . [end_math]
+
+[math] d [end_math]
+
+[math] d ∈ ( - 1 , 0 ) [end_math]
+
+[math] d → 0 [end_math]
+
+[math] d → ∞ [end_math]
+
+[math] [sup] f d [end_sup] ( w ( i ) , w ( j ) ) ≜ [sup] [arg] ( [sup] 2 d [end_sup] w [sup] [arg] ( i ) [end_arg] [arg] 1 + d [end_arg] [end_sup] + [sup] 2 d [end_sup] w [sup] [arg] ( j ) [end_arg] [arg] 1 + d [end_arg] [end_sup] ) [end_arg] [arg] [frac] 1 [arg] 1 + d [end_arg] [end_frac] [end_arg] [end_sup] . [end_math]
+
+[math] d [end_math]
+
+[math] d [end_math]
+
+[math] [subsup] R opt d [end_subsup] ( 𝒑 ) ≜ [under] min [arg] 𝒍 ∈ [sub] ℒ n [end_sub] [end_arg] [end_under] ⁡ [subsup] R opt d [end_subsup] ( 𝒍 , 𝒑 ) ∈ [ 0 , 1 ) . [end_math]
+
+[math] d > 0 [end_math]
+
+[math] d [end_math]
+
+[math] [sup] ω * [end_sup] [end_math]
+
+[math] [sup] ω [arg] ′ ⁣ * [end_arg] [end_sup] [end_math]
+
+[math] [over] o ¯ [end_over] [end_math]
+
+[math] [sup] [arg] [over] o ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] d > 0 [end_math]
+
+[math] [over] o ¯ [end_over] ( [sub] p j [end_sub] ) ≤ [subsup] R opt d [end_subsup] ( 𝒑 ) ≤ [sup] ω * [end_sup] ( [sub] p j [end_sub] ) [end_math]
+
+[math] [over] ω ¯ [end_over] ( [sub] p 1 [end_sub] ) [end_math]
+
+[math] [sup] [arg] [over] ω ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) [end_math]
+
+[math] d [end_math]
+
+[math] d ∈ ( - 1 , 0 ) [end_math]
+
+[math] [sub] L a [end_sub] [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] a ∈ ( 0 , ∞ ) \ 1 [end_math]
+
+[math] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) ≜ [sub] log a [end_sub] [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] . [end_math]
+
+[math] a [end_math]
+
+[math] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) = [frac] 1 [arg] ( lg ⁡ a ) [end_arg] [end_frac] lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] [sup] 2 [arg] ( lg ⁡ a ) [sub] l i [end_sub] [end_arg] [end_sup] . [end_math]
+
+[math] [sub] f a [end_sub] ( w ( i ) , w ( j ) ) ≜ a w ( i ) + a w ( j ) . [end_math]
+
+[math] d [end_math]
+
+[math] a = lg ⁡ d [end_math]
+
+[math] w ( i ) [end_math]
+
+[math] [subsup] p i [arg] 1 + d [end_arg] [end_subsup] [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 a / ( 2 a + 3 ) [end_math]
+
+[math] a < 1 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] a < 1 [end_math]
+
+[math] a [end_math]
+
+[math] ℙ [ success ] = [sup] a [arg] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) [end_arg] [end_sup] = [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] . success [end_math]
+
+[math] a > 0.5 [end_math]
+
+[math] a ≤ 0.5 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] l i [end_sub] [end_math]
+
+[math] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] a [end_math]
+
+[math] [sub] l i [end_sub] [end_math]
+
+[math] 𝔼 [ N ] = [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = [sup] a [arg] - [sub] L [arg] [sup] a [arg] - 1 [end_arg] [end_sup] [end_arg] [end_sub] ( 𝒑 , 𝒍 ) [end_arg] [end_sup] . [end_math]
+
+[math] a > 1 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) [end_math]
+
+[math] a [end_math]
+
+[math] a ∈ ( 0 , 1 ) [end_math]
+
+[math] a > 1 [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) [end_math]
+
+[math] a → 1 [end_math]
+
+[math] a [end_math]
+
+[math] 1 [end_math]
+
+[math] a ↓ 1 [end_math]
+
+[math] a ↑ 1 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] L a [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 0.4 [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] a ∈ ( 0.5 , 1 ] [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 a / ( 2 a + 3 ) [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ∈ ( 0 , 1 ) [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a ≤ 0.5 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 a / ( 2 a + 3 ) [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] [table] [tr] [td] [sup] a 2 [end_sup] [sup] [arg] [ [sup] a [arg] α [sub] H α [end_sub] ( 𝒑 ) [end_arg] [end_sup] - [subsup] p 1 α [end_subsup] ] [end_arg] [arg] [frac] 1 α [end_frac] [end_arg] [end_sup] + a [sub] p 1 [end_sub] < ( [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] ) [end_td] [end_tr] [tr] [td] ≤ a [sup] [arg] [ [sup] a [arg] α [sub] H α [end_sub] ( 𝒑 ) [end_arg] [end_sup] - [subsup] p 1 α [end_subsup] ] [end_arg] [arg] [frac] 1 α [end_frac] [end_arg] [end_sup] + a [sub] p 1 [end_sub] [end_td] [end_tr] [end_table] [end_math]
+
+[math] α = 1 / ( 1 + lg ⁡ a ) [end_math]
+
+[math] [sub] H α [end_sub] ( 𝒑 ) ≜ [frac] 1 [arg] 1 - α [end_arg] [end_frac] lg [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [subsup] p i α [end_subsup] . [end_math]
+
+[math] [sub] H α [end_sub] ( 𝒑 ) ≤ [sub] log a [end_sub] [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] < [sub] H α [end_sub] ( 𝒑 ) + 1 . [end_math]
+
+[math] d [end_math]
+
+[math] a > 0.5 [end_math]
+
+[math] 0 ≤ [subsup] L a opt [end_subsup] ( 𝒑 ) - [sub] H α [end_sub] ( 𝒑 ) ≤ [over] ω ¯ [end_over] ( [subsup] p 1 α [end_subsup] [sup] 2 [arg] ( α - 1 ) [sub] H α [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) [end_math]
+
+[math] 0 ≤ [subsup] L a opt [end_subsup] ( 𝒑 ) - [sub] H α [end_sub] ( 𝒑 ) ≤ [sup] [arg] [over] ω ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [subsup] p j α [end_subsup] [sup] 2 [arg] ( α - 1 ) [sub] H α [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] [table] [tr] [td] [over] o ¯ [end_over] ( [subsup] p j α [end_subsup] [sup] 2 [arg] ( α - 1 ) [sub] H α [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) [end_td] [td] ≤ [end_td] [td] [subsup] L a opt [end_subsup] ( 𝒑 ) - [sub] H α [end_sub] ( 𝒑 ) [end_td] [end_tr] [tr] [td] [end_td] [td] ≤ [end_td] [td] [sup] ω * [end_sup] ( [subsup] p j α [end_subsup] [sup] 2 [arg] ( α - 1 ) [sub] H α [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) [end_td] [end_tr] [end_table] [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( 𝒑 ) [end_math]
+
+[math] [over] R ¯ [end_over] ( 𝒍 , 𝒑 ) = [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sub] p i [end_sub] [sub] l i [end_sub] - H ( 𝒑 ) [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) ≜ [under] min [arg] 𝒍 ∈ [sub] ℒ n [end_sub] [end_arg] [end_under] ⁡ [under] max [arg] i ∈ 𝒳 [end_arg] [end_under] ⁡ ( [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] ) [end_math]
+
+[math] 0 ≤ [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( 𝒑 ) ≤ [subsup] R opt * [end_subsup] ( 𝒑 ) < 1 [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) [end_math]
+
+[math] [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] [end_math]
+
+[math] [over] R ¯ [end_over] ( 𝒍 , 𝒑 ) [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] [subsup] l i 0 [end_subsup] ( 𝒑 ) ≜ ⌈ - lg ⁡ [sub] p i [end_sub] ⌉ [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) ≤ [sup] R * [end_sup] ( [sup] 𝒍 0 [end_sup] ( 𝒑 ) , 𝒑 ) = [under] max [arg] i ∈ 𝒳 [end_arg] [end_under] ⁡ ( ⌈ - lg ⁡ [sub] p i [end_sub] ⌉ + lg ⁡ [sub] p i [end_sub] ) < 1 . [end_math]
+
+[math] [over] R ¯ [end_over] ( 𝐥 , 𝐩 ) [end_math]
+
+[math] 𝐩 [end_math]
+
+[math] [sub] w root [end_sub] [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) = lg ⁡ [sub] w root [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] ≤ 2 [sub] p [arg] n - 1 [end_arg] [end_sub] [end_math]
+
+[math] ⌊ lg ⁡ n ⌋ [end_math]
+
+[math] ⌈ lg ⁡ n ⌉ [end_math]
+
+[math] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 1 [end_math]
+
+[math] 1 [end_math]
+
+[math] 2 [end_math]
+
+[math] w [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] 1 [end_math]
+
+[math] n - 1 [end_math]
+
+[math] n [end_math]
+
+[math] [sup] f * [end_sup] ( w ( i ) , w ( j ) ) = 2 max ⁡ ( w ( i ) , w ( j ) ) > w ( i ) [end_math]
+
+[math] i [end_math]
+
+[math] j [end_math]
+
+[math] n [end_math]
+
+[math] n - 1 [end_math]
+
+[math] n - 2 [end_math]
+
+[math] [sub] l i [end_sub] + lg ⁡ w ( i ) [end_math]
+
+[math] [sub] l [arg] n - 1 [end_arg] [end_sub] [end_math]
+
+[math] w ( n - 1 ) [end_math]
+
+[math] n - 1 [end_math]
+
+[math] [sub] l n [end_sub] [end_math]
+
+[math] w ( n ) [end_math]
+
+[math] n [end_math]
+
+[math] [sup] l ′ [end_sup] [end_math]
+
+[math] [sup] w ′ [end_sup] [end_math]
+
+[math] [sup] l ′ [end_sup] + lg ⁡ [sup] w ′ [end_sup] [end_math]
+
+[math] = [end_math]
+
+[math] [sub] l n [end_sub] - 1 + lg ⁡ ( 2 max ⁡ ( w ( n - 1 ) , w ( n ) ) ) [end_math]
+
+[math] = [end_math]
+
+[math] max ⁡ ( [sub] l [arg] n - 1 [end_arg] [end_sub] + lg ⁡ w ( n - 1 ) , [sub] l n [end_sub] + lg ⁡ w ( n ) ) . [end_math]
+
+[math] lg ⁡ [sub] w root [end_sub] [end_math]
+
+[math] 0 [end_math]
+
+[math] p = ( 0.5 , 0.3 , 0.2 ) [end_math]
+
+[math] 𝒍 = ( 1 , 2 , 2 ) [end_math]
+
+[math] [sup] l ′ [end_sup] + lg ⁡ [sup] w ′ [end_sup] = 1 + lg ⁡ 0.6 [end_math]
+
+[math] = [end_math]
+
+[math] max ⁡ ( 2 + lg ⁡ 0.3 , 2 + lg ⁡ 0.2 ) [end_math]
+
+[math] = [end_math]
+
+[math] max ⁡ ( [sub] l 2 [end_sub] + lg ⁡ [sub] p 2 [end_sub] , [sub] l 3 [end_sub] + lg ⁡ [sub] p 3 [end_sub] ) . [end_math]
+
+[math] lg ⁡ 1.2 = lg ⁡ [sub] w root [end_sub] [end_math]
+
+[math] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 1 [end_math]
+
+[math] n [end_math]
+
+[math] ⌈ lg ⁡ n ⌉ [end_math]
+
+[math] ⌈ lg ⁡ n ⌉ - 1 [end_math]
+
+[math] n - 1 [end_math]
+
+[math] n > 2 [end_math]
+
+[math] ⌊ lg ⁡ ( n - 1 ) ⌋ [end_math]
+
+[math] ⌈ lg ⁡ ( n - 1 ) ⌉ [end_math]
+
+[math] n [end_math]
+
+[math] [sub] p 1 [end_sub] ≤ 2 [sub] p [arg] n - 1 [end_arg] [end_sub] = 2 max ⁡ ( [sub] p [arg] n - 1 [end_arg] [end_sub] , [sub] p n [end_sub] ) [end_math]
+
+[math] n - 1 [end_math]
+
+[math] ⌊ lg ⁡ ( n - 1 ) ⌋ [end_math]
+
+[math] 1 + ⌊ lg ⁡ ( n - 1 ) ⌋ = ⌈ lg ⁡ n ⌉ [end_math]
+
+[math] n [end_math]
+
+[math] lg ⁡ n = ⌈ lg ⁡ ( n - 1 ) ⌉ [end_math]
+
+[math] n - 1 [end_math]
+
+[math] lg ⁡ ( n - 1 ) = ⌊ lg ⁡ n ⌋ [end_math]
+
+[math] ⌈ lg ⁡ n ⌉ = ⌈ lg ⁡ ( n - 1 ) ⌉ [end_math]
+
+[math] ⌊ lg ⁡ n ⌋ = ⌊ lg ⁡ ( n - 1 ) ⌋ [end_math]
+
+[math] n [end_math]
+
+[math] [sub] p j [end_sub] ≥ 2 / 3 [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝐩 ) = 1 + lg ⁡ [sub] p j [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] ∈ [ 0.5 , 2 / 3 ) [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝐩 ) ∈ [ 1 + lg ⁡ [sub] p j [end_sub] , 2 + lg ⁡ ( 1 - [sub] p j [end_sub] ) ) [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] = [sub] p j [end_sub] [end_math]
+
+[math] [sub] λ j [end_sub] ≜ ⌈ - lg ⁡ [sub] p j [end_sub] ⌉ [end_math]
+
+[math] [sub] λ j [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] ∈ [ [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] , [sup] 2 [arg] - [sub] λ j [end_sub] + 1 [end_arg] [end_sup] ) [end_math]
+
+[math] [sub] λ j [end_sub] > 1 [end_math]
+
+[math] [sub] p j [end_sub] ∈ ( 0 , 0.5 ) [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝐩 ) [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [table] [tr] [td] [sub] p j [end_sub] [end_td] [td] [subsup] R opt * [end_subsup] ( 𝒑 ) [end_td] [end_tr] [tr] [td] [end_td] [td] [end_td] [end_tr] [tr] [td] [ [frac] 1 [arg] [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] [end_arg] [end_frac] , [frac] 1 [arg] [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] - 1 [end_arg] [end_frac] ) [end_td] [td] [ [sub] λ j [end_sub] + lg ⁡ [sub] p j [end_sub] , 1 + lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] [end_arg] [end_frac] ) [end_td] [end_tr] [tr] [td] [ [frac] 1 [arg] [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] - 1 [end_arg] [end_frac] , [frac] 2 [arg] [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] + 1 [end_arg] [end_frac] ) [end_td] [td] [ lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] + 1 [end_arg] [end_sup] [end_arg] [end_frac] , 1 + lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] [end_arg] [end_frac] ) [end_td] [end_tr] [tr] [td] [ [frac] 2 [arg] [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] + 1 [end_arg] [end_frac] , [frac] 1 [arg] [sup] 2 [arg] [sub] λ j [end_sub] - 1 [end_arg] [end_sup] [end_arg] [end_frac] ) [end_td] [td] [ lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] + 1 [end_arg] [end_sup] [end_arg] [end_frac] , [sub] λ j [end_sub] + lg ⁡ [sub] p j [end_sub] ] [end_td] [end_tr] [tr] [td] [end_td] [td] [end_td] [end_tr] [end_table] [end_math]
+
+[math] [ 0.5 , 1 ) [end_math]
+
+[math] 𝒑 = ( [sub] p j [end_sub] , 1 - [sub] p j [end_sub] - ϵ , ϵ ) [end_math]
+
+[math] [ 2 / 3 , 1 ) [end_math]
+
+[math] ϵ ∈ ( 0 , ( 1 - [sub] p j [end_sub] ) / 2 ] [end_math]
+
+[math] [ 0.5 , 2 / 3 ) [end_math]
+
+[math] ϵ ↓ 0 [end_math]
+
+[math] j [end_math]
+
+[math] [subsup] l i j [end_subsup] ( 𝒑 ) = { [table] [tr] [td] [sub] λ j [end_sub] ≜ ⌈ - lg ⁡ [sub] p j [end_sub] ⌉ , [end_td] [td] i = j [end_td] [end_tr] [tr] [td] ⌈ - lg ⁡ ( [sub] p i [end_sub] ( [frac] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] [end_arg] [arg] 1 - [sub] p j [end_sub] [end_arg] [end_frac] ) ) ⌉ , [end_td] [td] i ≠ j [end_td] [end_tr] [end_table] [end_math]
+
+[math] [sup] 𝒍 0 [end_sup] ( 𝒑 ) [end_math]
+
+[math] [subsup] l j j [end_subsup] [end_math]
+
+[math] j [end_math]
+
+[math] [sub] λ j [end_sub] [end_math]
+
+[math] [under] max [arg] i ≠ j [end_arg] [end_under] ⁡ ( [subsup] l i j [end_subsup] ( 𝒑 ) + lg ⁡ [sub] p i [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] [under] max [arg] i ≠ j [end_arg] [end_under] ⁡ ( ⌈ lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] [sub] p i [end_sub] ( 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] ) [end_arg] [end_frac] ⌉ + lg ⁡ [sub] p i [end_sub] ) [end_math]
+
+[math] < [end_math]
+
+[math] 1 + lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] [end_arg] [end_frac] . [end_math]
+
+[math] [sub] p j [end_sub] ∈ [ 2 / ( [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] + 1 ) , 1 / [sup] 2 [arg] [sub] λ j [end_sub] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] j [end_math]
+
+[math] [sup] l j [end_sup] ( 𝒑 ) [end_math]
+
+[math] 1 + lg ⁡ ( ( 1 - [sub] p j [end_sub] ) / ( 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] ) ) [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) ≤ [sup] R * [end_sup] ( [sup] 𝒍 j [end_sup] ( 𝒑 ) , 𝒑 ) = [sub] λ j [end_sub] + lg ⁡ [sub] p j [end_sub] . [end_math]
+
+[math] [sub] λ j [end_sub] > 1 [end_math]
+
+[math] [sub] p j [end_sub] ∈ [ 2 / ( [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] + 1 ) , 1 / [sup] 2 [arg] [sub] λ j [end_sub] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] j = 1 [end_math]
+
+[math] 𝒑 = ( [sub] p 1 [end_sub] , [under] [arg] [under] [arg] [frac] [arg] 1 - [sub] p 1 [end_sub] - ϵ [end_arg] [arg] [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] - 2 [end_arg] [end_frac] , … , [frac] [arg] 1 - [sub] p 1 [end_sub] - ϵ [end_arg] [arg] [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] - 2 [end_arg] [end_frac] [end_arg] ⏟ [end_arg] [arg] [end_under] [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] - 2 [end_arg] [end_under] , ϵ ) [end_math]
+
+[math] ϵ ∈ ( 0 , 1 - [sub] p 1 [end_sub] [sup] 2 [arg] [sub] λ 1 [end_sub] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 / ( [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] + 1 ) [end_math]
+
+[math] 1 - [sub] p 1 [end_sub] [sup] 2 [arg] [sub] λ 1 [end_sub] - 1 [end_arg] [end_sup] ≤ ( 1 - [sub] p 1 [end_sub] - ϵ ) / ( [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] - 2 ) [end_math]
+
+[math] [sub] p [arg] n - 1 [end_arg] [end_sub] ≥ [sub] p n [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] < 1 / [sup] 2 [arg] [sub] λ 1 [end_sub] - 1 [end_arg] [end_sup] [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ [sub] p 2 [end_sub] [end_math]
+
+[math] 2 [sub] p [arg] n - 1 [end_arg] [end_sub] > [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] l i [end_sub] = [sub] λ 1 [end_sub] [end_math]
+
+[math] i [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) = [sub] λ 1 [end_sub] + lg ⁡ [sub] p 1 [end_sub] [end_math]
+
+[math] j = 1 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] ∈ [ 1 / [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] , 2 / ( [sup] 2 [arg] [sub] λ j [end_sub] [end_arg] [end_sup] + 1 ) ) [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) ≤ [sup] R * [end_sup] ( [sup] 𝒍 j [end_sup] ( 𝒑 ) , 𝒑 ) < 1 + lg ⁡ ( ( 1 - [sub] p j [end_sub] ) / ( 1 - [sup] 2 [arg] - [sub] λ j [end_sub] [end_arg] [end_sup] ) ) . [end_math]
+
+[math] j = 1 [end_math]
+
+[math] 𝒑 = ( [sub] p 1 [end_sub] , [under] [arg] [under] [arg] [frac] [arg] 1 - [sub] p 1 [end_sub] - ϵ [end_arg] [arg] [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] - 1 [end_arg] [end_frac] , … , [frac] [arg] 1 - [sub] p 1 [end_sub] - ϵ [end_arg] [arg] [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] - 1 [end_arg] [end_frac] [end_arg] ⏟ [end_arg] [arg] [end_under] [sup] 2 [arg] [sub] λ 1 [end_sub] [end_arg] [end_sup] - 1 [end_arg] [end_under] , ϵ ) [end_math]
+
+[math] ϵ ↓ 0 [end_math]
+
+[math] ϵ [end_math]
+
+[math] [sub] p 1 [end_sub] < 2 [sub] p [arg] n - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sub] l i [end_sub] = [sub] λ 1 [end_sub] [end_math]
+
+[math] i ∈ { 1 , 2 , … , n - 2 } [end_math]
+
+[math] [sub] l [arg] n - 1 [end_arg] [end_sub] = [sub] l n [end_sub] = [sub] λ 1 [end_sub] + 1 [end_math]
+
+[math] n - 1 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] l 1 [end_sub] = μ [end_math]
+
+[math] μ ∈ { 1 , 2 , … } [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ [sup] 2 [arg] - μ [end_arg] [end_sup] [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) ≥ [sub] l 1 [end_sub] + lg ⁡ [sub] p 1 [end_sub] = μ + lg ⁡ [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] < [sup] 2 [arg] - μ [end_arg] [end_sup] [end_math]
+
+[math] μ [end_math]
+
+[math] μ [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] 1 - [sub] p 1 [end_sub] [end_math]
+
+[math] ( 1 - [sub] p 1 [end_sub] ) / ( [sup] 2 μ [end_sup] - 1 ) [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) ≥ μ + lg ⁡ ( ( 1 - [sub] p 1 [end_sub] ) / ( [sup] 2 μ [end_sup] - 1 ) ) [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) ≥ μ + lg ⁡ max ⁡ ( [sub] p 1 [end_sub] , [frac] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [arg] [sup] 2 μ [end_sup] - 1 [end_arg] [end_frac] ) [end_math]
+
+[math] [sub] l 1 [end_sub] = μ [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) ≥ [under] min [arg] μ ∈ { 1 , 2 , 3 , … } [end_arg] [end_under] ⁡ ( μ + lg ⁡ max ⁡ ( [sub] p 1 [end_sub] , [frac] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [arg] [sup] 2 μ [end_sup] - 1 [end_arg] [end_frac] ) ) [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] < [sup] 2 [arg] - μ [end_arg] [end_sup] [end_math]
+
+[math] [sup] 2 μ [end_sup] [end_math]
+
+[math] μ [end_math]
+
+[math] μ = [sub] l j [end_sub] [end_math]
+
+[math] 𝒜 [end_math]
+
+[math] μ [end_math]
+
+[math] 𝒩 [end_math]
+
+[math] μ [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] [end_math]
+
+[math] i [end_math]
+
+[math] 𝒜 [end_math]
+
+[math] [sup] 2 [arg] μ - [sub] l i [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] [end_math]
+
+[math] [sub] p i [end_sub] [sup] 2 [arg] [sub] l i [end_sub] - μ [end_arg] [end_sup] [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] [end_math]
+
+[math] 𝒩 [end_math]
+
+[math] 1 [end_math]
+
+[math] [sup] 2 μ [end_sup] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sup] 2 μ [end_sup] - 1 [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] ∪ 𝒩 \ { j } [end_math]
+
+[math] ( 1 - [sub] p j [end_sub] ) / ( [sup] 2 μ [end_sup] - 1 ) [end_math]
+
+[math] 𝒩 [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) ≥ μ + lg ⁡ ( ( 1 - [sub] p j [end_sub] ) / ( [sup] 2 μ [end_sup] - 1 ) ) [end_math]
+
+[math] [sup] 2 [arg] μ - [sub] l i [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] i [end_math]
+
+[math] [sub] p i [end_sub] ≥ ( 1 - [sub] p j [end_sub] ) / ( [sup] 2 [arg] [sub] l i [end_sub] [end_arg] [end_sup] - [sup] 2 [arg] [sub] l i [end_sub] - μ [end_arg] [end_sup] ) [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) [end_math]
+
+[math] ≥ [end_math]
+
+[math] [sub] l i [end_sub] + lg ( ( 1 - [sub] p j [end_sub] ) / ( [sup] 2 [arg] [sub] l i [end_sub] [end_arg] [end_sup] - [sup] 2 [arg] [sub] l i [end_sub] - μ [end_arg] [end_sup] ) [end_math]
+
+[math] = [end_math]
+
+[math] μ + lg ⁡ ( ( 1 - [sub] p j [end_sub] ) / ( [sup] 2 μ [end_sup] - 1 ) ) . [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] = [sub] p j [end_sub] ∈ [ 1 / ( [sup] 2 [arg] μ + 1 [end_arg] [end_sup] - 1 ) , 1 / [sup] 2 μ [end_sup] ) [end_math]
+
+[math] μ [end_math]
+
+[math] ( [sub] p 1 [end_sub] , [under] [arg] [under] [arg] [frac] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [arg] [sup] 2 [arg] μ + 1 [end_arg] [end_sup] - 2 [end_arg] [end_frac] , … , [frac] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [arg] [sup] 2 [arg] μ + 1 [end_arg] [end_sup] - 2 [end_arg] [end_frac] [end_arg] ⏟ [end_arg] [arg] [end_under] [sup] 2 [arg] μ + 1 [end_arg] [end_sup] - 2 [end_arg] [end_under] ) . [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] [sub] λ j [end_sub] = μ + 1 [end_math]
+
+[math] ( [sub] p 1 [end_sub] , [under] [arg] [under] [arg] [sup] 2 [arg] - μ - 1 [end_arg] [end_sup] , … , [sup] 2 [arg] - μ - 1 [end_arg] [end_sup] [end_arg] ⏟ [end_arg] [arg] [end_under] [sup] 2 [arg] μ + 1 [end_arg] [end_sup] - 2 [end_arg] [end_under] , [sup] 2 [arg] - μ [end_arg] [end_sup] - [sub] p 1 [end_sub] ) [end_math]
+
+[math] [sub] p 1 [end_sub] ∈ [ 1 / [sup] 2 μ [end_sup] , 1 / ( [sup] 2 μ [end_sup] - 1 ) ) [end_math]
+
+[math] [sub] λ j [end_sub] = μ [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] = [sub] p j [end_sub] ≥ 2 / 3 [end_math]
+
+[math] 0 [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] p j [end_sub] ↓ 0 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] 0.086 [end_math]
+
+[math] 0.5 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 / 3 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] l j [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] j = 1 [end_math]
+
+[math] j [end_math]
+
+[math] j = 1 [end_math]
+
+[math] 𝐥 [end_math]
+
+[math] [sub] max [arg] i ∈ 𝒳 [end_arg] [end_sub] ⁡ ( [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] ) [end_math]
+
+[math] 𝐩 [end_math]
+
+[math] [sub] p j [end_sub] ≥ [sup] 2 [arg] - ν [end_arg] [end_sup] [end_math]
+
+[math] [sub] l j [end_sub] ≤ ν [end_math]
+
+[math] [sub] p 1 [end_sub] < [sup] 2 [arg] - ν [end_arg] [end_sup] [end_math]
+
+[math] [sub] l 1 [end_sub] > ν [end_math]
+
+[math] [sub] p j [end_sub] ≤ 1 / ( [sup] 2 ν [end_sup] - 1 ) [end_math]
+
+[math] [sub] l j [end_sub] ≥ ν [end_math]
+
+[math] [sub] p j [end_sub] ≥ [sup] 2 [arg] - ν [end_arg] [end_sup] [end_math]
+
+[math] [sub] l j [end_sub] ≥ 1 + ν [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) = [sup] R * [end_sup] ( 𝒍 , 𝒑 ) ≥ [sub] l j [end_sub] + lg ⁡ [sub] p j [end_sub] ≥ 1 [end_math]
+
+[math] [sub] l j [end_sub] ≤ ν [end_math]
+
+[math] [sub] p 1 [end_sub] ∈ ( [sup] 2 [arg] - ν - 1 [end_arg] [end_sup] , [sup] 2 [arg] - ν [end_arg] [end_sup] ) [end_math]
+
+[math] n = [sup] 2 [arg] ν + 1 [end_arg] [end_sup] [end_math]
+
+[math] 𝒑 = ( [sub] p 1 [end_sub] , [under] [arg] [under] [arg] [sup] 2 [arg] - ν - 1 [end_arg] [end_sup] , … , [sup] 2 [arg] - ν - 1 [end_arg] [end_sup] [end_arg] ⏟ [end_arg] [arg] [end_under] n - 2 [end_arg] [end_under] , [sup] 2 [arg] - ν [end_arg] [end_sup] - [sub] p 1 [end_sub] ) . [end_math]
+
+[math] [sub] l 1 [end_sub] ≤ ν [end_math]
+
+[math] [sub] l 2 [end_sub] [end_math]
+
+[math] [sub] l [arg] n - 1 [end_arg] [end_sub] [end_math]
+
+[math] ν [end_math]
+
+[math] [sub] p 1 [end_sub] = [sup] 2 [arg] - ν - 1 [end_arg] [end_sup] [end_math]
+
+[math] [sub] l 1 [end_sub] = ν + 1 [end_math]
+
+[math] ν [end_math]
+
+[math] [sub] p 1 [end_sub] < [sup] 2 [arg] - ν - 1 [end_arg] [end_sup] [end_math]
+
+[math] [sub] p j [end_sub] ≤ 1 / ( [sup] 2 ν [end_sup] - 1 ) [end_math]
+
+[math] [sub] l j [end_sub] < ν [end_math]
+
+[math] [sub] l j [end_sub] [end_math]
+
+[math] 𝒩 [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] [end_math]
+
+[math] i [end_math]
+
+[math] [sup] 2 [arg] [sub] l j [end_sub] - [sub] l i [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] [end_math]
+
+[math] [sub] p i [end_sub] [sup] 2 [arg] [sub] l i [end_sub] - [sub] l j [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] [sup] 2 [arg] [sub] l j [end_sub] [end_arg] [end_sup] - 1 [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] ∪ 𝒩 \ { j } [end_math]
+
+[math] 1 - [sub] p j [end_sub] [end_math]
+
+[math] [sup] k ′ [end_sup] [end_math]
+
+[math] w ( [sup] k ′ [end_sup] ) ≥ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] [sup] 2 [arg] [sub] l j [end_sub] [end_arg] [end_sup] - 1 [end_arg] [end_frac] ≥ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] [sup] 2 [arg] [sub] l j [end_sub] [end_arg] [end_sup] - [sup] 2 [arg] [sub] l j [end_sub] + 1 - ν [end_arg] [end_sup] [end_arg] [end_frac] . [end_math]
+
+[math] 𝒩 [end_math]
+
+[math] [sub] l j [end_sub] [end_math]
+
+[math] [sup] R * [end_sup] ( 𝒍 , 𝒑 ) ≥ ν - 1 + lg ⁡ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] [sup] 2 [arg] ν - 1 [end_arg] [end_sup] - 1 [end_arg] [end_frac] [end_math]
+
+[math] [sup] k ′ [end_sup] [end_math]
+
+[math] [sup] 𝒜 ′ [end_sup] [end_math]
+
+[math] k [end_math]
+
+[math] [sub] l k [end_sub] < [sub] l j [end_sub] [end_math]
+
+[math] [sup] 2 [arg] [sub] l j [end_sub] - [sub] l k [end_sub] [end_arg] [end_sup] ⋅ [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] [sup] 2 [arg] [sub] l j [end_sub] [end_arg] [end_sup] - [sup] 2 [arg] [sub] l j [end_sub] + 1 - ν [end_arg] [end_sup] [end_arg] [end_frac] = [frac] [arg] 1 - [sub] p j [end_sub] [end_arg] [arg] [sup] 2 [arg] [sub] l k [end_sub] [end_arg] [end_sup] - [sup] 2 [arg] [sub] l k [end_sub] + 1 - ν [end_arg] [end_sup] [end_arg] [end_frac] [end_math]
+
+[math] j [end_math]
+
+[math] [sub] l j [end_sub] + 1 + lg ⁡ [sub] p j [end_sub] [end_math]
+
+[math] ≤ [end_math]
+
+[math] ν + lg ⁡ [sub] p j [end_sub] [end_math]
+
+[math] ≤ [end_math]
+
+[math] ν - 1 + lg ⁡ [frac] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [arg] [sup] 2 [arg] ν - 1 [end_arg] [end_sup] - 1 [end_arg] [end_frac] [end_math]
+
+[math] [sub] p j [end_sub] ≤ 1 / ( [sup] 2 ν [end_sup] - 1 ) [end_math]
+
+[math] [sub] l j [end_sub] = ν [end_math]
+
+[math] 𝒑 = ( [sub] p 1 [end_sub] , [under] [arg] [under] [arg] [frac] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [arg] [sup] 2 ν [end_sup] - 2 [end_arg] [end_frac] , … , [frac] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [arg] [sup] 2 ν [end_sup] - 2 [end_arg] [end_frac] [end_arg] ⏟ [end_arg] [arg] [end_under] [sup] 2 ν [end_sup] - 2 [end_arg] [end_under] ) [end_math]
+
+[math] [sub] p 1 [end_sub] ∈ ( 1 / ( [sup] 2 ν [end_sup] - 1 ) , 1 / [sup] 2 [arg] ν - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] [sub] l 1 [end_sub] = ν - 1 [end_math]
+
+[math] [subsup] R opt * [end_subsup] ( 𝒑 ) = ν + lg ⁡ ( 1 - [sub] p 1 [end_sub] ) - lg ⁡ ( [sup] 2 ν [end_sup] - 2 ) [end_math]
+
+[math] [sub] l 1 [end_sub] > ν - 1 [end_math]
+
+[math] [sub] p j [end_sub] ≥ 0.5 [end_math]
+
+[math] [sub] l j [end_sub] = 1 [end_math]
+
+[math] [sub] p j [end_sub] ≤ 1 / 3 [end_math]
+
+[math] [sub] l j [end_sub] > 1 [end_math]
+
+[math] 𝒑 = ( 0.99 , 0.01 ) [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] p 2 [end_sub] ≤ 1 / 3 [end_math]
+
+[math] [sub] l 2 [end_sub] ≤ 6 [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] d [end_math]
+
+[math] d [end_math]
+
+[math] [sup] R d [end_sup] ( 𝒑 , 𝒍 ) = [frac] 1 d [end_frac] lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [subsup] p i [arg] 1 + d [end_arg] [end_subsup] [sup] 2 [arg] d [sub] l i [end_sub] [end_arg] [end_sup] = [frac] 1 d [end_frac] lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sub] p i [end_sub] [sup] 2 [arg] d ( [sub] l i [end_sub] + lg ⁡ [sub] p i [end_sub] ) [end_arg] [end_sup] . [end_math]
+
+[math] [sup] R [arg] [sup] d ′ [end_sup] [end_arg] [end_sup] ( 𝒑 , 𝒍 ) ≤ [sup] R d [end_sup] ( 𝒑 , 𝒍 ) [end_math]
+
+[math] [sup] d ′ [end_sup] ≤ d [end_math]
+
+[math] 0 [end_math]
+
+[math] ∞ [end_math]
+
+[math] [table] [tr] [td] 0 ≤ [over] R ¯ [end_over] ( 𝒑 , 𝒍 ) ≤ [sup] R d [end_sup] ( 𝒑 , 𝒍 ) ≤ [sup] R * [end_sup] ( 𝒑 , 𝒍 ) < 1 , [end_td] [td] d > 0 [end_td] [end_tr] [tr] [td] 0 ≤ [sup] R d [end_sup] ( 𝒑 , 𝒍 ) ≤ [over] R ¯ [end_over] ( 𝒑 , 𝒍 ) ≤ [sup] R * [end_sup] ( 𝒑 , 𝒍 ) < 1 , [end_td] [td] d ∈ ( - 1 , 0 ) [end_td] [end_tr] [end_table] [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] [sup] R [arg] - 1 [end_arg] [end_sup] ( 𝒑 , 𝒍 ) = - lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 0 , given [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 1 . given [end_math]
+
+[math] [table] [tr] [td] 0 ≤ [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( 𝒑 ) ≤ [subsup] R opt d [end_subsup] ( 𝒑 ) ≤ [subsup] R opt * [end_subsup] ( 𝒑 ) < 1 , [end_td] [td] d > 0 [end_td] [end_tr] [tr] [td] 0 ≤ [subsup] R opt d [end_subsup] ( 𝒑 ) ≤ [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( 𝒑 ) ≤ [subsup] R opt * [end_subsup] ( 𝒑 ) < 1 , [end_td] [td] d ∈ ( - 1 , 0 ) [end_td] [end_tr] [end_table] [end_math]
+
+[math] [subsup] R opt d [end_subsup] ( 𝒑 ) [end_math]
+
+[math] d [end_math]
+
+[math] d [end_math]
+
+[math] [subsup] R opt d [end_subsup] ( 𝐩 ) [end_math]
+
+[math] d [end_math]
+
+[math] d < 0 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] d > 0 [end_math]
+
+[math] [subsup] R opt d [end_subsup] ( 𝐩 ) [end_math]
+
+[math] d > 0 [end_math]
+
+[math] j = 1 [end_math]
+
+[math] [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( 𝒑 ) ≥ ξ - ( 1 - [sub] p j [end_sub] ) lg ⁡ ( [sup] 2 ξ [end_sup] - 1 ) - H ( [sub] p j [end_sub] ) [end_math]
+
+[math] ξ = ⌈ lg ⁡ [frac] [arg] 1 - [sup] 2 [arg] [frac] 1 [arg] [sub] p j [end_sub] - 1 [end_arg] [end_frac] [end_arg] [end_sup] [end_arg] [arg] 1 - [sup] 2 [arg] [frac] [arg] [sub] p j [end_arg] [arg] [end_sub] [sub] p j [end_sub] - 1 [end_arg] [end_frac] [end_arg] [end_sup] [end_arg] [end_frac] ⌉ [end_math]
+
+[math] [sub] p j [end_sub] ∈ ( 0 , 1 ) [end_math]
+
+[math] H ( x ) ≜ - x lg ⁡ x - ( 1 - x ) lg ⁡ ( 1 - x ) . [end_math]
+
+[math] d > 0 [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [subsup] R opt d [end_subsup] ( 𝒑 ) [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] d [end_math]
+
+[math] d > 0 [end_math]
+
+[math] d [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] a ≤ 0.5 [end_math]
+
+[math] [sup] 𝒄 u [end_sup] ( n ) ≜ ( 0 , 10 , 110 , … , [sup] 1 [arg] n - 2 [end_arg] [end_sup] 0 , [sup] 1 [arg] n - 1 [end_arg] [end_sup] ) . u [end_math]
+
+[math] a > 0.5 [end_math]
+
+[math] [sub] H α [end_sub] ( 𝒑 ) ≜ [frac] 1 [arg] 1 - α [end_arg] [end_frac] lg [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [subsup] p i α [end_subsup] [end_math]
+
+[math] α > 0 [end_math]
+
+[math] α ≠ 1 [end_math]
+
+[math] α ∈ { 0 , 1 , ∞ } [end_math]
+
+[math] [sub] H 0 [end_sub] ( 𝒑 ) ≜ [under] lim [arg] α ↓ 0 [end_arg] [end_under] ⁡ [sub] H α [end_sub] ( 𝒑 ) = lg ⁡ ∥ 𝒑 ∥ [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] [sub] H 1 [end_sub] ( 𝒑 ) ≜ [under] lim [arg] α → 1 [end_arg] [end_under] ⁡ [sub] H α [end_sub] ( 𝒑 ) = - [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] lg ⁡ [sub] p i [end_sub] [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] [sub] H ∞ [end_sub] ( 𝒑 ) ≜ [under] lim [arg] α ↑ ∞ [end_arg] [end_under] ⁡ [sub] H α [end_sub] ( 𝒑 ) = - lg ⁡ [sub] p 1 [end_sub] [end_math]
+
+[math] a > 0.5 [end_math]
+
+[math] α ( a ) ≜ [frac] 1 [arg] lg ⁡ 2 a [end_arg] [end_frac] = [frac] 1 [arg] 1 + lg ⁡ a [end_arg] [end_frac] [end_math]
+
+[math] [subsup] L a opt [end_subsup] ( 𝒑 ) ≜ [under] min [arg] 𝒍 ∈ [sub] ℒ n [end_sub] [end_arg] [end_under] ⁡ [sub] L a [end_sub] ( 𝒑 , 𝒍 ) [end_math]
+
+[math] a > 0.5 [end_math]
+
+[math] a ≠ 1 [end_math]
+
+[math] 0 ≤ [subsup] L a opt [end_subsup] ( 𝒑 ) - [sub] H [arg] α ( a ) [end_arg] [end_sub] ( 𝒑 ) < 1 . [end_math]
+
+[math] [sub] p i [end_sub] = [sub] log 10 [end_sub] ⁡ ( i + 1 ) - [sub] log 10 [end_sub] ⁡ ( i ) , i = 1 , 2 , … 9 [end_math]
+
+[math] 𝒑 ≈ ( 0.30 , 0.17 , 0.12 , 0.10 , 0.08 , 0.07 , 0.06 , 0.05 , 0.05 ) . [end_math]
+
+[math] a = 0.6 [end_math]
+
+[math] [sub] H [arg] α ( a ) [end_arg] [end_sub] ( 𝒑 ) = 2.259 … [end_math]
+
+[math] 2.259 [end_math]
+
+[math] 3.260 [end_math]
+
+[math] 0.189 [end_math]
+
+[math] 0.316 [end_math]
+
+[math] 𝒍 = ( 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 8 ) [end_math]
+
+[math] 2.382 … [end_math]
+
+[math] 0.296 … [end_math]
+
+[math] a = 2 [end_math]
+
+[math] [sub] H [arg] α ( a ) [end_arg] [end_sub] ( 𝒑 ) = 3.026 … [end_math]
+
+[math] 3.026 [end_math]
+
+[math] 4.027 [end_math]
+
+[math] 𝒍 = ( 2 , 3 , 3 , 3 , 3 , 4 , 4 , 4 , 4 ) [end_math]
+
+[math] 3.099 … [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] a > 1 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 0.4 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sup] R d [end_sup] [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] a [end_math]
+
+[math] [over] α ~ [end_over] ≜ α ( a ) = 1 / ( 1 + lg ⁡ a ) [end_math]
+
+[math] [sub] [arg] [over] p ^ [end_arg] [arg] [end_over] i [end_arg] [end_sub] ≜ [frac] [arg] [subsup] p i [arg] [over] α ~ [end_over] [end_arg] [end_arg] [arg] [end_subsup] [subsup] ∑ [arg] k = 1 [end_arg] n [end_subsup] [subsup] p k [arg] [over] α ~ [end_over] [end_arg] [end_subsup] [end_arg] [end_frac] = [frac] [arg] [subsup] p i [arg] [over] α ~ [end_over] [end_arg] [end_arg] [arg] [end_subsup] [sup] 2 [arg] ( 1 - [over] α ~ [end_over] ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] [end_arg] [end_frac] [end_math]
+
+[math] [table] [tr] [td] [sup] R [arg] lg ⁡ a [end_arg] [end_sup] ( [over] 𝒑 ^ [end_over] , 𝒍 ) [end_td] [td] = [end_td] [td] [frac] 1 [arg] lg ⁡ a [end_arg] [end_frac] lg [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [multiscripts] [arg] [over] p ^ [end_arg] [arg] [end_over] i [end_arg]   [arg] 1 + lg ⁡ a [end_arg] [end_multiscripts] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] [end_td] [end_tr] [tr] [td] [end_td] [td] = [end_td] [td] [sub] log a [end_sub] [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] - [sub] log a [end_sub] [sup] [arg] ( [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [subsup] p i [arg] [over] α ~ [end_over] [end_arg] [end_subsup] ) [end_arg] [arg] [frac] 1 [arg] [over] α ~ [end_over] [end_arg] [end_frac] [end_arg] [end_sup] [end_td] [end_tr] [tr] [td] [end_td] [td] = [end_td] [td] [sub] L a [end_sub] ( 𝒍 , 𝒑 ) - [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_td] [end_tr] [end_table] [end_math]
+
+[math] [sub] H α [end_sub] ( 𝒑 ) [end_math]
+
+[math] d [end_math]
+
+[math] [sub] [arg] [over] p ^ [end_arg] [arg] [end_over] j [end_arg] [end_sub] [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] a [end_math]
+
+[math] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_math]
+
+[math] [over] o ¯ [end_over] ( [sub] p j [end_sub] ) ≥ 0 [end_math]
+
+[math] [sup] ω * [end_sup] ( [sub] p j [end_sub] ) ≤ 1 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [over] ω ¯ [end_over] ( [sub] p 1 [end_sub] ) ≤ 1 [end_math]
+
+[math] [sub] p j [end_sub] [end_math]
+
+[math] [sup] [arg] [over] ω ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [sub] p j [end_sub] ) ≤ 1 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [over] o ¯ [end_over] ( [subsup] p j [arg] [over] α ~ [end_over] [end_arg] [end_subsup] [sup] 2 [arg] ( [over] α ~ [end_over] - 1 ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) [end_math]
+
+[math] ≤ [end_math]
+
+[math] [subsup] L a opt [end_subsup] ( 𝒑 ) - [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_math]
+
+[math] ≤ [end_math]
+
+[math] [sup] ω * [end_sup] ( [subsup] p j [arg] [over] α ~ [end_over] [end_arg] [end_subsup] [sup] 2 [arg] ( [over] α ~ [end_over] - 1 ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] 0 ≤ [subsup] L a opt [end_subsup] ( 𝒑 ) - [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) ≤ [over] ω ¯ [end_over] ( [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] [sup] 2 [arg] ( [over] α ~ [end_over] - 1 ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) [end_math]
+
+[math] 0 ≤ [subsup] L a opt [end_subsup] ( 𝒑 ) - [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) ≤ [sup] [arg] [over] ω ¯ [end_arg] [arg] [end_over] ′ [end_arg] [end_sup] ( [subsup] p j [arg] [over] α ~ [end_over] [end_arg] [end_subsup] [sup] 2 [arg] ( [over] α ~ [end_over] - 1 ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] ) . [end_math]
+
+[math] a = 2 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [ 3.026 … , 4.026 … ) [end_math]
+
+[math] [ 3.039 … , 3.910 … ] [end_math]
+
+[math] [sup] ω * [end_sup] [end_math]
+
+[math] [over] o ¯ [end_over] [end_math]
+
+[math] a = 0.6 [end_math]
+
+[math] [ 2.259 … , 3.259 … ) [end_math]
+
+[math] [ 2.259 … , 2.783 … ] [end_math]
+
+[math] [over] ω ¯ [end_over] [end_math]
+
+[math] [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( [over] 𝒑 ~ [end_over] ) ≤ 2 - H ( [sub] [arg] [over] p ~ [end_arg] [arg] [end_over] 1 [end_arg] [end_sub] ) - [sub] [arg] [over] p ~ [end_arg] [arg] [end_over] 1 [end_arg] [end_sub] [end_math]
+
+[math] [sub] [arg] [over] p ~ [end_arg] [arg] [end_over] 1 [end_arg] [end_sub] = [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] [sup] 2 [arg] ( [over] α ~ [end_over] - 1 ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] = 0.8386 … . [end_math]
+
+[math] H ( x ) = - x lg ⁡ x - ( 1 - x ) lg ⁡ ( 1 - x ) . [end_math]
+
+[math] a ≈ 1 [end_math]
+
+[math] a < 1 [end_math]
+
+[math] [sub] H 1 [end_sub] [ t [sub] p 1 [end_sub] , ( 1 - t ) [sub] p 1 [end_sub] , [sub] p 2 [end_sub] , … , [sub] p n [end_sub] ] = [end_math]
+
+[math] [sub] H 1 [end_sub] [ [sub] p 1 [end_sub] , [sub] p 2 [end_sub] , … , [sub] p n [end_sub] ] + [sub] p 1 [end_sub] [sub] H 1 [end_sub] ( t , 1 - t ) [end_math]
+
+[math] [sub] H 1 [end_sub] [end_math]
+
+[math] t ∈ [ 0 , 1 ] [end_math]
+
+[math] [sub] L a [end_sub] [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] [sub] L a [end_sub] ( 𝐩 , 𝐥 ) ≜ [sub] log a [end_sub] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a [end_math]
+
+[math] 𝐩 [end_math]
+
+[math] a ≤ 0.5 [end_math]
+
+[math] a ∈ ( 0.5 , 1 ] [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 a / ( 2 a + 3 ) [end_math]
+
+[math] a ∈ ( 0.5 , 1 ] [end_math]
+
+[math] [sub] p 1 [end_sub] < 2 a / ( 2 a + 3 ) [end_math]
+
+[math] 𝐩 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] p 1 [end_sub] < 1 [end_math]
+
+[math] 𝐩 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] 0.0 [end_math]
+
+[math] 0.2 [end_math]
+
+[math] 0.4 [end_math]
+
+[math] 0.6 [end_math]
+
+[math] 0.8 [end_math]
+
+[math] 1.0 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] [sup] w ′ [end_sup] [end_math]
+
+[math] [sup] w ′′ [end_sup] [end_math]
+
+[math] w = a [sup] w ′ [end_sup] + a [sup] w ′′ [end_sup] [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a ≤ 0.5 [end_math]
+
+[math] a ∈ ( 0.5 , 1 ] [end_math]
+
+[math] 1 [end_math]
+
+[math] { 1 } , [subsup] S 2 k [end_subsup] , [subsup] S 3 k [end_subsup] , … , [subsup] S k k [end_subsup] [end_math]
+
+[math] [subsup] S j k [end_subsup] [end_math]
+
+[math] w ( [subsup] S j k [end_subsup] ) [end_math]
+
+[math] [subsup] S j k [end_subsup] [end_math]
+
+[math] { 1 } [end_math]
+
+[math] [subsup] S j k [end_subsup] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] w ( [subsup] S j k [end_subsup] ) [end_math]
+
+[math] [sub] ∑ [arg] i ∈ [subsup] S j k [end_subsup] [end_arg] [end_sub] [sub] p i [end_sub] [end_math]
+
+[math] [subsup] S j k [end_subsup] [end_math]
+
+[math] a < 1 [end_math]
+
+[math] [table] [tr] [td] [frac] [arg] 2 a ( k - 1 ) [end_arg] [arg] 2 a + 3 [end_arg] [end_frac] [end_td] [td] ≤ [end_td] [td] ( k - 1 ) [sub] p 1 [end_sub] [end_td] [td] [end_td] [td] [end_td] [end_tr] [tr] [td] [end_td] [td] < [end_td] [td] [sub] p 1 [end_sub] + [subsup] ∑ [arg] j = 2 [end_arg] k [end_subsup] w ( [subsup] S j k [end_subsup] ) [end_td] [td] [end_td] [td] [end_td] [end_tr] [tr] [td] [end_td] [td] ≤ [end_td] [td] [sub] p 1 [end_sub] + [subsup] ∑ [arg] j = 2 [end_arg] k [end_subsup] [sub] ∑ [arg] i ∈ [subsup] S j k [end_subsup] [end_arg] [end_sub] [sub] p i [end_sub] [end_td] [td] [end_td] [td] [end_td] [end_tr] [tr] [td] [end_td] [td] = [end_td] [td] [subsup] ∑ [arg] i = 1 [end_arg] n [end_subsup] [sub] p i [end_sub] [end_td] [td] = [end_td] [td] 1 [end_td] [end_tr] [end_table] [end_math]
+
+[math] a > 0.5 [end_math]
+
+[math] k < 5 [end_math]
+
+[math] n ≤ 3 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] { 1 } [end_math]
+
+[math] [subsup] S 2 4 [end_subsup] [end_math]
+
+[math] [subsup] S 3 4 [end_subsup] [end_math]
+
+[math] [subsup] S 4 4 [end_subsup] [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 a / ( 2 a + 3 ) [end_math]
+
+[math] 𝒳 [end_math]
+
+[math] { 1 } [end_math]
+
+[math] [subsup] S 2 2 [end_subsup] [end_math]
+
+[math] [subsup] S 2 4 [end_subsup] [end_math]
+
+[math] [table] [tr] [td] If | [subsup] S 2 4 [end_subsup] | > 1 , [end_td] [end_tr] [tr] [td] w ( [subsup] S 2 4 [end_subsup] ) = [end_td] [end_tr] [tr] [td] a w ( [subsup] S 2 ′ [end_subsup] ) + a w ( [subsup] S 2 ′′ [end_subsup] ) [end_td] [end_tr] [end_table] If [end_math]
+
+[math] [subsup] S 2 ′ [end_subsup] [end_math]
+
+[math] [subsup] S 2 ′′ [end_subsup] [end_math]
+
+[math] [subsup] S 3 4 [end_subsup] [end_math]
+
+[math] [subsup] S 4 4 [end_subsup] [end_math]
+
+[math] [subsup] S 3 4 [end_subsup] ∪ [subsup] S 4 4 [end_subsup] [end_math]
+
+[math] [table] [tr] [td] w ( [subsup] S 3 4 [end_subsup] ∪ [subsup] S 4 4 [end_subsup] ) = [end_td] [end_tr] [tr] [td] a w ( [subsup] S 3 4 [end_subsup] ) + a w ( [subsup] S 4 4 [end_subsup] ) [end_td] [end_tr] [end_table] [end_math]
+
+[math] w ( [subsup] S 2 4 [end_subsup] ) [end_math]
+
+[math] w ( [subsup] S 3 4 [end_subsup] ) [end_math]
+
+[math] w ( [subsup] S 4 4 [end_subsup] ) [end_math]
+
+[math] w ( [subsup] S 2 4 [end_subsup] ) + w ( [subsup] S 3 4 [end_subsup] ) + w ( [subsup] S 4 4 [end_subsup] ) [end_math]
+
+[math] ≤ [end_math]
+
+[math] [underover] ∑ [arg] i = 2 [end_arg] n [end_underover] [sub] p i [end_sub] [end_math]
+
+[math] ≤ [end_math]
+
+[math] [frac] 3 [arg] 2 a + 3 [end_arg] [end_frac] , , [end_math]
+
+[math] w ( [subsup] S 2 4 [end_subsup] ) [end_math]
+
+[math] ≥ [end_math]
+
+[math] w ( [subsup] S 3 4 [end_subsup] ) , , [end_math]
+
+[math] and w ( [subsup] S 2 4 [end_subsup] ) and [end_math]
+
+[math] ≥ [end_math]
+
+[math] w ( [subsup] S 4 4 [end_subsup] ) [end_math]
+
+[math] w ( [subsup] S 3 4 [end_subsup] ) + w ( [subsup] S 4 4 [end_subsup] ) ≤ 2 / ( 2 a + 3 ) [end_math]
+
+[math] [subsup] S 2 4 [end_subsup] [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ w ( [subsup] S 2 4 [end_subsup] ) ≥ w ( [subsup] S 3 4 [end_subsup] ) ≥ w ( [subsup] S 4 4 [end_subsup] ) [end_math]
+
+[math] [subsup] S 3 4 [end_subsup] [end_math]
+
+[math] [subsup] S 4 4 [end_subsup] [end_math]
+
+[math] 2 a / ( 2 a + 3 ) [end_math]
+
+[math] [subsup] S 2 4 [end_subsup] [end_math]
+
+[math] { 1 } [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] [subsup] S 2 4 [end_subsup] [end_math]
+
+[math] [subsup] S 2 ′ [end_subsup] [end_math]
+
+[math] [subsup] S 2 ′′ [end_subsup] [end_math]
+
+[math] w ( [subsup] S 2 ′ [end_subsup] ) + w ( [subsup] S 2 ′′ [end_subsup] ) ≤ w ( [subsup] S 3 4 [end_subsup] ) + w ( [subsup] S 4 4 [end_subsup] ) [end_math]
+
+[math] w ( [subsup] S 2 4 [end_subsup] ) ≤ a w ( [subsup] S 3 4 [end_subsup] ) + a w ( [subsup] S 4 4 [end_subsup] ) ≤ [frac] [arg] 2 a [end_arg] [arg] 2 a + 3 [end_arg] [end_frac] . [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] ϵ ∈ ( 0 , ( 2 a - 1 ) / ( 8 a + 12 ) ) [end_math]
+
+[math] [sup] 𝒑 [arg] ( ϵ ) [end_arg] [end_sup] ≜ ( [frac] [arg] 2 a [end_arg] [arg] 2 a + 3 [end_arg] [end_frac] - 3 ϵ , [frac] 1 [arg] 2 a + 3 [end_arg] [end_frac] + ϵ , [frac] 1 [arg] 2 a + 3 [end_arg] [end_frac] + ϵ , [frac] 1 [arg] 2 a + 3 [end_arg] [end_frac] + ϵ ) [end_math]
+
+[math] 𝒍 = ( 2 , 2 , 2 , 2 ) [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] a > 1 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] p 1 [end_sub] < 1 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] n = 2 [end_math]
+
+[math] [sup] n ′ [end_sup] [end_math]
+
+[math] n [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] 𝒍 [end_math]
+
+[math] [sub] p [arg] [sup] n ′ [end_sup] [end_arg] [end_sub] [end_math]
+
+[math] [sub] p [arg] [sup] n ′ [end_sup] - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sup] n ′ [end_sup] - 1 [end_math]
+
+[math] [sup] n ′ [end_sup] [end_math]
+
+[math] [sup] n ′ [end_sup] - 1 [end_math]
+
+[math] [sup] n ′ [end_sup] - 1 [end_math]
+
+[math] [sub] l 1 [end_sub] > 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ∈ ( 0.2 , 1 ) [end_math]
+
+[math] [sub] p 1 [end_sub] ≤ 0.2 [end_math]
+
+[math] m = ⌊ [sub] log a [end_sub] ⁡ ( [frac] [arg] 4 [sub] p 1 [end_sub] [end_arg] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [end_frac] ) ⌋ [end_math]
+
+[math] n = 1 + [sup] 2 [arg] 2 + m [end_arg] [end_sup] [end_math]
+
+[math] [sub] p i [end_sub] = ( 1 - [sub] p 1 [end_sub] ) / ( n - 1 ) [end_math]
+
+[math] i ∈ { 2 , 3 , … , n } [end_math]
+
+[math] 1 [end_math]
+
+[math] [sup] w ′ [end_sup] = [sup] a [arg] 1 + m [end_arg] [end_sup] ( 1 - [sub] p 1 [end_sub] ) / 2 [end_math]
+
+[math] [sub] l 1 [end_sub] ≥ 2 [end_math]
+
+[math] m [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] 2 [end_math]
+
+[math] 3 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] p 1 [end_sub] < 1 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] [sup] 𝒍 opt [end_sup] [end_math]
+
+[math] [subsup] l 1 opt [end_subsup] [end_math]
+
+[math] 1 [end_math]
+
+[math] a ≥ 1 [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [subsup] l 1 opt [end_subsup] = 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 1 / 3 [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] a < 1 [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] [sub] p 1 [end_sub] ∈ ( 0 , 1 ) [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] n = 1 + [sup] 2 [arg] 1 + g [end_arg] [end_sup] [end_math]
+
+[math] g = max ⁡ ( ⌊ [sub] log a [end_sub] ⁡ [frac] [arg] 2 a [sub] p 1 [end_sub] [end_arg] [arg] 1 - [sub] p 1 [end_sub] [end_arg] [end_frac] ⌋ , ⌊ lg ⁡ [frac] [arg] 1 - 2 [sub] p 1 [end_sub] [end_arg] [arg] [sub] p 1 [end_sub] [end_arg] [end_frac] ⌋ , 0 ) [end_math]
+
+[math] - ∞ [end_math]
+
+[math] [sub] p i [end_sub] = ( 1 - [sub] p 1 [end_sub] ) / ( n - 1 ) [end_math]
+
+[math] i ∈ { 2 , 3 , … , n } [end_math]
+
+[math] ( 1 - [sub] p 1 [end_sub] ) [sup] a g [end_sup] / 2 < [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] ( 1 - [sub] p 1 [end_sub] ) [sup] a g [end_sup] / 2 [end_math]
+
+[math] g [end_math]
+
+[math] ( 1 - [sub] p 1 [end_sub] ) [sup] a g [end_sup] / 2 < [sub] p 1 [end_sub] [end_math]
+
+[math] [subsup] l 1 opt [end_subsup] = 1 [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] [sub] p 1 [end_sub] ∈ ( 0 , 1 ) [end_math]
+
+[math] [subsup] l 1 opt [end_subsup] = 1 [end_math]
+
+[math] a ≤ 0.5 [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 a / ( 2 a + 3 ) [end_math]
+
+[math] [sub] L a [end_sub] ( 𝐩 , 𝐥 ) ≜ [sub] log a [end_sub] [sub] ∑ [arg] i ∈ 𝒳 [end_arg] [end_sub] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] a ∈ ( 0.5 , 1 ) [end_math]
+
+[math] 𝐥 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 2 a / ( 2 a + 3 ) [end_math]
+
+[math] [over] α ~ [end_over] = α ( a ) ≜ 1 / ( 1 + lg ⁡ a ) [end_math]
+
+[math] [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] > [sup] a 2 [end_sup] [sup] [arg] [ [sup] a [arg] [over] α ~ [end_over] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] - [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] ] [end_arg] [arg] [frac] 1 [arg] [over] α ~ [end_over] [end_arg] [end_frac] [end_arg] [end_sup] + a [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] L a [end_sub] ( 𝒑 ) < 1 + [sub] log a [end_sub] ⁡ ( a [sup] [arg] [ [sup] a [arg] [over] α ~ [end_over] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] - [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] ] [end_arg] [arg] [frac] 1 [arg] [over] α ~ [end_over] [end_arg] [end_frac] [end_arg] [end_sup] + [sub] p 1 [end_sub] ) [end_math]
+
+[math] [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] ≤ a [sup] [arg] [ [sup] a [arg] [over] α ~ [end_over] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] - [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] ] [end_arg] [arg] [frac] 1 [arg] [over] α ~ [end_over] [end_arg] [end_frac] [end_arg] [end_sup] + a [sub] p 1 [end_sub] [end_math]
+
+[math] [sub] L a [end_sub] ( 𝒑 ) ≥ 1 + [sub] log a [end_sub] ⁡ ( [sup] [arg] [ [sup] a [arg] [over] α ~ [end_over] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] - [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] ] [end_arg] [arg] [frac] 1 [arg] [over] α ~ [end_over] [end_arg] [end_frac] [end_arg] [end_sup] + [sub] p 1 [end_sub] ) . [end_math]
+
+[math] [sub] p 1 [end_sub] ≥ 0.5 [end_math]
+
+[math] a [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] 𝒑 = ( [sub] p 1 [end_sub] , 1 - [sub] p 1 [end_sub] + ϵ , ϵ ) [end_math]
+
+[math] ϵ [end_math]
+
+[math] 𝒑 = ( [sub] p 1 [end_sub] , ( 1 - [sub] p 1 [end_sub] ) / 4 , ( 1 - [sub] p 1 [end_sub] ) / 4 , ( 1 - [sub] p 1 [end_sub] ) / 4 , ( 1 - [sub] p 1 [end_sub] ) / 4 ) [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] { 1 } [end_math]
+
+[math] B = { 2 , 3 , … , n } [end_math]
+
+[math] [subsup] p i B [end_subsup] = ℙ [ i | i ∈ B ] = [sub] p i [end_sub] / ( 1 - [sub] p 1 [end_sub] ) [end_math]
+
+[math] α [end_math]
+
+[math] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( [sup] 𝒑 B [end_sup] ) = [frac] 1 [arg] 1 - [over] α ~ [end_over] [end_arg] [end_frac] lg [underover] ∑ [arg] i = 2 [end_arg] n [end_underover] [sup] [arg] ( [frac] [arg] [sub] p i [end_arg] [arg] [end_sub] 1 - [sub] p 1 [end_sub] [end_arg] [end_frac] ) [end_arg] [arg] [over] α ~ [end_over] [end_arg] [end_sup] . [end_math]
+
+[math] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( [sup] 𝒑 B [end_sup] ) [end_math]
+
+[math] 𝒑 [end_math]
+
+[math] [sup] 2 [arg] ( 1 - [over] α ~ [end_over] ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] = [sup] [arg] ( 1 - [sub] p 1 [end_sub] ) [end_arg] [arg] [over] α ~ [end_over] [end_arg] [end_sup] [sup] 2 [arg] ( 1 - [over] α ~ [end_over] ) [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( [sup] 𝒑 B [end_sup] ) [end_arg] [end_sup] + [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] [end_math]
+
+[math] [sup] 2 [arg] 1 - [over] α ~ [end_over] [end_arg] [end_sup] = [sup] a [arg] [over] α ~ [end_over] [end_arg] [end_sup] [end_math]
+
+[math] [sup] a [arg] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( [sup] 𝒑 B [end_sup] ) [end_arg] [end_sup] = [frac] 1 [arg] 1 - [sub] p 1 [end_sub] [end_arg] [end_frac] [sup] [arg] [ [sup] a [arg] [over] α ~ [end_over] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( 𝒑 ) [end_arg] [end_sup] - [subsup] p 1 [arg] [over] α ~ [end_over] [end_arg] [end_subsup] ] [end_arg] [arg] [frac] 1 [arg] [over] α ~ [end_over] [end_arg] [end_frac] [end_arg] [end_sup] . [end_math]
+
+[math] B [end_math]
+
+[math] [sup] a [arg] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( [sup] 𝒑 B [end_sup] ) [end_arg] [end_sup] ≥ [frac] 1 [arg] ( 1 - [sub] p 1 [end_sub] ) a [end_arg] [end_frac] [underover] ∑ [arg] i = 2 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] > [sup] a [arg] [sub] H [arg] [over] α ~ [end_over] [end_arg] [end_sub] ( [sup] 𝒑 B [end_sup] ) + 1 [end_arg] [end_sup] . [end_math]
+
+[math] [sub] ∑ i [end_sub] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] ( 1 - [sub] p 1 [end_sub] ) a [end_math]
+
+[math] { 1 } [end_math]
+
+[math] a [sub] p 1 [end_sub] [end_math]
+
+[math] a = 0.6 [end_math]
+
+[math] [sub] H [arg] α ( a ) [end_arg] [end_sub] ( 𝒑 ) ≈ 2.260 [end_math]
+
+[math] [sub] p 1 [end_sub] > 2 a / ( 2 a + 3 ) [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] 0.250 [end_math]
+
+[math] 0.298 [end_math]
+
+[math] [subsup] L a opt [end_subsup] ∈ [ 2.372 … , 2.707 … ) [end_math]
+
+[math] ℙ [ success ] ∈ ( 0.241 , 0.316 ) success [end_math]
+
+[math] [subsup] L a opt [end_subsup] ∈ [ 2.259 … , 2.783 … ] [end_math]
+
+[math] 𝒍 = ( 1 , 2 , 3 , 4 , 5 , 6 , 7 , 8 , 8 ) [end_math]
+
+[math] 0.296 [end_math]
+
+[math] [subsup] L a opt [end_subsup] = 2.382 … [end_math]
+
+[math] a > 1 [end_math]
+
+[math] [sub] l 1 [end_sub] = 1 [end_math]
+
+[math] a < 1 [end_math]
+
+[math] [sub] l 1 [end_sub] [end_math]
+
+[math] [sub] p 1 [end_sub] [end_math]
+
+[math] α [end_math]
+
+[math] D [end_math]
