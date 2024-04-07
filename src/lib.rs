@@ -1,6 +1,8 @@
 use std::error::Error;
 use std::io::BufRead;
 
+use wasm_bindgen::prelude::*;
+
 use quick_xml::events::Event;
 use quick_xml::reader::Reader;
 
@@ -71,6 +73,7 @@ pub fn from_file(path:&str, math_token: bool) -> Result<String, Box<dyn Error>> 
   reader.trim_text(true);
   from_reader(reader,math_token)
 }
+
 
 pub fn from_str(xml:&str, math_token: bool) -> Result<String, Box<dyn Error>> {
   let mut reader = Reader::from_str(xml);
@@ -208,4 +211,14 @@ pub fn from_reader<T:BufRead>(mut reader: Reader<T>,math_token: bool) -> Result<
     }
  }
  Ok(tokens)
+}
+
+#[wasm_bindgen]
+pub fn mathml_to_tokens(serialized: &str) -> String {
+  from_str(serialized, false).expect("dirty fail for WASM")
+}
+
+#[wasm_bindgen]
+pub fn html_to_tokens(serialized: &str) -> String {
+  from_str(serialized, true).expect("dirty fail for WASM")
 }
