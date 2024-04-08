@@ -53,7 +53,6 @@ pub fn node_to_token(name:&[u8]) -> (&'static str,VisitMode) {
     b"mprescripts" => ("prescripts",Args),
     // PMML cases where we ignore arguments and just replace with literal text
     b"mspace" => (" ",Literal),
-    b"mglyph" => ("glyph", Literal),
     // Content MathML
     b"annotation" | b"annotation-xml" | b"maction" | b"mphantom" | b"apply" |
     b"vector" | b"matrix" | b"interval" | b"gt" | b"lt" | b"in" | b"set" | b"leq" | b"geq" |
