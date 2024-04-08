@@ -5,7 +5,7 @@ use mathml_tokens::from_file;
 
 #[test]
 fn arxiv_files_to_tokens() {
-  let file_ids = ["math0703429","1104.2640"];
+  let file_ids = ["math0703429","1104.2640","2304.02337"];
   for file_id in file_ids {
     let tokens = from_file(&format!("tests/samples/{file_id}.html"), true).expect("quick-xml processing shouldn't cause errors");
     let mut target_tokens_file = File::open(&format!("tests/samples/{file_id}.txt")).expect("target TXT expected to be present on disk.");

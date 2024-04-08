@@ -1,0 +1,2653 @@
+[math] L [end_math]
+
+[math] p [end_math]
+
+[math] ℕ = { 1 , 2 , … } [end_math]
+
+[math] ζ ​ ( [sub] n 1 [end_sub] , … , [sub] n r [end_sub] ) = [under] ∑ [arg] 0 < [sub] k 1 [end_sub] < ⋯ < [sub] k r [end_sub] [end_arg] [end_under] [frac] 1 [arg] [subsup] k 1 [arg] [sub] n 1 [end_sub] [end_arg] [end_subsup] ​ [subsup] k 2 [arg] [sub] n 2 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] k r [arg] [sub] n r [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] , [end_math]
+
+[math] [sub] n i [end_sub] ∈ ℕ [end_math]
+
+[math] [sub] n r [end_sub] ≥ 2 [end_math]
+
+[math] r [end_math]
+
+[math] w := [sub] n 1 [end_sub] + ⋯ + [sub] n r [end_sub] [end_math]
+
+[math] ζ ​ ( [sub] n 1 [end_sub] , … , [sub] n r [end_sub] ) [end_math]
+
+[math] N ∈ ℕ [end_math]
+
+[math] [sub] Γ N [end_sub] [end_math]
+
+[math] N [end_math]
+
+[math] ζ ​ ( [table] [tr] [td] [sub] ϵ 1 [end_sub] [end_td] [td] … [end_td] [td] [sub] ϵ r [end_sub] [end_td] [end_tr] [tr] [td] [sub] n 1 [end_sub] [end_td] [td] … [end_td] [td] [sub] n r [end_sub] [end_td] [end_tr] [end_table] ) = [under] ∑ [arg] 0 < [sub] k 1 [end_sub] < ⋯ < [sub] k r [end_sub] [end_arg] [end_under] [frac] [arg] [subsup] ϵ 1 [arg] [sub] k 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] ϵ r [arg] [sub] k r [end_sub] [end_arg] [end_subsup] [end_arg] [arg] [subsup] k 1 [arg] [sub] n 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] k r [arg] [sub] n r [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] [end_math]
+
+[math] [sub] ϵ i [end_sub] ∈ [sub] Γ N [end_sub] [end_math]
+
+[math] [sub] n i [end_sub] ∈ ℕ [end_math]
+
+[math] ( [sub] n r [end_sub] , [sub] ϵ r [end_sub] ) ≠ ( 1 , 1 ) [end_math]
+
+[math] N = 1 [end_math]
+
+[math] N = 2 [end_math]
+
+[math] N = 1 [end_math]
+
+[math] 𝔥 [end_math]
+
+[math] [sup] 𝔥 0 [end_sup] ⊂ [sup] 𝔥 1 [end_sup] ⊂ 𝔥 [end_math]
+
+[math] ( [sup] 𝔥 1 [end_sup] , ∗ ) [end_math]
+
+[math] ( 𝔥 , [error] \shuffle [end_error] ) [end_math]
+
+[math] N [end_math]
+
+[math] q [end_math]
+
+[math] p [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] q [end_math]
+
+[math] A = [sub] 𝔽 q [end_sub] ​ [ θ ] [end_math]
+
+[math] θ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] [sub] A + [end_sub] [end_math]
+
+[math] A [end_math]
+
+[math] K = [sub] 𝔽 q [end_sub] ​ ( θ ) [end_math]
+
+[math] A [end_math]
+
+[math] ∞ [end_math]
+
+[math] [sub] K ∞ [end_sub] = [sub] 𝔽 q [end_sub] ​ ( ( 1 / θ ) ) [end_math]
+
+[math] K [end_math]
+
+[math] ∞ [end_math]
+
+[math] [sub] v ∞ [end_sub] [end_math]
+
+[math] the discrete valuation on K associated to the place ∞ , [end_math]
+
+[math] normalized as [sub] v ∞ [end_sub] ​ ( θ ) = − 1 , [end_math]
+
+[math] | ⋅ [sub] | ∞ [end_sub] = [sup] q [arg] − [sub] v ∞ [end_sub] ​ ( ⋅ ) [end_arg] [end_sup] [end_math]
+
+[math] K [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( n ) [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( n ) := [under] ∑ [arg] a ∈ [sub] A + [end_sub] [end_arg] [end_under] [frac] 1 [arg] [sup] a n [end_sup] [end_arg] [end_frac] ∈ [sub] K ∞ [end_sub] . [end_math]
+
+[math] ζ ​ ( n ) = [sub] ∑ [arg] k ∈ ℕ [end_arg] [end_sub] [frac] 1 [arg] [sup] k n [end_sup] [end_arg] [end_frac] [end_math]
+
+[math] 𝔰 = ( [sub] s 1 [end_sub] , … , [sub] s r [end_sub] ) ∈ [sup] ℕ r [end_sup] [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( 𝔰 ) = ∑ [frac] 1 [arg] [subsup] a 1 [arg] [sub] s 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] a r [arg] [sub] s r [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] . [end_math]
+
+[math] ( [sub] a 1 [end_sub] , … , [sub] a r [end_sub] ) ∈ [subsup] A + r [end_subsup] [end_math]
+
+[math] deg ⁡ ( [sub] a 1 [end_sub] ) > ⋯ > deg ⁡ ( [sub] a r [end_sub] ) [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( 𝔰 ) [end_math]
+
+[math] r [end_math]
+
+[math] w ​ ( 𝔰 ) := [sub] s 1 [end_sub] + ⋯ + [sub] s r [end_sub] [end_math]
+
+[math] 𝔰 = ( [sub] s 1 [end_sub] , … , [sub] s r [end_sub] ) ∈ [sup] ℕ r [end_sup] [end_math]
+
+[math] 𝜺 = ( [sub] ε 1 [end_sub] , … , [sub] ε r [end_sub] ) ∈ [sup] [arg] ( [subsup] 𝔽 q ∗ [end_subsup] ) [end_arg] r [end_sup] [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) = ∑ [frac] [arg] [subsup] ε 1 [arg] deg ⁡ [sub] a 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] ε r [arg] deg ⁡ [sub] a r [end_sub] [end_arg] [end_subsup] [end_arg] [arg] [subsup] a 1 [arg] [sub] s 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] a r [arg] [sub] s r [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] ∈ [sub] K ∞ [end_sub] . [end_math]
+
+[math] ( [sub] a 1 [end_sub] , … , [sub] a r [end_sub] ) ∈ [subsup] A + r [end_subsup] [end_math]
+
+[math] deg ⁡ ( [sub] a 1 [end_sub] ) > ⋯ > deg ⁡ ( [sub] a r [end_sub] ) [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] r [end_math]
+
+[math] w ​ ( 𝔰 ) = [sub] s 1 [end_sub] + ⋯ + [sub] s r [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] [sub] dim K [end_sub] 𝒜 ​ [sub] 𝒵 w [end_sub] = s ​ ( w ) [end_math]
+
+[math] 𝒜 ​ [sub] 𝒵 w [end_sub] [end_math]
+
+[math] w [end_math]
+
+[math] K [end_math]
+
+[math] s ​ ( w ) [end_math]
+
+[math] s ​ ( w ) = { [table] [tr] [td] 1 [end_td] [td] if ​ w = 0 , [end_td] [end_tr] [tr] [td] ( q − 1 ) ​ [sup] q [arg] w − 1 [end_arg] [end_sup] [end_td] [td] if ​ 1 ≤ w ≤ q − 1 , [end_td] [end_tr] [tr] [td] ( q − 1 ) ​ ( [sup] q [arg] w − 1 [end_arg] [end_sup] − 1 ) [end_td] [td] if ​ w = q , [end_td] [end_tr] [tr] [td] ( q − 1 ) ​ [subsup] ∑ [arg] i = 1 [end_arg] [arg] q − 1 [end_arg] [end_subsup] s ​ ( w − i ) + s ​ ( w − q ) [end_td] [td] if ​ w > q . [end_td] [end_tr] [end_table] [end_math]
+
+[math] K [end_math]
+
+[math] 𝒜 ​ [sub] 𝒵 w [end_sub] [end_math]
+
+[math] ℭ [end_math]
+
+[math] n [end_math]
+
+[math] [sub] x n [end_sub] [end_math]
+
+[math] Δ ​ ( [sub] x n [end_sub] ) [end_math]
+
+[math] [sub] x 1 [end_sub] [end_math]
+
+[math] [sub] x n [end_sub] [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] q − 1 [end_math]
+
+[math] 1 [end_math]
+
+[math] Δ [end_math]
+
+[math] x [end_math]
+
+[math] x [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] [sub] 𝔇 N [end_sub] [end_math]
+
+[math] N ∈ ℕ [end_math]
+
+[math] [sub] 𝔇 N [end_sub] [end_math]
+
+[math] [sub] x [arg] n , ε [end_arg] [end_sub] [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] ε [end_math]
+
+[math] N [end_math]
+
+[math] [sub] [arg] [over] 𝔽 ¯ [end_arg] [arg] [end_over] q [end_arg] [end_sub] [end_math]
+
+[math] [sub] K ∞ [end_sub] [end_math]
+
+[math] [sub] K ∞ [end_sub] [end_math]
+
+[math] ℭ [end_math]
+
+[math] ℭ [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] ℭ [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] L [end_math]
+
+[math] k [end_math]
+
+[math] k [end_math]
+
+[math] H [end_math]
+
+[math] k [end_math]
+
+[math] ι : H ⊗ H → H ⊗ H [end_math]
+
+[math] ι ​ ( x ⊗ y ) = y ⊗ x [end_math]
+
+[math] k [end_math]
+
+[math] ( H , m , u ) [end_math]
+
+[math] k [end_math]
+
+[math] H [end_math]
+
+[math] k [end_math]
+
+[math] m : H ⊗ H → H [end_math]
+
+[math] u : k → H [end_math]
+
+[math] H ⊗ H ⊗ H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] m ⊗ id [end_math]
+
+[math] id ⊗ m [end_math]
+
+[math] m [end_math]
+
+[math] m [end_math]
+
+[math] H ⊗ k [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] k ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] id ⊗ u [end_math]
+
+[math] m [end_math]
+
+[math] u ⊗ id [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] m [end_math]
+
+[math] ι [end_math]
+
+[math] m [end_math]
+
+[math] k [end_math]
+
+[math] k [end_math]
+
+[math] k [end_math]
+
+[math] ( H , Δ , ϵ ) [end_math]
+
+[math] k [end_math]
+
+[math] H [end_math]
+
+[math] k [end_math]
+
+[math] Δ : H → H ⊗ H [end_math]
+
+[math] ϵ : H → k [end_math]
+
+[math] ( 1 ) [end_math]
+
+[math] H ⊗ H ⊗ H [end_math]
+
+[math] ⊗ H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] Δ ⊗ id [end_math]
+
+[math] id ⊗ Δ [end_math]
+
+[math] Δ [end_math]
+
+[math] Δ [end_math]
+
+[math] ( 2 ) [end_math]
+
+[math] H ⊗ k [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] k ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] id ⊗ ϵ [end_math]
+
+[math] ϵ ⊗ id [end_math]
+
+[math] Δ [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] ι [end_math]
+
+[math] Δ [end_math]
+
+[math] Δ [end_math]
+
+[math] k [end_math]
+
+[math] ( H , m , u , Δ , ϵ ) [end_math]
+
+[math] ( H , m , u ) [end_math]
+
+[math] k [end_math]
+
+[math] ( H , Δ , ϵ ) [end_math]
+
+[math] k [end_math]
+
+[math] ( 1 ) [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H ⊗ H ⊗ H ⊗ H [end_math]
+
+[math] H ⊗ H ⊗ H ⊗ H [end_math]
+
+[math] Δ ⊗ Δ [end_math]
+
+[math] m [end_math]
+
+[math] Δ [end_math]
+
+[math] id ⊗ ι ⊗ id [end_math]
+
+[math] m ⊗ m [end_math]
+
+[math] ( 2 ) [end_math]
+
+[math] H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] k [end_math]
+
+[math] k ⊗ k [end_math]
+
+[math] Δ [end_math]
+
+[math] u [end_math]
+
+[math] u ⊗ u [end_math]
+
+[math] ( 3 ) [end_math]
+
+[math] H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] k [end_math]
+
+[math] k ⊗ k [end_math]
+
+[math] ϵ [end_math]
+
+[math] ϵ ⊗ ϵ [end_math]
+
+[math] m [end_math]
+
+[math] ( 4 ) [end_math]
+
+[math] k [end_math]
+
+[math] k [end_math]
+
+[math] H [end_math]
+
+[math] u [end_math]
+
+[math] ϵ [end_math]
+
+[math] k [end_math]
+
+[math] ( H , m , u , Δ , ϵ ) [end_math]
+
+[math] k [end_math]
+
+[math] k [end_math]
+
+[math] S : H → H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H [end_math]
+
+[math] k [end_math]
+
+[math] H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] H ⊗ H [end_math]
+
+[math] S ⊗ id [end_math]
+
+[math] m [end_math]
+
+[math] ϵ [end_math]
+
+[math] Δ [end_math]
+
+[math] Δ [end_math]
+
+[math] u [end_math]
+
+[math] id ⊗ S [end_math]
+
+[math] m [end_math]
+
+[math] ( 1 ) [end_math]
+
+[math] ( H , m , u , Δ , ϵ ) [end_math]
+
+[math] k [end_math]
+
+[math] H [end_math]
+
+[math] k [end_math]
+
+[math] H = [underover] ⨁ [arg] n = 0 [end_arg] ∞ [end_underover] [sub] H n [end_sub] , [end_math]
+
+[math] r , s ≥ 0 [end_math]
+
+[math] m ​ ( [sub] H r [end_sub] ⊗ [sub] H s [end_sub] ) ⊆ [sub] H [arg] r + s [end_arg] [end_sub] and Δ ​ ( [sub] H r [end_sub] ) ⊆ [under] ⨁ [arg] i + j = r [end_arg] [end_under] [sub] H i [end_sub] ⊗ [sub] H j [end_sub] . [end_math]
+
+[math] [sub] H 0 [end_sub] = k [end_math]
+
+[math] ( 2 ) [end_math]
+
+[math] H [end_math]
+
+[math] S [end_math]
+
+[math] S ​ ( [sub] H n [end_sub] ) ⊆ [sub] H n [end_sub] [end_math]
+
+[math] ( 3 ) [end_math]
+
+[math] [sub] H 0 [end_sub] = k [end_math]
+
+[math] ( 4 ) [end_math]
+
+[math] [sub] H n [end_sub] [end_math]
+
+[math] k [end_math]
+
+[math] ( H , m , u , Δ , ϵ ) [end_math]
+
+[math] k [end_math]
+
+[math] x ∈ [sub] H n [end_sub] [end_math]
+
+[math] n ≥ 1 [end_math]
+
+[math] Δ ​ ( x ) = 1 ⊗ x + x ⊗ 1 + ∑ [sub] x [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] x [arg] ( 2 ) [end_arg] [end_sub] , [end_math]
+
+[math] ∑ [sub] x [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] x [arg] ( 2 ) [end_arg] [end_sub] ∈ [under] ⨁ [arg] [table] [tr] [td] i , j > 0 [end_td] [end_tr] [tr] [td] i + j = n [end_td] [end_tr] [end_table] [end_arg] [end_under] [sub] H i [end_sub] ⊗ [sub] H j [end_sub] [end_math]
+
+[math] ϵ [end_math]
+
+[math] [sub] H n [end_sub] [end_math]
+
+[math] n ≥ 1 [end_math]
+
+[math] ( 1 ) [end_math]
+
+[math] k [end_math]
+
+[math] S : H → H [end_math]
+
+[math] S ​ ( x ) = { [table] [tr] [td] x [end_td] [td] if ​ x ∈ [sub] H 0 [end_sub] , [end_td] [end_tr] [tr] [td] − x − ∑ m ​ ( S ​ ( [sub] x [arg] ( 1 ) [end_arg] [end_sub] ) ⊗ [sub] x [arg] ( 2 ) [end_arg] [end_sub] ) [end_td] [td] if ​ x ∈ [sub] H n [end_sub] ​ with ​ n ≥ 1 . [end_td] [end_tr] [end_table] [end_math]
+
+[math] H [end_math]
+
+[math] S [end_math]
+
+[math] I [end_math]
+
+[math] A = [sub] [arg] { [sub] x n [end_sub] } [end_arg] [arg] n ∈ I [end_arg] [end_sub] [end_math]
+
+[math] I [end_math]
+
+[math] w ​ ( [sub] x n [end_sub] ) ∈ ℕ [end_math]
+
+[math] A [end_math]
+
+[math] A [end_math]
+
+[math] 1 [end_math]
+
+[math] depth ⁡ ( 𝔞 ) [end_math]
+
+[math] 𝔞 [end_math]
+
+[math] 𝔞 [end_math]
+
+[math] depth ⁡ ( 1 ) = 0 [end_math]
+
+[math] w ​ ( 1 ) = 0 [end_math]
+
+[math] ⟨ A ⟩ [end_math]
+
+[math] A [end_math]
+
+[math] ⟨ A ⟩ [end_math]
+
+[math] [sub] x [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] i n [end_sub] [end_arg] [end_sub] ⋅ [sub] x [arg] [sub] j 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] j m [end_sub] [end_arg] [end_sub] = [sub] x [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] i n [end_sub] [end_arg] [end_sub] ​ [sub] x [arg] [sub] j 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] j m [end_sub] [end_arg] [end_sub] . [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ ⟨ A ⟩ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ⟨ A ⟩ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ ⟨ A ⟩ [end_math]
+
+[math] [sub] x a [end_sub] ∈ A [end_math]
+
+[math] 𝔞 ∈ [sub] 𝔽 q [end_sub] ​ ⟨ A ⟩ [end_math]
+
+[math] [sub] x a [end_sub] ​ 𝔞 [end_math]
+
+[math] [sub] x a [end_sub] ⋅ 𝔞 [end_math]
+
+[math] 𝔞 ∈ ⟨ A ⟩ [end_math]
+
+[math] 𝔞 = [sub] x a [end_sub] ​ [sub] 𝔞 − [end_sub] [end_math]
+
+[math] [sub] x a [end_sub] [end_math]
+
+[math] 𝔞 [end_math]
+
+[math] [sub] 𝔞 − [end_sub] [end_math]
+
+[math] 𝔞 [end_math]
+
+[math] [sub] x a [end_sub] [end_math]
+
+[math] I [end_math]
+
+[math] ℕ [end_math]
+
+[math] Σ = [sub] [arg] { [sub] x n [end_sub] } [end_arg] [arg] n ∈ ℕ [end_arg] [end_sub] [end_math]
+
+[math] w ​ ( [sub] x n [end_sub] ) = n [end_math]
+
+[math] ℭ = [sub] 𝔽 q [end_sub] ​ ⟨ Σ ⟩ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ⟨ Σ ⟩ [end_math]
+
+[math] r , s [end_math]
+
+[math] i , j [end_math]
+
+[math] i + j = r + s [end_math]
+
+[math] [subsup] Δ [arg] r , s [end_arg] i [end_subsup] = { [table] [tr] [td] [sup] [arg] ( − 1 ) [end_arg] [arg] r − 1 [end_arg] [end_sup] ​ ( [frac] [arg] i − 1 [end_arg] [arg] r − 1 [end_arg] [end_frac] ) + [sup] [arg] ( − 1 ) [end_arg] [arg] s − 1 [end_arg] [end_sup] ​ ( [frac] [arg] i − 1 [end_arg] [arg] s − 1 [end_arg] [end_frac] ) [end_td] [td] if ​ ( q − 1 ) ∣ i , [end_td] [end_tr] [tr] [td] 0 [end_td] [td] otherwise . [end_td] [end_tr] [end_table] [end_math]
+
+[math] ℭ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ⋄ : ℭ × ℭ ⟶ ℭ and [error] \shuffle [end_error] : ℭ × ℭ ⟶ ℭ [end_math]
+
+[math] 1 ⋄ 𝔞 = 𝔞 ⋄ 1 = 𝔞 , 1 ​ [error] \shuffle [end_error] ​ 𝔞 = 𝔞 ​ [error] \shuffle [end_error] ​ 1 = 𝔞 [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = [end_math]
+
+[math] [sub] x [arg] a + b [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) , [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 = [end_math]
+
+[math] [sub] x a [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) + [sub] x b [end_sub] ​ ( 𝔞 ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + 𝔞 ⋄ 𝔟 [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] ⋄ [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] u : [sub] 𝔽 q [end_sub] → ℭ [end_math]
+
+[math] 1 [end_math]
+
+[math] ( ℭ , ⋄ ) [end_math]
+
+[math] ( ℭ , [error] \shuffle [end_error] ) [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] Δ : ℭ → ℭ ⊗ ℭ . [end_math]
+
+[math] ⟨ Σ ⟩ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ℭ [end_math]
+
+[math] Δ ​ ( 1 ) := 1 ⊗ 1 , Δ ​ ( [sub] x 1 [end_sub] ) := 1 ⊗ [sub] x 1 [end_sub] + [sub] x 1 [end_sub] ⊗ 1 . [end_math]
+
+[math] w ∈ ℕ [end_math]
+
+[math] Δ ​ ( 𝔲 ) [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] w ​ ( 𝔲 ) < w [end_math]
+
+[math] Δ ​ ( 𝔲 ) [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] w ​ ( 𝔲 ) = w [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] depth ⁡ ( 𝔲 ) > 1 [end_math]
+
+[math] 𝔲 = [sub] x u [end_sub] ​ 𝔳 [end_math]
+
+[math] w ​ ( 𝔳 ) < w [end_math]
+
+[math] [sub] x u [end_sub] [end_math]
+
+[math] 𝔳 [end_math]
+
+[math] w [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ) = 1 ⊗ [sub] x u [end_sub] + ∑ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] , Δ ​ ( 𝔳 ) = ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] . [end_math]
+
+[math] Δ ​ ( 𝔲 ) := 1 ⊗ 𝔲 + ∑ ( [sub] a u [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x w [end_sub] ) [end_math]
+
+[math] [sub] x 1 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] w − 1 [end_arg] [end_sub] = [sub] x w [end_sub] + [sub] x 1 [end_sub] ​ [sub] x [arg] w − 1 [end_arg] [end_sub] + [sub] x [arg] w − 1 [end_arg] [end_sub] ​ [sub] x 1 [end_sub] + [under] ∑ [arg] 0 < j < w [end_arg] [end_under] [subsup] Δ [arg] 1 , w − 1 [end_arg] j [end_subsup] ​ [sub] x [arg] w − j [end_arg] [end_sub] ​ [sub] x j [end_sub] [end_math]
+
+[math] [sub] x [arg] w − j [end_arg] [end_sub] ​ [sub] x j [end_sub] [end_math]
+
+[math] w [end_math]
+
+[math] 2 [end_math]
+
+[math] [subsup] Δ [arg] 1 , w − 1 [end_arg] j [end_subsup] [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] Δ ​ ( [sub] x w [end_sub] ) := Δ ​ ( [sub] x 1 [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x [arg] w − 1 [end_arg] [end_sub] ) − Δ ​ ( [sub] x 1 [end_sub] ​ [sub] x [arg] w − 1 [end_arg] [end_sub] ) − Δ ​ ( [sub] x [arg] w − 1 [end_arg] [end_sub] ​ [sub] x 1 [end_sub] ) − [under] ∑ [arg] 0 < j < w [end_arg] [end_under] [subsup] Δ [arg] 1 , w − 1 [end_arg] j [end_subsup] ​ Δ ​ ( [sub] x [arg] w − j [end_arg] [end_sub] ​ [sub] x j [end_sub] ) . [end_math]
+
+[math] Δ [end_math]
+
+[math] ϵ : ℭ → [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ϵ ​ ( 1 ) = 1 [end_math]
+
+[math] ϵ ​ ( 𝔲 ) = 0 [end_math]
+
+[math] ( ℭ , [error] \shuffle [end_error] , u , Δ , ϵ ) [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] 𝔲 ∈ ℭ [end_math]
+
+[math] Δ ​ ( 𝔲 ) = 1 ⊗ 𝔲 + ∑ [sub] a 𝔲 [end_sub] ⊗ [sub] b 𝔲 [end_sub] , where ​ [sub] a 𝔲 [end_sub] ≠ 1 . [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] 𝔳 [end_math]
+
+[math] ⟨ Σ ⟩ [end_math]
+
+[math] Δ ​ ( 𝔲 ) = 1 ⊗ 𝔲 + ∑ [sub] 𝔲 [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] 𝔲 [arg] ( 2 ) [end_arg] [end_sub] , and Δ ​ ( 𝔳 ) = 1 ⊗ 𝔳 + ∑ [sub] 𝔳 [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] 𝔳 [arg] ( 2 ) [end_arg] [end_sub] . [end_math]
+
+[math] Δ ​ ( 𝔲 ⋄ 𝔳 ) = 1 ⊗ ( 𝔲 ⋄ 𝔳 ) + ∑ ( [sub] 𝔲 [arg] ( 1 ) [end_arg] [end_sub] ⋄ [sub] 𝔳 [arg] ( 1 ) [end_arg] [end_sub] ) ⊗ ( [sub] 𝔲 [arg] ( 2 ) [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔳 [arg] ( 2 ) [end_arg] [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x n [end_sub] ) [end_math]
+
+[math] [sub] x n [end_sub] ∈ Σ [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] j < n [end_math]
+
+[math] [subsup] Δ [arg] 1 , n [end_arg] j [end_subsup] = { [table] [tr] [td] 1 [end_td] [td] if ​ ( q − 1 ) ∣ j [end_td] [end_tr] [tr] [td] 0 [end_td] [td] otherwise . [end_td] [end_tr] [end_table] [end_math]
+
+[math] [subsup] Δ [arg] 1 , n [end_arg] n [end_subsup] = 0 [end_math]
+
+[math] [subsup] Δ [arg] 1 , n [end_arg] j [end_subsup] [end_math]
+
+[math] 𝔞 = [sub] x [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] i m [end_sub] [end_arg] [end_sub] ∈ ⟨ Σ ⟩ [end_math]
+
+[math] [ 𝔞 ] := [sup] [arg] ( − 1 ) [end_arg] m [end_sup] ​ [subsup] Δ [arg] 1 , w ​ ( 𝔞 ) + 1 [end_arg] [arg] [sub] i 1 [end_sub] [end_arg] [end_subsup] ​ ⋯ ​ [subsup] Δ [arg] 1 , w ​ ( 𝔞 ) + 1 [end_arg] [arg] [sub] i m [end_sub] [end_arg] [end_subsup] ​ [sub] x [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ ⋯ ​ [error] \shuffle [end_error] ​ [sub] x [arg] [sub] i m [end_sub] [end_arg] [end_sub] . [end_math]
+
+[math] [ 1 ] = 1 [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] Δ ​ ( [sub] x n [end_sub] ) = 1 ⊗ [sub] x n [end_sub] + [under] ∑ [arg] [table] [tr] [td] r ∈ ℕ , 𝔞 ∈ ⟨ Σ ⟩ [end_td] [end_tr] [tr] [td] r + w ​ ( 𝔞 ) = n [end_td] [end_tr] [end_table] [end_arg] [end_under] ( [frac] [arg] r + depth ⁡ ( 𝔞 ) − 2 [end_arg] [arg] depth ⁡ ( 𝔞 ) [end_arg] [end_frac] ) ​ [sub] x r [end_sub] ⊗ [ 𝔞 ] . [end_math]
+
+[math] 𝔰 = ( [sub] s 1 [end_sub] , … , [sub] s n [end_sub] ) ∈ [sup] ℕ n [end_sup] [end_math]
+
+[math] 𝜺 = ( [sub] ε 1 [end_sub] , … , [sub] ε n [end_sub] ) ∈ [sup] [arg] ( [subsup] 𝔽 q × [end_subsup] ) [end_arg] n [end_sup] [end_math]
+
+[math] [sub] 𝔰 − [end_sub] := ( [sub] s 2 [end_sub] , … , [sub] s n [end_sub] ) [end_math]
+
+[math] [sub] 𝜺 − [end_sub] := ( [sub] ε 2 [end_sub] , … , [sub] ε n [end_sub] ) [end_math]
+
+[math] ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) = ( [table] [tr] [td] [sub] ε 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] ε n [end_sub] [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) . [end_math]
+
+[math] d ∈ ℤ [end_math]
+
+[math] 𝔰 = ( [sub] s 1 [end_sub] , … , [sub] s n [end_sub] ) ∈ [sup] ℕ n [end_sup] [end_math]
+
+[math] [sub] S d [end_sub] ​ ( 𝔰 ) = [under] ∑ [arg] [table] [tr] [td] [sub] a 1 [end_sub] , … , [sub] a n [end_sub] ∈ [sub] A + [end_sub] [end_td] [end_tr] [tr] [td] d = deg ⁡ [sub] a 1 [end_sub] > ⋯ > deg ⁡ [sub] a n [end_sub] ≥ 0 [end_td] [end_tr] [end_table] [end_arg] [end_under] [frac] 1 [arg] [subsup] a 1 [arg] [sub] s 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] a n [arg] [sub] s n [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] ∈ K [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] ​ ( 𝔰 ) = [under] ∑ [arg] [table] [tr] [td] [sub] a 1 [end_sub] , … , [sub] a n [end_sub] ∈ [sub] A + [end_sub] [end_td] [end_tr] [tr] [td] d > deg ⁡ [sub] a 1 [end_sub] > ⋯ > deg ⁡ [sub] a n [end_sub] ≥ 0 [end_td] [end_tr] [end_table] [end_arg] [end_under] [frac] 1 [arg] [subsup] a 1 [arg] [sub] s 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] a n [arg] [sub] s n [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] ∈ K . [end_math]
+
+[math] ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) = ( [table] [tr] [td] [sub] ε 1 [end_sub] [end_td] [td] … [end_td] [td] [sub] ε n [end_sub] [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] … [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] [sub] S d [end_sub] ​ ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) = [under] ∑ [arg] [table] [tr] [td] [sub] a 1 [end_sub] , … , [sub] a n [end_sub] ∈ [sub] A + [end_sub] [end_td] [end_tr] [tr] [td] d = deg ⁡ [sub] a 1 [end_sub] > ⋯ > deg ⁡ [sub] a n [end_sub] ≥ 0 [end_td] [end_tr] [end_table] [end_arg] [end_under] [frac] [arg] [subsup] ε 1 [arg] deg ⁡ [sub] a 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] ε n [arg] deg ⁡ [sub] a n [end_sub] [end_arg] [end_subsup] [end_arg] [arg] [subsup] a 1 [arg] [sub] s 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] a n [arg] [sub] s n [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] ∈ K [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] ​ ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) = [under] ∑ [arg] [table] [tr] [td] [sub] a 1 [end_sub] , … , [sub] a n [end_sub] ∈ [sub] A + [end_sub] [end_td] [end_tr] [tr] [td] d > deg ⁡ [sub] a 1 [end_sub] > ⋯ > deg ⁡ [sub] a n [end_sub] ≥ 0 [end_td] [end_tr] [end_table] [end_arg] [end_under] [frac] [arg] [subsup] ε 1 [arg] deg ⁡ [sub] a 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] ε n [arg] deg ⁡ [sub] a n [end_sub] [end_arg] [end_subsup] [end_arg] [arg] [subsup] a 1 [arg] [sub] s 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] a n [arg] [sub] s n [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] ∈ K . [end_math]
+
+[math] [sub] S d [end_sub] ​ ( [table] [tr] [td] ε [end_td] [end_tr] [tr] [td] s [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] = [sup] ε d [end_sup] ​ [sub] S d [end_sub] ​ ( s ) , [end_math]
+
+[math] [sub] S d [end_sub] ​ ( [table] [tr] [td] 1 [end_td] [td] … [end_td] [td] 1 [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] … [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] = [sub] S d [end_sub] ​ ( [sub] s 1 [end_sub] , … , [sub] s n [end_sub] ) , [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] ​ ( [table] [tr] [td] 1 [end_td] [td] … [end_td] [td] 1 [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] … [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] = [sub] S [arg] < d [end_arg] [end_sub] ​ ( [sub] s 1 [end_sub] , … , [sub] s n [end_sub] ) , [end_math]
+
+[math] [sub] S d [end_sub] ​ ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] = [sub] S d [end_sub] ​ ( [table] [tr] [td] [sub] ε 1 [end_sub] [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [end_tr] [end_table] ) ​ [sub] S [arg] < d [end_arg] [end_sub] ​ ( [table] [tr] [td] [sub] 𝜺 − [end_sub] [end_td] [end_tr] [tr] [td] [sub] 𝔰 − [end_sub] [end_td] [end_tr] [end_table] ) . [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) := [under] ∑ [arg] d ≥ 0 [end_arg] [end_under] [sub] S d [end_sub] ​ ( [table] [tr] [td] 𝜺 [end_td] [end_tr] [tr] [td] 𝔰 [end_td] [end_tr] [end_table] ) = [under] ∑ [arg] [table] [tr] [td] [sub] a 1 [end_sub] , … , [sub] a n [end_sub] ∈ [sub] A + [end_sub] [end_td] [end_tr] [tr] [td] deg ⁡ [sub] a 1 [end_sub] > ⋯ > deg ⁡ [sub] a n [end_sub] ≥ 0 [end_td] [end_tr] [end_table] [end_arg] [end_under] [frac] [arg] [subsup] ε 1 [arg] deg ⁡ [sub] a 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] ε n [arg] deg ⁡ [sub] a n [end_sub] [end_arg] [end_subsup] [end_arg] [arg] [subsup] a 1 [arg] [sub] s 1 [end_sub] [end_arg] [end_subsup] ​ … ​ [subsup] a n [arg] [sub] s n [end_sub] [end_arg] [end_subsup] [end_arg] [end_frac] ∈ [sub] K ∞ [end_sub] . [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] a , b [end_math]
+
+[math] b ≥ 0 [end_math]
+
+[math] ( [frac] a b [end_frac] ) := [end_math]
+
+[math] [frac] [arg] a ​ ( a − 1 ) ​ … ​ ( a − b + 1 ) [end_arg] [arg] b ! [end_arg] [end_frac] . [end_math]
+
+[math] ( [frac] a b [end_frac] ) = 0 [end_math]
+
+[math] b > a ≥ 0 [end_math]
+
+[math] r , s [end_math]
+
+[math] d ∈ ℕ [end_math]
+
+[math] [sub] S d [end_sub] ​ ( r ) ​ [sub] S d [end_sub] ​ ( s ) = [sub] S d [end_sub] ​ ( r + s ) + [under] ∑ [arg] i + j = r + s [end_arg] [end_under] [subsup] Δ [arg] r , s [end_arg] j [end_subsup] ​ [sub] S d [end_sub] ​ ( i , j ) , [end_math]
+
+[math] [subsup] Δ [arg] r , s [end_arg] j [end_subsup] [end_math]
+
+[math] α , β [end_math]
+
+[math] [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] r , s [end_math]
+
+[math] d ∈ ℕ [end_math]
+
+[math] [sub] S d [end_sub] ​ ( [table] [tr] [td] α [end_td] [end_tr] [tr] [td] r [end_td] [end_tr] [end_table] ) ​ [sub] S d [end_sub] ​ ( [table] [tr] [td] β [end_td] [end_tr] [tr] [td] s [end_td] [end_tr] [end_table] ) = [sub] S d [end_sub] ​ ( [table] [tr] [td] α ​ β [end_td] [end_tr] [tr] [td] r + s [end_td] [end_tr] [end_table] ) + [under] ∑ [arg] i + j = r + s [end_arg] [end_under] [subsup] Δ [arg] r , s [end_arg] j [end_subsup] ​ [sub] S d [end_sub] ​ ( [table] [tr] [td] α ​ β [end_td] [td] 1 [end_td] [end_tr] [tr] [td] i [end_td] [td] j [end_td] [end_tr] [end_table] ) , [end_math]
+
+[math] i , j [end_math]
+
+[math] I = { ( n , ε ) : n ∈ ℕ , ε ∈ [subsup] 𝔽 q ∗ [end_subsup] } [end_math]
+
+[math] Γ = [sub] [arg] { [sub] x [arg] n , ε [end_arg] [end_sub] } [end_arg] [arg] n ∈ ℕ , ε ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_arg] [end_sub] [end_math]
+
+[math] I [end_math]
+
+[math] w ​ ( [sub] x [arg] n , ε [end_arg] [end_sub] ) = n [end_math]
+
+[math] 𝔇 := [sub] 𝔽 q [end_sub] ​ ⟨ Γ ⟩ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ⟨ Γ ⟩ [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ⋄ : 𝔇 × 𝔇 ⟶ 𝔇 and [error] \shuffle [end_error] : 𝔇 × 𝔇 ⟶ 𝔇 [end_math]
+
+[math] 1 ⋄ 𝔞 = 𝔞 ⋄ 1 = 𝔞 , [end_math]
+
+[math] 1 ​ [error] \shuffle [end_error] ​ 𝔞 = 𝔞 ​ [error] \shuffle [end_error] ​ 1 = 𝔞 [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x [arg] j , 1 [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) , [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 = [end_math]
+
+[math] [sub] x [arg] a , α [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) + [sub] x [arg] b , β [end_arg] [end_sub] ​ ( 𝔞 ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + 𝔞 ⋄ 𝔟 [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔞 = [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] , 𝔟 = [sub] x [arg] b , β [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] ⋄ [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = 𝔟 ⋄ 𝔞 and 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 = 𝔟 ​ [error] \shuffle [end_error] ​ 𝔞 . [end_math]
+
+[math] depth ​ ( 𝔞 ) + depth ​ ( 𝔟 ) [end_math]
+
+[math] 𝔞 [end_math]
+
+[math] 𝔟 [end_math]
+
+[math] depth ​ ( 𝔞 ) + depth ​ ( 𝔟 ) < n [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] n ≥ 2 [end_math]
+
+[math] depth ​ ( 𝔞 ) + depth ​ ( 𝔟 ) = n [end_math]
+
+[math] 𝔞 = [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] , 𝔟 = [sub] x [arg] b , β [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x [arg] j , 1 [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) , [end_math]
+
+[math] 𝔟 ⋄ 𝔞 = [end_math]
+
+[math] [sub] x [arg] b + a , β ​ α [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔞 − [end_sub] ) + [under] ∑ [arg] i + j = b + a [end_arg] [end_under] [subsup] Δ [arg] b , a [end_arg] j [end_subsup] ​ [sub] x [arg] i , β ​ α [end_arg] [end_sub] ​ ( [sub] x [arg] j , 1 [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔞 − [end_sub] ) ) . [end_math]
+
+[math] [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] = [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔞 − [end_sub] [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = 𝔟 ⋄ 𝔞 [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 = [end_math]
+
+[math] [sub] x [arg] a , α [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) + [sub] x [arg] b , β [end_arg] [end_sub] ​ ( 𝔞 ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + 𝔞 ⋄ 𝔟 , [end_math]
+
+[math] 𝔟 ​ [error] \shuffle [end_error] ​ 𝔞 = [end_math]
+
+[math] [sub] x [arg] b , β [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔞 ) + [sub] x [arg] a , α [end_arg] [end_sub] ​ ( 𝔟 ​ [error] \shuffle [end_error] ​ [sub] 𝔞 − [end_sub] ) + 𝔟 ⋄ 𝔞 . [end_math]
+
+[math] [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 = 𝔟 ​ [error] \shuffle [end_error] ​ [sub] 𝔞 − [end_sub] , 𝔞 ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] = [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔞 [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = 𝔟 ⋄ 𝔞 [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 = 𝔟 ​ [error] \shuffle [end_error] ​ 𝔞 [end_math]
+
+[math] α ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] [sub] φ α [end_sub] : ℭ ⟶ 𝔇 , [end_math]
+
+[math] 1 ∈ ⟨ Σ ⟩ [end_math]
+
+[math] 1 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] [sub] x [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ​ [sub] x [arg] [sub] i 2 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] i n [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sub] x [arg] [sub] i 1 [end_sub] , α [end_arg] [end_sub] ​ [sub] x [arg] [sub] i 2 [end_sub] , 1 [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] i n [end_sub] , 1 [end_arg] [end_sub] [end_math]
+
+[math] 𝔞 ∈ ⟨ Σ ⟩ [end_math]
+
+[math] 𝔞 = [sub] x a [end_sub] ​ [sub] 𝔞 − [end_sub] [end_math]
+
+[math] [sub] φ α [end_sub] ​ ( 𝔞 ) = [sub] φ α [end_sub] ​ ( [sub] x a [end_sub] ) ​ [sub] φ 1 [end_sub] ​ ( [sub] 𝔞 − [end_sub] ) = [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] φ 1 [end_sub] ​ ( [sub] 𝔞 − [end_sub] ) . [end_math]
+
+[math] w ​ ( [sub] φ α [end_sub] ​ ( 𝔞 ) ) = w ​ ( 𝔞 ) [end_math]
+
+[math] α ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] 𝔞 ∈ ℭ [end_math]
+
+[math] 𝔞 , 𝔟 [end_math]
+
+[math] ⟨ Σ ⟩ [end_math]
+
+[math] [sub] φ 1 [end_sub] ​ ( 𝔞 ⋄ 𝔟 ) = [sub] φ 1 [end_sub] ​ ( 𝔞 ) ⋄ [sub] φ 1 [end_sub] ​ ( 𝔟 ) and [sub] φ 1 [end_sub] ​ ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) = [sub] φ 1 [end_sub] ​ ( 𝔞 ) ​ [error] \shuffle [end_error] ​ [sub] φ 1 [end_sub] ​ ( 𝔟 ) . [end_math]
+
+[math] depth ​ ( 𝔞 ) + depth ​ ( 𝔟 ) [end_math]
+
+[math] [sub] φ 1 [end_sub] [end_math]
+
+[math] ( ℭ , ⋄ ) [end_math]
+
+[math] ( 𝔇 , ⋄ ) [end_math]
+
+[math] ( ℭ , [error] \shuffle [end_error] ) [end_math]
+
+[math] ( 𝔇 , [error] \shuffle [end_error] ) [end_math]
+
+[math] [sub] φ 1 [end_sub] [end_math]
+
+[math] 𝔞 ∈ ℭ [end_math]
+
+[math] 𝔞 ∈ 𝔇 [end_math]
+
+[math] [sub] φ 1 [end_sub] ​ ( 𝔞 ) ∈ 𝔇 [end_math]
+
+[math] [sub] φ α [end_sub] : 𝔇 → 𝔇 ; 1 ↦ 1 , 𝔲 ↦ [sub] x [arg] u , α ​ ε [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] [end_math]
+
+[math] 𝔲 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , ε [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] [end_math]
+
+[math] 𝔞 ∈ ℭ [end_math]
+
+[math] [sub] φ 1 [end_sub] ​ ( 𝔞 ) ∈ 𝔇 [end_math]
+
+[math] 𝔲 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , ε [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] [end_math]
+
+[math] α ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] [sub] φ α [end_sub] ​ ( 𝔲 ) = [sub] φ α [end_sub] ​ ( [sub] x [arg] u , ε [end_arg] [end_sub] ) ​ [sub] 𝔲 − [end_sub] . [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] α , β [end_math]
+
+[math] [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] 𝔞 , 𝔟 [end_math]
+
+[math] ⟨ Σ ⟩ [end_math]
+
+[math] [sub] φ α [end_sub] ​ ( 𝔞 ) ⋄ [sub] φ β [end_sub] ​ ( 𝔟 ) = [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( 𝔞 ⋄ 𝔟 ) . [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] [sub] φ α [end_sub] ​ ( 𝔞 ) ⋄ [sub] φ β [end_sub] ​ ( 𝔟 ) = [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( 𝔞 ⋄ 𝔟 ) . [end_math]
+
+[math] ⟨ Σ ⟩ [end_math]
+
+[math] 𝔞 = [sub] x a [end_sub] ​ [sub] 𝔞 − [end_sub] , 𝔟 = [sub] x b [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] [sub] x a [end_sub] , [sub] x b [end_sub] ∈ Σ [end_math]
+
+[math] [sub] 𝔞 − [end_sub] , [sub] 𝔟 − [end_sub] ∈ ⟨ Σ ⟩ [end_math]
+
+[math] [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( 𝔞 ⋄ 𝔟 ) = [end_math]
+
+[math] [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x [arg] a + b [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] = [end_math]
+
+[math] [sub] φ α [end_sub] ​ ( 𝔞 ) ⋄ [sub] φ β [end_sub] ​ ( 𝔟 ) . [end_math]
+
+[math] ⟨ Γ ⟩ [end_math]
+
+[math] 𝔞 = [sub] x [arg] a , [sub] ε 1 [end_sub] [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] [end_math]
+
+[math] 𝔟 = [sub] x [arg] b , [sub] ε 2 [end_sub] [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] [sub] x [arg] a , [sub] ε 1 [end_sub] [end_arg] [end_sub] , [sub] x [arg] b , [sub] ε 2 [end_sub] [end_arg] [end_sub] ∈ Γ [end_math]
+
+[math] [sub] 𝔞 − [end_sub] , [sub] 𝔟 − [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( 𝔞 ⋄ 𝔟 ) = [end_math]
+
+[math] [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x [arg] a + b , [sub] ε 1 [end_sub] ​ [sub] ε 2 [end_sub] [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , [sub] ε 1 [end_sub] ​ [sub] ε 2 [end_sub] [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β ​ [sub] ε 1 [end_sub] ​ [sub] ε 2 [end_sub] [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β ​ [sub] ε 1 [end_sub] ​ [sub] ε 2 [end_sub] [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a , α ​ [sub] ε 1 [end_sub] [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] ⋄ [sub] x [arg] b , β ​ [sub] ε 2 [end_sub] [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] = [end_math]
+
+[math] [sub] φ α [end_sub] ​ ( 𝔞 ) ⋄ [sub] φ β [end_sub] ​ ( 𝔟 ) . [end_math]
+
+[math] α , β ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] 𝔞 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( 𝔞 ) = [sub] φ α [end_sub] ​ ( [sub] φ β [end_sub] ​ ( 𝔞 ) ) . [end_math]
+
+[math] Γ [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] [sub] x [arg] a , α [end_arg] [end_sub] , [sub] x [arg] b , β [end_arg] [end_sub] , [sub] x [arg] c , γ [end_arg] [end_sub] [end_math]
+
+[math] Γ [end_math]
+
+[math] ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] = [sub] x [arg] a , α [end_arg] [end_sub] ⋄ ( [sub] x [arg] b , β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) . [end_math]
+
+[math] ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] [end_math]
+
+[math] = ( [sub] φ α [end_sub] ​ ( [sub] x a [end_sub] ) ⋄ [sub] φ β [end_sub] ​ ( [sub] x b [end_sub] ) ) ⋄ [sub] φ γ [end_sub] ​ ( [sub] x c [end_sub] ) [end_math]
+
+[math] = [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x a [end_sub] ⋄ [sub] x b [end_sub] ) ⋄ [sub] φ γ [end_sub] ​ ( [sub] x c [end_sub] ) [end_math]
+
+[math] = [sub] φ [arg] α ​ β ​ γ [end_arg] [end_sub] ​ ( ( [sub] x a [end_sub] ⋄ [sub] x b [end_sub] ) ⋄ [sub] x c [end_sub] ) , [end_math]
+
+[math] [sub] x [arg] a , α [end_arg] [end_sub] ⋄ ( [sub] x [arg] b , β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) [end_math]
+
+[math] = [sub] φ α [end_sub] ​ ( [sub] x a [end_sub] ) ⋄ ( [sub] φ β [end_sub] ​ ( [sub] x b [end_sub] ) ⋄ [sub] φ γ [end_sub] ​ ( [sub] x c [end_sub] ) ) [end_math]
+
+[math] = [sub] φ α [end_sub] ​ ( [sub] x a [end_sub] ) ⋄ [sub] φ [arg] β ​ γ [end_arg] [end_sub] ​ ( [sub] x b [end_sub] ⋄ [sub] x c [end_sub] ) [end_math]
+
+[math] = [sub] φ [arg] α ​ β ​ γ [end_arg] [end_sub] ​ ( [sub] x a [end_sub] ⋄ ( [sub] x b [end_sub] ⋄ [sub] x c [end_sub] ) ) . [end_math]
+
+[math] ℭ [end_math]
+
+[math] ( [sub] x a [end_sub] ⋄ [sub] x b [end_sub] ) ⋄ [sub] x c [end_sub] = [sub] x a [end_sub] ⋄ ( [sub] x b [end_sub] ⋄ [sub] x c [end_sub] ) [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ▷ : 𝔇 × 𝔇 ⟶ 𝔇 [end_math]
+
+[math] 1 ▷ 𝔞 = 𝔞 ▷ 1 = 𝔞 [end_math]
+
+[math] 𝔞 ▷ 𝔟 = [end_math]
+
+[math] [sub] x [arg] a , α [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔞 = [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] [end_math]
+
+[math] ▷ [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔞 = [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] , 𝔟 = [sub] x [arg] b , β [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 = 𝔞 ▷ 𝔟 + 𝔟 ▷ 𝔞 + 𝔞 ⋄ 𝔟 [end_math]
+
+[math] 𝔞 ⋄ 𝔟 = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ) ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ) ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) . [end_math]
+
+[math] ( 1 ) [end_math]
+
+[math] ( 2 ) [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] 𝔞 , 𝔟 , 𝔠 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] ( 𝔞 ⋄ 𝔟 ) ⋄ 𝔠 = 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) and ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔠 = 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔟 ​ [error] \shuffle [end_error] ​ 𝔠 ) . [end_math]
+
+[math] depth ​ ( 𝔞 ) + depth ​ ( 𝔟 ) + depth ​ ( 𝔠 ) [end_math]
+
+[math] 𝔞 , 𝔟 [end_math]
+
+[math] 𝔠 [end_math]
+
+[math] depth ​ ( 𝔞 ) + depth ​ ( 𝔟 ) + depth ​ ( 𝔠 ) < n [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] n ≥ 3 [end_math]
+
+[math] depth ​ ( 𝔞 ) + depth ​ ( 𝔟 ) + depth ​ ( 𝔠 ) = n [end_math]
+
+[math] ( 𝔞 ⋄ 𝔟 ) ⋄ 𝔠 = 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) [end_math]
+
+[math] 𝔞 = [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] , 𝔟 = [sub] x [arg] b , β [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] = 𝔠 = [sub] x [arg] c , γ [end_arg] [end_sub] ​ [sub] 𝔠 − [end_sub] [end_math]
+
+[math] ( 𝔞 [end_math]
+
+[math] ⋄ 𝔟 ) ⋄ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ) ⋄ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ⋄ 𝔠 + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ⋄ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) . [end_math]
+
+[math] i , j ∈ ℕ [end_math]
+
+[math] i + j = a + b [end_math]
+
+[math] ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] i + c , α ​ β ​ γ [end_arg] [end_sub] + [under] ∑ [arg] [sub] i 1 [end_sub] + [sub] j 1 [end_sub] = i + c [end_arg] [end_under] [subsup] Δ [arg] i , c [end_arg] [arg] [sub] j 1 [end_sub] [end_arg] [end_subsup] ​ [sub] x [arg] [sub] i 1 [end_sub] , α ​ β ​ γ [end_arg] [end_sub] ​ [sub] x [arg] [sub] j 1 [end_sub] [end_arg] [end_sub] ) ▷ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] i + c , α ​ β ​ γ [end_arg] [end_sub] ▷ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ) [end_math]
+
+[math] + [under] ∑ [arg] [sub] i 1 [end_sub] + [sub] j 1 [end_sub] = i + c [end_arg] [end_under] [subsup] Δ [arg] i , c [end_arg] [arg] [sub] j 1 [end_sub] [end_arg] [end_subsup] ​ [sub] x [arg] [sub] i 1 [end_sub] , α ​ β ​ γ [end_arg] [end_sub] ​ [sub] x [arg] [sub] j 1 [end_sub] [end_arg] [end_sub] ▷ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] i + c , α ​ β ​ γ [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ) [end_math]
+
+[math] + [under] ∑ [arg] [sub] i 1 [end_sub] + [sub] j 1 [end_sub] = i + c [end_arg] [end_under] [subsup] Δ [arg] i , c [end_arg] [arg] [sub] j 1 [end_sub] [end_arg] [end_subsup] ​ [sub] x [arg] [sub] i 1 [end_sub] , α ​ β ​ γ [end_arg] [end_sub] ​ ( ( [sub] x [arg] [sub] j 1 [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ) ​ [error] \shuffle [end_error] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] i + c , α ​ β ​ γ [end_arg] [end_sub] ​ [sub] x j [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] [sub] i 1 [end_sub] + [sub] j 1 [end_sub] = i + c [end_arg] [end_under] [subsup] Δ [arg] i , c [end_arg] [arg] [sub] j 1 [end_sub] [end_arg] [end_subsup] ​ [sub] x [arg] [sub] i 1 [end_sub] , α ​ β ​ γ [end_arg] [end_sub] ​ ( [sub] x [arg] [sub] j 1 [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] i + c , α ​ β ​ γ [end_arg] [end_sub] ​ [sub] x j [end_sub] + [under] ∑ [arg] [sub] i 1 [end_sub] + [sub] j 1 [end_sub] = i + c [end_arg] [end_under] [subsup] Δ [arg] i , c [end_arg] [arg] [sub] j 1 [end_sub] [end_arg] [end_subsup] ​ [sub] x [arg] [sub] i 1 [end_sub] , α ​ β ​ γ [end_arg] [end_sub] ​ ( [sub] x [arg] [sub] j 1 [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ) ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ) ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) . [end_math]
+
+[math] ( 𝔞 [end_math]
+
+[math] ⋄ 𝔟 ) ⋄ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ ( ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ) ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) . [end_math]
+
+[math] 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) [end_math]
+
+[math] = ( 𝔟 ⋄ 𝔠 ) ⋄ 𝔞 [end_math]
+
+[math] = ( ( [sub] x [arg] b , β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ⋄ [sub] x [arg] a , α [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔞 − [end_sub] ) [end_math]
+
+[math] = ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ ( [sub] x [arg] b , β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ) ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) ) . [end_math]
+
+[math] ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] = [sub] x [arg] a , α [end_arg] [end_sub] ⋄ ( [sub] x [arg] b , β [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) [end_math]
+
+[math] ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] = [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) [end_math]
+
+[math] ( 𝔞 ⋄ 𝔟 ) ⋄ 𝔠 = 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) [end_math]
+
+[math] ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔠 = 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔟 ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔠 = [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 + 𝔟 ▷ 𝔞 + 𝔞 ⋄ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔠 + ( 𝔟 ▷ 𝔞 ) ​ [error] \shuffle [end_error] ​ 𝔠 + ( 𝔞 ⋄ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] ( ( 𝔞 ▷ 𝔟 ) ▷ 𝔠 + 𝔠 ▷ ( 𝔞 ▷ 𝔟 ) + ( 𝔞 ▷ 𝔟 ) ⋄ 𝔠 ) [end_math]
+
+[math] + ( ( 𝔟 ▷ 𝔞 ) ▷ 𝔠 + 𝔠 ▷ ( 𝔟 ▷ 𝔞 ) + ( 𝔟 ▷ 𝔞 ) ⋄ 𝔠 ) [end_math]
+
+[math] + ( ( 𝔞 ⋄ 𝔟 ) ▷ 𝔠 + 𝔠 ▷ ( 𝔞 ⋄ 𝔟 ) + ( 𝔞 ⋄ 𝔟 ) ⋄ 𝔠 ) [end_math]
+
+[math] = [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ▷ 𝔠 + ( 𝔞 ▷ 𝔟 ) ⋄ 𝔠 + ( 𝔟 ▷ 𝔞 ) ▷ 𝔠 + ( 𝔟 ▷ 𝔞 ) ⋄ 𝔠 + ( 𝔞 ⋄ 𝔟 ) ▷ 𝔠 [end_math]
+
+[math] + ( 𝔠 ▷ ( 𝔞 ▷ 𝔟 ) + 𝔠 ▷ ( 𝔟 ▷ 𝔞 ) + 𝔠 ▷ ( 𝔞 ⋄ 𝔟 ) ) + ( 𝔞 ⋄ 𝔟 ) ⋄ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ▷ 𝔠 + ( 𝔞 ▷ 𝔟 ) ⋄ 𝔠 + ( 𝔟 ▷ 𝔞 ) ▷ 𝔠 + ( 𝔟 ▷ 𝔞 ) ⋄ 𝔠 + ( 𝔞 ⋄ 𝔟 ) ▷ 𝔠 [end_math]
+
+[math] + 𝔠 ▷ ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) + ( 𝔞 ⋄ 𝔟 ) ⋄ 𝔠 [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔟 ​ [error] \shuffle [end_error] ​ 𝔠 ) = [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔟 ▷ 𝔠 + 𝔠 ▷ 𝔟 + 𝔟 ⋄ 𝔠 ) [end_math]
+
+[math] = [end_math]
+
+[math] 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔟 ▷ 𝔠 ) + 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔠 ▷ 𝔟 ) + 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔟 ⋄ 𝔠 ) [end_math]
+
+[math] = [end_math]
+
+[math] ( 𝔞 ▷ ( 𝔟 ▷ 𝔠 ) + ( 𝔟 ▷ 𝔠 ) ▷ 𝔞 + 𝔞 ⋄ ( 𝔟 ▷ 𝔠 ) ) [end_math]
+
+[math] + ( 𝔞 ▷ ( 𝔠 ▷ 𝔟 ) + ( 𝔠 ▷ 𝔟 ) ▷ 𝔞 + 𝔞 ⋄ ( 𝔠 ▷ 𝔟 ) ) [end_math]
+
+[math] + ( 𝔞 ▷ ( 𝔟 ⋄ 𝔠 ) + ( 𝔟 ⋄ 𝔠 ) ▷ 𝔞 + 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) ) [end_math]
+
+[math] = [end_math]
+
+[math] ( 𝔟 ▷ 𝔠 ) ▷ 𝔞 + 𝔞 ⋄ ( 𝔟 ▷ 𝔠 ) + ( 𝔠 ▷ 𝔟 ) ▷ 𝔞 + 𝔞 ⋄ ( 𝔠 ▷ 𝔟 ) + ( 𝔟 ⋄ 𝔠 ) ▷ 𝔞 [end_math]
+
+[math] + ( 𝔞 ▷ ( 𝔟 ▷ 𝔠 ) + 𝔞 ▷ ( 𝔠 ▷ 𝔟 ) + 𝔞 ▷ ( 𝔟 ⋄ 𝔠 ) ) + 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) [end_math]
+
+[math] = [end_math]
+
+[math] ( 𝔟 ▷ 𝔠 ) ▷ 𝔞 + 𝔞 ⋄ ( 𝔟 ▷ 𝔠 ) + ( 𝔠 ▷ 𝔟 ) ▷ 𝔞 + 𝔞 ⋄ ( 𝔠 ▷ 𝔟 ) + ( 𝔟 ⋄ 𝔠 ) ▷ 𝔞 [end_math]
+
+[math] + 𝔞 ▷ ( 𝔟 ​ [error] \shuffle [end_error] ​ 𝔠 ) + 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) . [end_math]
+
+[math] ( 𝔞 ⋄ 𝔟 ) ⋄ 𝔠 = 𝔞 ⋄ ( 𝔟 ⋄ 𝔠 ) [end_math]
+
+[math] 𝔠 ▷ ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) = [sub] x [arg] c , γ [end_arg] [end_sub] ​ ( [sub] 𝔠 − [end_sub] ​ [error] \shuffle [end_error] ​ ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) ) and ( 𝔠 ▷ 𝔟 ) ▷ 𝔞 = [sub] x [arg] c , γ [end_arg] [end_sub] ​ ( [sub] 𝔠 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) ▷ 𝔞 = [sub] x [arg] c , γ [end_arg] [end_sub] ​ ( ( [sub] 𝔠 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔞 ) . [end_math]
+
+[math] 𝔠 ▷ ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) = ( 𝔠 ▷ 𝔟 ) ▷ 𝔞 [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ▷ 𝔠 = 𝔞 ▷ ( 𝔟 ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ⋄ 𝔠 = [sub] x [arg] a , α [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) ⋄ 𝔠 = ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) ​ [error] \shuffle [end_error] ​ [sub] 𝔠 − [end_sub] ) , [end_math]
+
+[math] 𝔞 ⋄ ( 𝔠 ▷ 𝔟 ) = 𝔞 ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ​ ( [sub] 𝔠 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) = ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] c , γ [end_arg] [end_sub] ) ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔠 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) ) . [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ⋄ 𝔠 = 𝔞 ⋄ ( 𝔠 ▷ 𝔟 ) [end_math]
+
+[math] [table] [tr] [td] ( 𝔟 ▷ 𝔞 ) ▷ 𝔠 = [end_td] [td] [sub] x [arg] b , β [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔞 ) ▷ 𝔠 [end_td] [end_tr] [tr] [td] = [end_td] [td] [sub] x [arg] b , β [end_arg] [end_sub] ​ ( ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔞 ) ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_td] [end_tr] [end_table] and [table] [tr] [td] ( 𝔟 ▷ 𝔠 ) ▷ 𝔞 = [end_td] [td] [sub] x [arg] b , β [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔠 ) ▷ 𝔞 [end_td] [end_tr] [tr] [td] = [end_td] [td] [sub] x [arg] b , β [end_arg] [end_sub] ​ ( ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔠 ) ​ [error] \shuffle [end_error] ​ 𝔞 ) . [end_td] [end_tr] [end_table] [end_math]
+
+[math] ( 𝔟 ▷ 𝔞 ) ▷ 𝔠 = ( 𝔟 ▷ 𝔠 ) ▷ 𝔞 [end_math]
+
+[math] ( 𝔞 ⋄ 𝔟 ) ▷ 𝔠 = [end_math]
+
+[math] ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ) ▷ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ▷ 𝔠 + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ▷ 𝔠 [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ 𝔠 ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ) ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ 𝔠 ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ 𝔠 ) ) [end_math]
+
+[math] = [end_math]
+
+[math] [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ 𝔠 ) + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] + [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] = [end_math]
+
+[math] ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ▷ ( ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔟 − [end_sub] ) ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] 𝔞 ⋄ ( 𝔟 ▷ 𝔠 ) = 𝔞 ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔠 ) = ( [sub] x [arg] a , α [end_arg] [end_sub] ⋄ [sub] x [arg] b , β [end_arg] [end_sub] ) ▷ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] 𝔟 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔠 ) ) . [end_math]
+
+[math] ( 𝔞 ⋄ 𝔟 ) ▷ 𝔠 = 𝔞 ⋄ ( 𝔟 ▷ 𝔠 ) [end_math]
+
+[math] ( 𝔟 ▷ 𝔞 ) ⋄ 𝔠 = ( 𝔟 ⋄ 𝔠 ) ▷ 𝔞 [end_math]
+
+[math] ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) ​ [error] \shuffle [end_error] ​ 𝔠 = 𝔞 ​ [error] \shuffle [end_error] ​ ( 𝔟 ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] ℭ [end_math]
+
+[math] u : [sub] 𝔽 q [end_sub] → 𝔇 [end_math]
+
+[math] 1 ∈ [sub] 𝔽 q [end_sub] [end_math]
+
+[math] 1 ∈ 𝔇 [end_math]
+
+[math] ( 𝔇 , ⋄ ) [end_math]
+
+[math] ( 𝔇 , [error] \shuffle [end_error] ) [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ▷ [end_math]
+
+[math] ⋄ [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] 𝔞 , 𝔟 , 𝔠 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ▷ 𝔠 = 𝔞 ▷ ( 𝔟 ​ [error] \shuffle [end_error] ​ 𝔠 ) [end_math]
+
+[math] ( 𝔞 ▷ 𝔟 ) ⋄ 𝔠 = 𝔞 ⋄ ( 𝔠 ▷ 𝔟 ) = ( 𝔞 ⋄ 𝔠 ) ▷ 𝔟 [end_math]
+
+[math] d ∈ ℤ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] : 𝔇 → [sub] K ∞ [end_sub] and [sub] ζ A [end_sub] : 𝔇 → [sub] K ∞ [end_sub] , [end_math]
+
+[math] 1 ∈ 𝔇 [end_math]
+
+[math] 1 ∈ [sub] K ∞ [end_sub] [end_math]
+
+[math] [sub] x [arg] [sub] s 1 [end_sub] , [sub] ε 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] s r [end_sub] , [sub] ε r [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] ​ ( [table] [tr] [td] [sub] ε 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] ε n [end_sub] [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( [table] [tr] [td] [sub] ε 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] ε n [end_sub] [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] ​ ( [sub] x [arg] [sub] s 1 [end_sub] , [sub] ε 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] s r [end_sub] , [sub] ε r [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] = [sub] S [arg] < d [end_arg] [end_sub] ​ ( [table] [tr] [td] [sub] ε 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] ε n [end_sub] [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) , [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( [sub] x [arg] [sub] s 1 [end_sub] , [sub] ε 1 [end_sub] [end_arg] [end_sub] ​ … ​ [sub] x [arg] [sub] s r [end_sub] , [sub] ε r [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] = [sub] ζ A [end_sub] ​ ( [table] [tr] [td] [sub] ε 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] ε n [end_sub] [end_td] [end_tr] [tr] [td] [sub] s 1 [end_sub] [end_td] [td] ⋯ [end_td] [td] [sub] s n [end_sub] [end_td] [end_tr] [end_table] ) . [end_math]
+
+[math] 𝔞 , 𝔟 ∈ 𝔇 [end_math]
+
+[math] d ∈ ℤ [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] ​ ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) [end_math]
+
+[math] = [sub] S [arg] < d [end_arg] [end_sub] ​ ( 𝔞 ) ​ [sub] S [arg] < d [end_arg] [end_sub] ​ ( 𝔟 ) . [end_math]
+
+[math] [sub] ζ A [end_sub] ​ ( 𝔞 ​ [error] \shuffle [end_error] ​ 𝔟 ) [end_math]
+
+[math] = [sub] ζ A [end_sub] ​ ( 𝔞 ) ​ [sub] ζ A [end_sub] ​ ( 𝔟 ) . [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] [sub] ζ A [end_sub] [end_math]
+
+[math] 𝔞 [end_math]
+
+[math] 𝔟 [end_math]
+
+[math] 𝔞 = [sub] x [arg] a , α [end_arg] [end_sub] ​ [sub] 𝔞 − [end_sub] [end_math]
+
+[math] 𝔟 = [sub] x [arg] b , β [end_arg] [end_sub] ​ [sub] 𝔟 − [end_sub] [end_math]
+
+[math] depth ⁡ ( 𝔞 ) + depth ⁡ ( 𝔟 ) [end_math]
+
+[math] [sub] S [arg] < d [end_arg] [end_sub] ​ ( 𝔞 ) ​ [sub] S [arg] < d [end_arg] [end_sub] ​ ( 𝔟 ) = [end_math]
+
+[math] [under] ∑ [arg] m < d [end_arg] [end_under] [sub] S m [end_sub] ​ ( [sub] x [arg] a , α [end_arg] [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( 𝔟 ) + [under] ∑ [arg] m < d [end_arg] [end_under] [sub] S m [end_sub] ​ ( [sub] x [arg] b , β [end_arg] [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( 𝔞 ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] m < d [end_arg] [end_under] [sub] S m [end_sub] ​ ( [sub] x [arg] a , α [end_arg] [end_sub] ) ​ [sub] S m [end_sub] ​ ( [sub] x [arg] b , β [end_arg] [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] [under] ∑ [arg] m < d [end_arg] [end_under] [sub] S m [end_sub] ​ ( [sub] x [arg] a , α [end_arg] [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( 𝔟 ) + [under] ∑ [arg] m < d [end_arg] [end_under] [sub] S m [end_sub] ​ ( [sub] x [arg] b , β [end_arg] [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( 𝔞 ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] m < d [end_arg] [end_under] [sub] S m [end_sub] ​ ( [sub] x [arg] a + b , α ​ β [end_arg] [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] m < d [end_arg] [end_under] [subsup] Δ [arg] a , b [end_arg] j [end_subsup] ​ [under] ∑ [arg] i + j = a + b [end_arg] [end_under] [sub] S m [end_sub] ​ ( [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ) ​ [sub] S [arg] < m [end_arg] [end_sub] ​ ( [sub] 𝔟 − [end_sub] ) . [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] [sub] ζ A [end_sub] [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] Δ : 𝔇 → 𝔇 ⊗ 𝔇 . [end_math]
+
+[math] Δ ​ ( 1 ) := 1 ⊗ 1 , Δ ​ ( [sub] x [arg] 1 , ε [end_arg] [end_sub] ) := 1 ⊗ [sub] x [arg] 1 , ε [end_arg] [end_sub] + [sub] x [arg] 1 , ε [end_arg] [end_sub] ⊗ 1 [end_math]
+
+[math] ε ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] ε ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] Δ ​ ( [sub] x [arg] n , ε [end_arg] [end_sub] ) = 1 ⊗ [sub] x [arg] n , ε [end_arg] [end_sub] + [under] ∑ [arg] [table] [tr] [td] r ∈ ℕ , 𝔞 ∈ ⟨ Σ ⟩ [end_td] [end_tr] [tr] [td] r + w ​ ( 𝔞 ) = n [end_td] [end_tr] [end_table] [end_arg] [end_under] ( [frac] [arg] r + depth ⁡ ( 𝔞 ) − 2 [end_arg] [arg] depth ⁡ ( 𝔞 ) [end_arg] [end_frac] ) ​ [sub] x [arg] r , ε [end_arg] [end_sub] ⊗ [ 𝔞 ] . [end_math]
+
+[math] [ 𝔞 ] [end_math]
+
+[math] 𝔞 ∈ Σ [end_math]
+
+[math] [sub] φ 1 [end_sub] ​ ( 𝔞 ) ∈ Γ [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] n > 1 [end_math]
+
+[math] Δ ​ ( 𝔲 ) [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] depth ⁡ ( 𝔲 ) < n [end_math]
+
+[math] Δ ​ ( 𝔲 ) [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] depth ⁡ ( 𝔲 ) = n [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , ε [end_arg] [end_sub] ​ 𝔳 [end_math]
+
+[math] depth ⁡ ( 𝔳 ) = n − 1 < n [end_math]
+
+[math] [sub] x [arg] u , ε [end_arg] [end_sub] [end_math]
+
+[math] 𝔳 [end_math]
+
+[math] n [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , ε [end_arg] [end_sub] ) = 1 ⊗ [sub] x [arg] u , ε [end_arg] [end_sub] + ∑ [sub] a [arg] u , ε [end_arg] [end_sub] ⊗ [sub] b [arg] u , ε [end_arg] [end_sub] , and Δ ​ ( 𝔳 ) = ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] , [end_math]
+
+[math] [sub] a [arg] u , ε [end_arg] [end_sub] ∈ Γ [end_math]
+
+[math] [sub] b [arg] u , ε [end_arg] [end_sub] , [sub] a 𝔳 [end_sub] , [sub] b 𝔳 [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] Δ ​ ( 𝔲 ) [end_math]
+
+[math] := 1 ⊗ 𝔲 + ∑ ( [sub] a [arg] u , ε [end_arg] [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b [arg] u , ε [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = 1 ⊗ 𝔲 + ∑ ( [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b [arg] u , ε [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] [sub] a [arg] u , ε [end_arg] [end_sub] ∈ Γ [end_math]
+
+[math] 𝔲 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] Δ ​ ( [sub] φ ε [end_sub] ​ ( 𝔲 ) ) = ( [sub] φ ε [end_sub] ⊗ Id ) ​ ( Δ ​ ( 𝔲 ) ) + ( Id ⊗ [sub] φ ε [end_sub] − [sub] φ ε [end_sub] ⊗ Id ) ​ ( 1 ⊗ 𝔲 ) . [end_math]
+
+[math] 𝔞 = [sub] x a [end_sub] ​ [sub] 𝔞 − [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] ε ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] [sub] φ ε [end_sub] ​ ( 𝔞 ) ▷ 𝔟 = [sub] x [arg] a , ε [end_arg] [end_sub] ​ ( [sub] 𝔞 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔟 ) = [sub] φ ε [end_sub] ​ ( 𝔞 ▷ 𝔟 ) . [end_math]
+
+[math] 𝔞 = 1 [end_math]
+
+[math] depth ⁡ ( 𝔲 ) = 1 [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] Γ [end_math]
+
+[math] 𝔲 = [sub] x [arg] n , α [end_arg] [end_sub] [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] α ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] [sub] φ ε [end_sub] ​ ( 𝔲 ) = [sub] x [arg] n , ε ​ α [end_arg] [end_sub] = [sub] φ [arg] ε ​ α [end_arg] [end_sub] ​ ( [sub] x n [end_sub] ) [end_math]
+
+[math] Δ ​ ( [sub] x n [end_sub] ) = 1 ⊗ [sub] x n [end_sub] + [under] ∑ [arg] [table] [tr] [td] r ∈ ℕ , 𝔞 ∈ ⟨ Σ ⟩ [end_td] [end_tr] [tr] [td] r + w ​ ( 𝔞 ) = n [end_td] [end_tr] [end_table] [end_arg] [end_under] ( [frac] [arg] r + depth ⁡ ( 𝔞 ) − 2 [end_arg] [arg] depth ⁡ ( 𝔞 ) [end_arg] [end_frac] ) ​ [sub] x r [end_sub] ⊗ [ 𝔞 ] . [end_math]
+
+[math] Δ ​ ( 𝔲 ) [end_math]
+
+[math] = Δ ​ ( [sub] φ α [end_sub] ​ ( [sub] x n [end_sub] ) ) [end_math]
+
+[math] = ( [sub] φ α [end_sub] ⊗ Id ) ​ ( Δ ​ ( [sub] x n [end_sub] ) − 1 ⊗ [sub] x n [end_sub] ) + ( Id ⊗ [sub] φ α [end_sub] ) ​ ( 1 ⊗ [sub] x n [end_sub] ) [end_math]
+
+[math] = ( [sub] φ α [end_sub] ⊗ Id ) ​ ( Δ ​ ( [sub] x n [end_sub] ) ) + ( Id ⊗ [sub] φ α [end_sub] − [sub] φ α [end_sub] ⊗ Id ) ​ ( 1 ⊗ [sub] x n [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] φ ε [end_sub] ​ ( 𝔲 ) ) [end_math]
+
+[math] = Δ ​ ( [sub] φ [arg] ε ​ α [end_arg] [end_sub] ​ ( [sub] x n [end_sub] ) ) [end_math]
+
+[math] = ( [sub] φ [arg] ε ​ α [end_arg] [end_sub] ⊗ Id ) ​ ( Δ ​ ( [sub] x n [end_sub] ) − 1 ⊗ [sub] x n [end_sub] ) + ( Id ⊗ [sub] φ [arg] ε ​ α [end_arg] [end_sub] ) ​ ( 1 ⊗ [sub] x n [end_sub] ) [end_math]
+
+[math] = ( [sub] φ [arg] ε ​ α [end_arg] [end_sub] ⊗ Id ) ​ ( Δ ​ ( [sub] x n [end_sub] ) ) + ( Id ⊗ [sub] φ [arg] ε ​ α [end_arg] [end_sub] − [sub] φ [arg] ε ​ α [end_arg] [end_sub] ⊗ Id ) ​ ( 1 ⊗ [sub] x n [end_sub] ) . [end_math]
+
+[math] 𝔲 = [sub] x [arg] n , α [end_arg] [end_sub] [end_math]
+
+[math] Δ ​ ( [sub] φ ε [end_sub] ​ ( 𝔲 ) ) = ( [sub] φ ε [end_sub] ⊗ Id ) ​ ( Δ ​ ( 𝔲 ) ) + ( Id ⊗ [sub] φ ε [end_sub] − [sub] φ ε [end_sub] ⊗ Id ) ​ ( 1 ⊗ 𝔲 ) . [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , α [end_arg] [end_sub] ​ 𝔳 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] depth ⁡ ( 𝔲 ) ≥ 2 [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ) = 1 ⊗ [sub] x u [end_sub] + ∑ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] [end_math]
+
+[math] Δ ​ ( 𝔳 ) = ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] [end_math]
+
+[math] [sub] a u [end_sub] ∈ Σ [end_math]
+
+[math] [sub] b u [end_sub] ∈ ⟨ Σ ⟩ [end_math]
+
+[math] [sub] a u [end_sub] ≠ 1 [end_math]
+
+[math] [sub] a 𝔳 [end_sub] , [sub] b 𝔳 [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) = 1 ⊗ [sub] x [arg] u , α [end_arg] [end_sub] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ⊗ [sub] b u [end_sub] . [end_math]
+
+[math] Δ ​ ( 𝔲 ) [end_math]
+
+[math] = 1 ⊗ 𝔲 + ∑ ( [sub] a [arg] u , α [end_arg] [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = 1 ⊗ 𝔲 + ∑ ( [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] depth ⁡ ( [sub] a [arg] u , α [end_arg] [end_sub] ) = 1 [end_math]
+
+[math] [sub] φ ε [end_sub] ​ ( 𝔲 ) = [sub] x [arg] u , ε ​ α [end_arg] [end_sub] ​ 𝔳 [end_math]
+
+[math] Δ ​ ( [sub] φ ε [end_sub] ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) ) = 1 ⊗ [sub] φ ε [end_sub] ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) + ∑ [sub] φ ε [end_sub] ​ ( [sub] a [arg] u , α [end_arg] [end_sub] ) ⊗ [sub] b u [end_sub] [end_math]
+
+[math] Δ ​ ( [sub] φ ε [end_sub] ​ ( 𝔲 ) ) [end_math]
+
+[math] = Δ ​ ( [sub] φ ε [end_sub] ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) ​ 𝔳 ) [end_math]
+
+[math] = 1 ⊗ [sub] φ ε [end_sub] ​ ( 𝔲 ) + ∑ ( [sub] φ ε [end_sub] ​ ( [sub] a [arg] u , α [end_arg] [end_sub] ) ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] φ ε [end_sub] ​ ( 𝔲 ) + ∑ [sub] φ ε [end_sub] ​ ( [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] φ ε [end_sub] ​ ( 𝔲 ) ) = ( [sub] φ ε [end_sub] ⊗ Id ) ​ ( Δ ​ ( 𝔲 ) ) + ( Id ⊗ [sub] φ ε [end_sub] − [sub] φ ε [end_sub] ⊗ Id ) ​ ( 1 ⊗ 𝔲 ) . [end_math]
+
+[math] u , v ∈ ℕ [end_math]
+
+[math] α , β ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ) = Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ) = 1 ⊗ [sub] x u [end_sub] + ∑ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] , Δ ​ ( [sub] x v [end_sub] ) = 1 ⊗ [sub] x v [end_sub] + ∑ [sub] a v [end_sub] ⊗ [sub] b v [end_sub] . [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) = 1 ⊗ [sub] x [arg] u , α [end_arg] [end_sub] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ⊗ [sub] b u [end_sub] , Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ) = 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ⊗ [sub] b v [end_sub] , [end_math]
+
+[math] [sub] a [arg] u , α [end_arg] [end_sub] = [sub] φ α [end_sub] ​ ( [sub] a u [end_sub] ) [end_math]
+
+[math] [sub] a [arg] v , β [end_arg] [end_sub] = [sub] φ β [end_sub] ​ ( [sub] a v [end_sub] ) [end_math]
+
+[math] [sub] a u [end_sub] [end_math]
+
+[math] [sub] a v [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] x [arg] u , α [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] = [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] + [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] x [arg] u , α [end_arg] [end_sub] + [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ) = [end_math]
+
+[math] 1 ⊗ [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ) + ∑ ( [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) [end_math]
+
+[math] + 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] x [arg] u , α [end_arg] [end_sub] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] u , α [end_arg] [end_sub] ) + ∑ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] u , α [end_arg] [end_sub] ) ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b u [end_sub] ) [end_math]
+
+[math] + Δ ​ ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) ) . [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ) = [end_math]
+
+[math] 1 ⊗ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ) + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] u , α [end_arg] [end_sub] ) + ∑ ( [sub] a [arg] u , α [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] v , β [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) . [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] Δ ​ ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) ) [end_math]
+
+[math] = 1 ⊗ [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) + ∑ ( [sub] a [arg] u , α [end_arg] [end_sub] ⋄ [sub] a [arg] v , β [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) + ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ⊗ Id ) ​ ( ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) = 1 ⊗ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) + ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) , [end_math]
+
+[math] 𝔲 , 𝔳 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_math]
+
+[math] depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) [end_math]
+
+[math] depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] 𝔳 [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , α [end_arg] [end_sub] [end_math]
+
+[math] 𝔳 = [sub] x [arg] v , β [end_arg] [end_sub] [end_math]
+
+[math] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 = [sub] x [arg] u + v , α ​ β [end_arg] [end_sub] + [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] + [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] x [arg] u , α [end_arg] [end_sub] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ [sub] x j [end_sub] . [end_math]
+
+[math] depth ⁡ ( 𝔲 ) , depth ⁡ ( 𝔳 ) ≥ 1 [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] 𝔳 [end_math]
+
+[math] > 1 . [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] depth ⁡ ( 𝔞 ) + depth ⁡ ( 𝔟 ) < depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] [end_math]
+
+[math] 𝔳 = [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] [end_math]
+
+[math] [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] [end_math]
+
+[math] = [sub] x [arg] u + v , α ​ β [end_arg] [end_sub] ​ ( [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔳 − [end_sub] ) + [sub] x [arg] u , α [end_arg] [end_sub] ​ ( [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + [sub] x [arg] v , β [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ [sub] x [arg] i , α ​ β [end_arg] [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) [end_math]
+
+[math] j [end_math]
+
+[math] [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔲 − [end_sub] = [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] [end_math]
+
+[math] depth ⁡ ( 𝔲 ) [end_math]
+
+[math] [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) [end_math]
+
+[math] Δ [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] ⟨ Γ ⟩ [end_math]
+
+[math] ⟨ Σ ⟩ [end_math]
+
+[math] 𝔲 , 𝔳 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] Δ [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] 𝔲 , 𝔳 [end_math]
+
+[math] Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = Δ ​ ( 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) . [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] 𝔳 [end_math]
+
+[math] depth ⁡ ( 𝔲 ) = depth ⁡ ( 𝔳 ) = 1 [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] [end_math]
+
+[math] 𝔳 = [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] [end_math]
+
+[math] ⟨ Γ ⟩ [end_math]
+
+[math] ≥ 1 [end_math]
+
+[math] Δ [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] depth ⁡ ( 𝔞 ) + depth ⁡ ( 𝔟 ) < depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) = Δ ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = Δ ​ ( 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ) = 1 ⊗ [sub] x u [end_sub] + ∑ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] , [end_math]
+
+[math] Δ ​ ( [sub] x v [end_sub] ) = 1 ⊗ [sub] x v [end_sub] + ∑ [sub] a v [end_sub] ⊗ [sub] b v [end_sub] , [end_math]
+
+[math] Δ ​ ( [sub] 𝔲 − [end_sub] ) = ∑ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⊗ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] , [end_math]
+
+[math] Δ ​ ( [sub] 𝔳 − [end_sub] ) = ∑ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ⊗ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] , [end_math]
+
+[math] [sub] x u [end_sub] , [sub] x v [end_sub] , [sub] a u [end_sub] , [sub] a v [end_sub] ∈ Σ [end_math]
+
+[math] [sub] b u [end_sub] , [sub] b v [end_sub] ∈ ⟨ Σ ⟩ [end_math]
+
+[math] [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] , [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] , [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] , [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x [arg] u , α [end_arg] [end_sub] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ⊗ [sub] b u [end_sub] , [end_math]
+
+[math] Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ⊗ [sub] b v [end_sub] , [end_math]
+
+[math] [sub] a [arg] u , α [end_arg] [end_sub] = [sub] φ α [end_sub] ​ ( [sub] a u [end_sub] ) [end_math]
+
+[math] [sub] a [arg] v , β [end_arg] [end_sub] = [sub] φ β [end_sub] ​ ( [sub] a v [end_sub] ) [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ) , [end_math]
+
+[math] Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) . [end_math]
+
+[math] Δ ​ ( 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) = Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ( 1 ⊗ [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ) ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] ) + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ) + ∑ ( [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) . [end_math]
+
+[math] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_math]
+
+[math] = 𝔲 ▷ 𝔳 + 𝔳 ▷ 𝔲 + [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) , [end_math]
+
+[math] Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = [sub] S 1 [end_sub] + [sub] S 2 [end_sub] + [sub] S 3 [end_sub] [end_math]
+
+[math] [sub] S 1 [end_sub] [end_math]
+
+[math] = Δ ​ ( 𝔲 ▷ 𝔳 ) = Δ ​ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ ( [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) ) , [end_math]
+
+[math] [sub] S 2 [end_sub] [end_math]
+
+[math] = Δ ​ ( 𝔳 ▷ 𝔲 ) = Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ ( [sub] 𝔳 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ) ) , [end_math]
+
+[math] [sub] S 3 [end_sub] [end_math]
+
+[math] = Δ ​ ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) ) [end_math]
+
+[math] = ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ⊗ Id ) ​ Δ ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) + ( Id ⊗ [sub] φ [arg] α ​ β [end_arg] [end_sub] − [sub] φ [arg] α ​ β [end_arg] [end_sub] ⊗ Id ) ​ ( 1 ⊗ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) ) . [end_math]
+
+[math] [sub] S 1 [end_sub] [end_math]
+
+[math] [sub] S 2 [end_sub] [end_math]
+
+[math] depth ⁡ ( [sub] 𝔲 − [end_sub] ) + depth ⁡ ( 𝔳 ) < depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] = Δ ​ ( [sub] 𝔲 − [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] = ( ∑ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⊗ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ) [end_math]
+
+[math] = ∑ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] ) + ∑ ( [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) , [end_math]
+
+[math] [sub] S 1 [end_sub] [end_math]
+
+[math] = 1 ⊗ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ ( [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) ) + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a [arg] u , α [end_arg] [end_sub] ​ ( [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) . [end_math]
+
+[math] [sub] S 2 [end_sub] [end_math]
+
+[math] = 1 ⊗ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] 𝔳 − [end_sub] ) ) + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] u , α [end_arg] [end_sub] ​ [sub] 𝔲 − [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ ( [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) . [end_math]
+
+[math] X := Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) − Δ ​ ( 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) = 0 [end_math]
+
+[math] 1 ⊗ □ [end_math]
+
+[math] X [end_math]
+
+[math] [sub] x [arg] u , α [end_arg] [end_sub] ​ ( [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + [sub] x [arg] v , β [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] 𝔳 − [end_sub] ) + [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) − ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) − 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_math]
+
+[math] = [sub] x [arg] u , α [end_arg] [end_sub] ​ ( [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + [sub] x [arg] v , β [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] 𝔳 − [end_sub] ) + [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) − ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] − 𝔲 ▷ 𝔳 − 𝔳 ▷ 𝔲 − 𝔲 ⋄ 𝔳 [end_math]
+
+[math] = − ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] 1 ⊗ □ [end_math]
+
+[math] X [end_math]
+
+[math] − 1 ⊗ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) . [end_math]
+
+[math] ∑ □ ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] X [end_math]
+
+[math] [sub] a [arg] u , α [end_arg] [end_sub] ​ ( [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) + [sub] a [arg] v , β [end_arg] [end_sub] ​ ( [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ) − ( [sub] a [arg] u , α [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] = − [sub] φ [arg] α ​ β [end_arg] [end_sub] ​ ( [sub] a u [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⋄ [sub] a v [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) , [end_math]
+
+[math] X [end_math]
+
+[math] − ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ⊗ Id ) ​ ∑ ( [sub] a u [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⋄ [sub] a v [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) . [end_math]
+
+[math] X = [end_math]
+
+[math] ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ⊗ Id ) ​ Δ ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) − 1 ⊗ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] − ( [sub] φ [arg] α ​ β [end_arg] [end_sub] ⊗ Id ) ​ ∑ ( [sub] a u [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⋄ [sub] a v [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) , [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) = 1 ⊗ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ⋄ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) + ∑ ( [sub] a u [end_sub] ​ [sub] a [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ⋄ [sub] a v [end_sub] ​ [sub] a [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔲 − [end_sub] [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] [sub] 𝔳 − [end_sub] [end_arg] [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) = Δ ​ ( [sub] x u [end_sub] ​ [sub] 𝔲 − [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ [sub] 𝔳 − [end_sub] ) [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] ⋄ [end_math]
+
+[math] [sub] x u [end_sub] ​ 𝔲 [end_math]
+
+[math] [sub] x v [end_sub] ​ 𝔳 [end_math]
+
+[math] ⟨ Γ ⟩ [end_math]
+
+[math] 1 ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] Δ [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] depth ⁡ ( 𝔞 ) + depth ⁡ ( 𝔟 ) < depth ⁡ ( [sub] x u [end_sub] ​ 𝔲 ) + depth ⁡ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 ) = Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) . [end_math]
+
+[math] 𝔲 = 1 [end_math]
+
+[math] 𝔳 = 1 [end_math]
+
+[math] 𝔲 = 1 [end_math]
+
+[math] { ( [sub] a 𝔲 [end_sub] , [sub] b 𝔲 [end_sub] ) } [end_math]
+
+[math] Δ ​ ( 𝔲 ) = 1 ⊗ 𝔲 + ∑ [sub] a 𝔲 [end_sub] ⊗ [sub] b 𝔲 [end_sub] [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 [end_math]
+
+[math] = ( [sub] x u [end_sub] ​ 𝔲 ) ▷ ( [sub] x v [end_sub] ​ 𝔳 ) + ( [sub] x v [end_sub] ​ 𝔳 ) ▷ ( [sub] x u [end_sub] ​ 𝔲 ) + ( [sub] x u [end_sub] ​ 𝔲 ) ⋄ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = [sub] x v [end_sub] ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + [sub] x u [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) + ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) ▷ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] = [sub] x v [end_sub] ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + [sub] x u [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) + [sub] x [arg] u + v [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) . [end_math]
+
+[math] Δ [end_math]
+
+[math] ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 ) − Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] Δ ​ ( [sub] x v [end_sub] ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) + Δ ​ ( [sub] x u [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 ) ) + Δ ​ ( [sub] x [arg] u + v [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ Δ ​ ( [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) − Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) . [end_math]
+
+[math] Δ ​ ( 𝔲 ) = 1 ⊗ 𝔲 + ∑ [sub] a 𝔲 [end_sub] ⊗ [sub] b 𝔲 [end_sub] , and ​ Δ ​ ( 𝔳 ) = 1 ⊗ 𝔳 + ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] . [end_math]
+
+[math] j ∈ ℕ [end_math]
+
+[math] Δ ​ ( [sub] x j [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x j [end_sub] + ∑ [sub] a j [end_sub] ⊗ [sub] b j [end_sub] . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ) = 1 ⊗ [sub] x u [end_sub] + ∑ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] , and ​ Δ ​ ( [sub] x v [end_sub] ) = 1 ⊗ [sub] x v [end_sub] + ∑ [sub] a v [end_sub] ⊗ [sub] b v [end_sub] . [end_math]
+
+[math] Δ ​ ( [sub] x v [end_sub] ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) [end_math]
+
+[math] Δ [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) = 1 ⊗ [sub] x u [end_sub] ​ 𝔲 + ∑ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ) + ∑ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ) . [end_math]
+
+[math] depth ⁡ ( [sub] x u [end_sub] ​ 𝔲 ) + depth ⁡ ( 𝔳 ) < depth ⁡ ( [sub] x u [end_sub] ​ 𝔲 ) + depth ⁡ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ ( ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a 𝔳 [end_sub] ⊗ ( ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x v [end_sub] ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) = [end_math]
+
+[math] 1 ⊗ [sub] x v [end_sub] ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ) + ∑ [sub] a v [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a v [end_sub] ▷ [sub] a u [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a v [end_sub] ▷ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ ( [sub] a v [end_sub] ▷ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ ( [sub] a v [end_sub] ▷ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ( [sub] x u [end_sub] ( 𝔲 [error] \shuffle [end_error] ( [sub] x v [end_sub] 𝔳 ) ) [end_math]
+
+[math] Δ ( [sub] x u [end_sub] ( 𝔲 [error] \shuffle [end_error] ( [sub] x v [end_sub] 𝔳 ) ) = [end_math]
+
+[math] 1 ⊗ [sub] x u [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 ) + ∑ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) [end_math]
+
+[math] + ∑ ( ( [sub] a u [end_sub] ▷ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] [error] \shuffle [end_error] [sub] b v [end_sub] [error] \shuffle [end_error] 𝔲 [error] \shuffle [end_error] 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a u [end_sub] ▷ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) [end_math]
+
+[math] + ∑ ( [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] [error] \shuffle [end_error] ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] [error] \shuffle [end_error] [sub] b v [end_sub] [error] \shuffle [end_error] [sub] b 𝔲 [end_sub] [error] \shuffle [end_error] [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u + v [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) [end_math]
+
+[math] Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = 1 ⊗ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ⊗ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] . [end_math]
+
+[math] depth ⁡ ( 𝔲 ) + depth ⁡ ( 𝔳 ) < depth ⁡ ( [sub] x u [end_sub] ​ 𝔲 ) + depth ⁡ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = Δ ​ ( 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) = ( 1 ⊗ 𝔲 + ∑ [sub] a 𝔲 [end_sub] ⊗ [sub] b 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ 𝔳 + ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] 1 ⊗ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ⊗ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] = [end_math]
+
+[math] ( 1 ⊗ 𝔲 + ∑ [sub] a 𝔲 [end_sub] ⊗ [sub] b 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ 𝔳 + ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a 𝔲 [end_sub] ⊗ ( [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ [sub] a 𝔳 [end_sub] ⊗ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] ∑ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ⊗ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] = ∑ [sub] a 𝔲 [end_sub] ⊗ ( [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a 𝔳 [end_sub] ⊗ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u + v [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) = [end_math]
+
+[math] 1 ⊗ ( [sub] x [arg] u + v [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) + ∑ [sub] a [arg] u + v [end_arg] [end_sub] ⊗ ( [sub] b [arg] u + v [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a [arg] u + v [end_arg] [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b [arg] u + v [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) [end_math]
+
+[math] 0 ≤ i [end_math]
+
+[math] j ≤ u + v [end_math]
+
+[math] i + j = u + v [end_math]
+
+[math] depth ⁡ ( 𝔲 ) + depth ⁡ ( [sub] x j [end_sub] ) < depth ⁡ ( [sub] x u [end_sub] ​ 𝔲 ) + depth ⁡ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ) = Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ) = Δ ​ ( 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x j [end_sub] ) [end_math]
+
+[math] [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 [end_math]
+
+[math] depth ⁡ ( [sub] x j [end_sub] ​ 𝔲 ) [end_math]
+
+[math] Δ ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = Δ ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) = Δ ​ ( [sub] x j [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔳 ) = Δ ​ ( [sub] x j [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) = [end_math]
+
+[math] Δ ​ ( [sub] x j [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] ( 1 ⊗ [sub] x j [end_sub] + ∑ [sub] a j [end_sub] ⊗ [sub] b j [end_sub] ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ⊗ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ [sub] a j [end_sub] ⊗ ( [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ⊗ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) + ∑ ( [sub] a j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) = [end_math]
+
+[math] 1 ⊗ ( [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) ) + ∑ [sub] a i [end_sub] ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a i [end_sub] ▷ [sub] a j [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a i [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) [end_math]
+
+[math] + ∑ ( [sub] a i [end_sub] ▷ ( [sub] a j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) [end_math]
+
+[math] Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) = 1 ⊗ [sub] x v [end_sub] ​ 𝔳 + ∑ [sub] a v [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] ( 1 ⊗ [sub] x u [end_sub] ​ 𝔲 + ∑ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ) + ∑ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ) ) [end_math]
+
+[math] [error] \shuffle [end_error] ​ ( 1 ⊗ [sub] x v [end_sub] ​ 𝔳 + ∑ [sub] a v [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] + ∑ [sub] a v [end_sub] ⊗ ( ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) + ∑ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ⊗ ( ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) + ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) + ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 ) − Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) = [sub] S 0 [end_sub] − [sub] S 1 [end_sub] − [sub] S 2 [end_sub] − [sub] S 𝔲 [end_sub] − [sub] S 𝔳 [end_sub] + [sub] S 3 [end_sub] + [sub] S 4 [end_sub] . [end_math]
+
+[math] [sub] S 0 [end_sub] [end_math]
+
+[math] [sub] S 1 [end_sub] [end_math]
+
+[math] [sub] S 2 [end_sub] [end_math]
+
+[math] [sub] S 3 [end_sub] [end_math]
+
+[math] [sub] S 4 [end_sub] [end_math]
+
+[math] [sub] S 𝔲 [end_sub] [end_math]
+
+[math] [sub] S 𝔳 [end_sub] [end_math]
+
+[math] [sub] S 0 [end_sub] = [end_math]
+
+[math] 1 ⊗ [sub] x v [end_sub] ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + 1 ⊗ [sub] x u [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) + 1 ⊗ [sub] x [arg] u + v [end_arg] [end_sub] ​ ( 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ 1 ⊗ [sub] x i [end_sub] ​ ( [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) − 1 ⊗ ( ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ ( [sub] x v [end_sub] ​ 𝔳 ) ) . [end_math]
+
+[math] [sub] S 1 [end_sub] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) − ∑ ( [sub] a u [end_sub] ▷ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ [sub] a u [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) . [end_math]
+
+[math] [sub] S 2 [end_sub] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] − ∑ ( [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) [error] \shuffle [end_error] [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] [error] \shuffle [end_error] [sub] b 𝔲 [end_sub] [error] \shuffle [end_error] [sub] b v [end_sub] [error] \shuffle [end_error] [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] [sub] S 3 [end_sub] = [end_math]
+
+[math] ∑ [sub] a [arg] u + v [end_arg] [end_sub] ⊗ ( [sub] b [arg] u + v [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ [sub] a i [end_sub] ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ [sub] a j [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) . [end_math]
+
+[math] [sub] S 4 [end_sub] = [end_math]
+
+[math] ∑ ( [sub] a [arg] u + v [end_arg] [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b [arg] u + v [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ ( [sub] a j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) , [end_math]
+
+[math] [sub] S 𝔲 [end_sub] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) − ∑ ( [sub] a u [end_sub] ▷ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] [sub] S 𝔳 [end_sub] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) − ∑ ( [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) . [end_math]
+
+[math] [sub] S 0 [end_sub] = 0 [end_math]
+
+[math] [sub] S 1 [end_sub] − [sub] S 3 [end_sub] = 0 [end_math]
+
+[math] [sub] S 2 [end_sub] + [sub] S 𝔲 [end_sub] + [sub] S 𝔳 [end_sub] − [sub] S 4 [end_sub] = 0 [end_math]
+
+[math] [sub] S 0 [end_sub] = 0 [end_math]
+
+[math] [sub] S 1 [end_sub] = [sub] S 3 [end_sub] = ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) . [end_math]
+
+[math] [sub] S 1 [end_sub] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) − ∑ ( [sub] a u [end_sub] ▷ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ [sub] a u [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] − [sub] a u [end_sub] ▷ [sub] a v [end_sub] − [sub] a v [end_sub] ▷ [sub] a u [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) . [end_math]
+
+[math] [sub] S 3 [end_sub] [end_math]
+
+[math] [sub] x u [end_sub] ⋄ [sub] x v [end_sub] = [sub] x [arg] u + v [end_arg] [end_sub] + [sub] ∑ [arg] i + j = u + v [end_arg] [end_sub] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ [sub] x i [end_sub] ​ [sub] x j [end_sub] [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) = 1 ⊗ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) + ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) , [end_math]
+
+[math] 1 ⊗ [sub] x [arg] u + v [end_arg] [end_sub] + ∑ [sub] a [arg] u + v [end_arg] [end_sub] ⊗ [sub] b [arg] u + v [end_arg] [end_sub] [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ( 1 ⊗ [sub] x i [end_sub] ​ [sub] x j [end_sub] + ∑ [sub] a i [end_sub] ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ) + ∑ ( [sub] a i [end_sub] ▷ [sub] a j [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ) ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ ( [sub] x u [end_sub] ⋄ [sub] x v [end_sub] ) + ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) , [end_math]
+
+[math] ∑ [sub] a [arg] u + v [end_arg] [end_sub] ⊗ [sub] b [arg] u + v [end_arg] [end_sub] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ [sub] a i [end_sub] ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ) + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ [sub] a j [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ) [end_math]
+
+[math] = ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ) . [end_math]
+
+[math] [sub] S 3 [end_sub] = [end_math]
+
+[math] ∑ [sub] a [arg] u + v [end_arg] [end_sub] ⊗ ( [sub] b [arg] u + v [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ [sub] a i [end_sub] ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ [sub] a j [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] [sub] S 1 [end_sub] = [sub] S 3 [end_sub] [end_math]
+
+[math] [sub] S 2 [end_sub] + [sub] S 𝔲 [end_sub] + [sub] S 𝔳 [end_sub] = [sub] S 4 [end_sub] = ∑ ( ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) . [end_math]
+
+[math] [sub] S 2 [end_sub] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] − ∑ ( [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) [error] \shuffle [end_error] [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] [error] \shuffle [end_error] [sub] b 𝔲 [end_sub] [error] \shuffle [end_error] [sub] b v [end_sub] [error] \shuffle [end_error] [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) − [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) − [sub] a v [end_sub] ▷ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ) [end_math]
+
+[math] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⋄ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) [end_math]
+
+[math] = ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ▷ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) + ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ▷ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) + ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⋄ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) [end_math]
+
+[math] = [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] [error] \shuffle [end_error] ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) + [sub] a v [end_sub] ▷ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) [error] \shuffle [end_error] [sub] a 𝔳 [end_sub] ) ) + ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⋄ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) . [end_math]
+
+[math] [sub] S 𝔲 [end_sub] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) − ∑ ( [sub] a u [end_sub] ▷ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) − [sub] a u [end_sub] ▷ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) − [sub] a v [end_sub] ▷ ( [sub] a u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( [sub] a u [end_sub] ⋄ ( [sub] a v [end_sub] ▷ [sub] a 𝔳 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] [sub] S 𝔳 [end_sub] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) − ∑ ( [sub] a u [end_sub] ▷ ( [sub] a 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a v [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] − ∑ ( [sub] a v [end_sub] ▷ ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ▷ [sub] a 𝔲 [end_sub] ) ⋄ [sub] a v [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔲 [end_sub] ​ [error] \shuffle [end_error] ​ 𝔳 ) . [end_math]
+
+[math] [sub] S 2 [end_sub] [end_math]
+
+[math] [sub] S 𝔲 [end_sub] [end_math]
+
+[math] [sub] S 𝔳 [end_sub] [end_math]
+
+[math] [sub] S 2 [end_sub] + [sub] S 𝔲 [end_sub] + [sub] S 𝔳 [end_sub] = ∑ ( ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) . [end_math]
+
+[math] [sub] S 4 [end_sub] [end_math]
+
+[math] [sub] S 4 [end_sub] = [end_math]
+
+[math] ∑ ( [sub] a [arg] u + v [end_arg] [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b [arg] u + v [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ ( [sub] a j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( [sub] a [arg] u + v [end_arg] [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b [arg] u + v [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( [sub] a i [end_sub] ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) [end_math]
+
+[math] + [under] ∑ [arg] i + j = u + v [end_arg] [end_under] [subsup] Δ [arg] u , v [end_arg] j [end_subsup] ​ ∑ ( ( [sub] a i [end_sub] ▷ [sub] a j [end_sub] ) ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b i [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b j [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] ∑ ( ( [sub] a u [end_sub] ⋄ [sub] a v [end_sub] ) ▷ [sub] a [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b [arg] 𝔲 ​ [error] \shuffle [end_error] ​ 𝔳 [end_arg] [end_sub] ) . [end_math]
+
+[math] [sub] S 2 [end_sub] + [sub] S 𝔲 [end_sub] + [sub] S 𝔳 [end_sub] = [sub] S 4 [end_sub] [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ​ [error] \shuffle [end_error] ​ [sub] x v [end_sub] ​ 𝔳 ) − Δ ​ ( [sub] x u [end_sub] ​ 𝔲 ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = [sub] S 0 [end_sub] − [sub] S 1 [end_sub] − [sub] S 2 [end_sub] − [sub] S 𝔲 [end_sub] − [sub] S 𝔳 [end_sub] + [sub] S 3 [end_sub] + [sub] S 4 [end_sub] [end_math]
+
+[math] = [sub] S 0 [end_sub] − ( [sub] S 1 [end_sub] − [sub] S 3 [end_sub] ) − ( [sub] S 2 [end_sub] + [sub] S 𝔲 [end_sub] + [sub] S 𝔳 [end_sub] − [sub] S 4 [end_sub] ) [end_math]
+
+[math] = 0 . [end_math]
+
+[math] ( 𝔞 , 𝔟 ) ∈ ⟨ Γ ⟩ × ⟨ Γ ⟩ [end_math]
+
+[math] depth ⁡ ( 𝔞 ) + depth ⁡ ( 𝔟 ) < n [end_math]
+
+[math] n ∈ ℕ [end_math]
+
+[math] ( [sub] x u [end_sub] ​ 𝔲 , [sub] x v [end_sub] ​ 𝔳 ) [end_math]
+
+[math] depth ⁡ ( [sub] x u [end_sub] ​ 𝔲 ) + depth ⁡ ( [sub] x v [end_sub] ​ 𝔳 ) = n [end_math]
+
+[math] ( [sub] x [arg] u , α [end_arg] [end_sub] ​ 𝔲 , [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) [end_math]
+
+[math] depth ⁡ ( [sub] x [arg] u , α [end_arg] [end_sub] ​ 𝔲 ) + depth ⁡ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) = n [end_math]
+
+[math] u , v ∈ ℕ [end_math]
+
+[math] α , β ∈ [subsup] 𝔽 q ∗ [end_subsup] [end_math]
+
+[math] ( 1 , 𝔟 ) [end_math]
+
+[math] ( 𝔞 , 1 ) [end_math]
+
+[math] 𝔞 , 𝔟 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔲 , 𝔳 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔲 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] ( Id ⊗ Δ ) ​ Δ ​ ( 𝔲 ) = ( Δ ⊗ Id ) ​ Δ ​ ( 𝔲 ) . [end_math]
+
+[math] 𝔲 = [sub] x u [end_sub] ​ 𝔳 [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , ε [end_arg] [end_sub] ​ 𝔳 [end_math]
+
+[math] 𝔳 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] depth ⁡ ( 𝔳 ) ≥ 0 [end_math]
+
+[math] 𝔲 [end_math]
+
+[math] depth ⁡ ( 𝔲 ) ≤ n [end_math]
+
+[math] 𝔲 = [sub] x u [end_sub] ​ 𝔳 [end_math]
+
+[math] u ∈ ℕ [end_math]
+
+[math] depth ⁡ 𝔳 = n [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , ε [end_arg] [end_sub] [end_math]
+
+[math] ℭ [end_math]
+
+[math] ( Id ⊗ Δ ) ​ Δ ​ ( [sub] x u [end_sub] ​ 𝔳 ) = ( Δ ⊗ Id ) ​ Δ ​ ( [sub] x u [end_sub] ​ 𝔳 ) [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ) = 1 ⊗ [sub] x u [end_sub] + ∑ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] , Δ ​ ( 𝔳 ) = ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] . [end_math]
+
+[math] [sub] a u [end_sub] ∈ Σ [end_math]
+
+[math] [sub] b u [end_sub] ∈ ⟨ Σ ⟩ [end_math]
+
+[math] [sub] a 𝔳 [end_sub] , [sub] b 𝔳 [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ 𝔳 ) = 1 ⊗ [sub] x u [end_sub] ​ 𝔳 + ∑ [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] ( Id ⊗ Δ ) ​ Δ ​ ( [sub] x u [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = 1 ⊗ 1 ⊗ [sub] x u [end_sub] ​ 𝔳 + ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] ( Δ ⊗ Id ) ​ Δ ​ ( [sub] x u [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = 1 ⊗ 1 ⊗ [sub] x u [end_sub] ​ 𝔳 + ∑ Δ ​ ( [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] [sub] x u [end_sub] ​ 𝔳 [end_math]
+
+[math] ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) = ∑ Δ ​ ( [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] 𝔲 = [sub] x [arg] u , ε [end_arg] [end_sub] ​ 𝔳 [end_math]
+
+[math] Δ ​ ( [sub] x [arg] u , ε [end_arg] [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x [arg] u , ε [end_arg] [end_sub] + ∑ [sub] a [arg] u , ε [end_arg] [end_sub] ⊗ [sub] b u [end_sub] [end_math]
+
+[math] [sub] a [arg] u , ε [end_arg] [end_sub] = [sub] φ ε [end_sub] ​ ( [sub] a u [end_sub] ) [end_math]
+
+[math] Δ ​ ( 𝔲 ) = 1 ⊗ 𝔲 + ∑ [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] ( Id ⊗ Δ ) ​ Δ ​ ( 𝔲 ) = [end_math]
+
+[math] 1 ⊗ Δ ​ ( 𝔲 ) + ∑ [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = 1 ⊗ 1 ⊗ 𝔲 + ∑ 1 ⊗ [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] ( Δ ⊗ Id ) ​ Δ ​ ( 𝔲 ) = [end_math]
+
+[math] 1 ⊗ 1 ⊗ 𝔲 + ∑ Δ ​ ( [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ 1 ⊗ 𝔲 + ∑ ( [sub] φ ε [end_sub] ⊗ Id ) ​ Δ ​ ( [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ 1 ⊗ [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) − ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] [sub] x [arg] u , ε [end_arg] [end_sub] ​ 𝔳 [end_math]
+
+[math] ∑ ( [sub] φ ε [end_sub] ⊗ Id ) ​ Δ ​ ( [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) = ∑ [sub] a [arg] u , ε [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] [sub] φ ε [end_sub] ⊗ Id ⊗ Id [end_math]
+
+[math] [sub] x u [end_sub] ​ 𝔳 [end_math]
+
+[math] [sub] x [arg] u , ε [end_arg] [end_sub] ​ 𝔳 [end_math]
+
+[math] n ≥ 1 [end_math]
+
+[math] ≤ n [end_math]
+
+[math] 𝔲 = [sub] x [arg] t , ε [end_arg] [end_sub] ​ 𝔱 [end_math]
+
+[math] ≤ n [end_math]
+
+[math] Δ ​ ( [sub] x [arg] t , ε [end_arg] [end_sub] ) = 1 ⊗ [sub] x [arg] t , ε [end_arg] [end_sub] + ∑ [sub] a [arg] t , ε [end_arg] [end_sub] ⊗ [sub] b t [end_sub] , and ​ Δ ​ ( 𝔱 ) = ∑ [sub] a 𝔱 [end_sub] ⊗ [sub] b 𝔱 [end_sub] . [end_math]
+
+[math] [sub] a [arg] t , ε [end_arg] [end_sub] ∈ Γ [end_math]
+
+[math] [sub] b [arg] t , ε [end_arg] [end_sub] , [sub] a 𝔱 [end_sub] , [sub] b 𝔱 [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] Δ ​ ( [sub] x [arg] t , ε [end_arg] [end_sub] ​ 𝔱 ) = 1 ⊗ [sub] x [arg] t , ε [end_arg] [end_sub] + ∑ [sub] a [arg] t , ε [end_arg] [end_sub] ​ [sub] a 𝔱 [end_sub] ⊗ ( [sub] b t [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔱 [end_sub] ) , [end_math]
+
+[math] [sub] x [arg] t , ε [end_arg] [end_sub] ​ 𝔱 [end_math]
+
+[math] ∑ ( Δ ​ ( [sub] a [arg] t , ε [end_arg] [end_sub] ​ [sub] a 𝔱 [end_sub] ) − 1 ⊗ [sub] a [arg] t , ε [end_arg] [end_sub] ​ [sub] a 𝔱 [end_sub] ) ⊗ ( [sub] b t [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔱 [end_sub] ) = ∑ [sub] a [arg] t , ε [end_arg] [end_sub] ​ [sub] a 𝔱 [end_sub] ⊗ ( Δ ​ ( [sub] b t [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] b 𝔱 [end_sub] ) ) . [end_math]
+
+[math] 𝔱 = 1 [end_math]
+
+[math] Δ ​ ( 𝔱 ) = 1 ⊗ 1 [end_math]
+
+[math] ∑ ( Δ ​ ( [sub] a [arg] t , ε [end_arg] [end_sub] ) − 1 ⊗ [sub] a [arg] t , ε [end_arg] [end_sub] ) ⊗ [sub] b t [end_sub] = ∑ [sub] a [arg] t , ε [end_arg] [end_sub] ⊗ Δ ​ ( [sub] b t [end_sub] ) . [end_math]
+
+[math] 𝔲 = [sub] x u [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 [end_math]
+
+[math] n + 1 [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x u [end_sub] + ∑ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] , [end_math]
+
+[math] Δ ​ ( [sub] x v [end_sub] ) [end_math]
+
+[math] = 1 ⊗ [sub] x v [end_sub] + ∑ [sub] a v [end_sub] ⊗ [sub] b v [end_sub] , so ​ Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ) = 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] + ∑ [sub] a [arg] u , β [end_arg] [end_sub] ⊗ [sub] b v [end_sub] , [end_math]
+
+[math] Δ ​ ( 𝔳 ) [end_math]
+
+[math] = ∑ [sub] a 𝔳 [end_sub] ⊗ [sub] b 𝔳 [end_sub] , [end_math]
+
+[math] [sub] a u [end_sub] , [sub] a v [end_sub] ∈ Σ [end_math]
+
+[math] [sub] b u [end_sub] , [sub] b v [end_sub] ∈ ⟨ Σ ⟩ [end_math]
+
+[math] [sub] a 𝔳 [end_sub] , [sub] b 𝔳 [end_sub] ∈ ⟨ Γ ⟩ [end_math]
+
+[math] [sub] a [arg] u , β [end_arg] [end_sub] = [sub] φ β [end_sub] ​ ( [sub] a u [end_sub] ) [end_math]
+
+[math] Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) = 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 + ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] x u [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) = 1 ⊗ [sub] x u [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 + ∑ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] ( Id ⊗ Δ ) ​ Δ ​ ( [sub] x u [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ 1 ⊗ [sub] x u [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 + ∑ 1 ⊗ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a u [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] ( Δ ⊗ Id ) ​ Δ ​ ( [sub] x u [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = [end_math]
+
+[math] 1 ⊗ 1 ⊗ [sub] x u [end_sub] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 + ∑ Δ ​ ( [sub] a u [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ Δ ​ ( [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] ∑ 1 ⊗ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a u [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) , [end_math]
+
+[math] = [end_math]
+
+[math] ∑ Δ ​ ( [sub] a u [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ Δ ​ ( [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] ∑ 1 ⊗ [sub] a u [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) + ∑ [sub] a u [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) − ∑ Δ ​ ( [sub] a u [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = ∑ [sub] a u [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) − ( ∑ ( Δ ​ ( [sub] a u [end_sub] ) − 1 ⊗ [sub] a u [end_sub] ) ⊗ [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = ∑ [sub] a u [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) − ( ∑ [sub] a u [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ) ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) [end_math]
+
+[math] = ∑ [sub] a u [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) ) − ∑ [sub] a u [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) ) [end_math]
+
+[math] = ∑ [sub] a u [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( Δ ​ ( [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) − 1 ⊗ [sub] x [arg] v , β [end_arg] [end_sub] ​ 𝔳 ) ) [end_math]
+
+[math] = ∑ [sub] a u [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) ) [end_math]
+
+[math] ∑ Δ ​ ( [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] + ∑ [sub] a u [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) ) . [end_math]
+
+[math] [sub] ∑ u [end_sub] [end_math]
+
+[math] ( [sub] a u [end_sub] , [sub] b u [end_sub] ) [end_math]
+
+[math] [sub] ∑ [arg] ( v , β ) [end_arg] [end_sub] [end_math]
+
+[math] [sub] ∑ 𝔳 [end_sub] [end_math]
+
+[math] [sub] a u [end_sub] [end_math]
+
+[math] [sub] b u [end_sub] [end_math]
+
+[math] ∑ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] b v [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] b 𝔳 [end_sub] ) ) + ∑ [sub] a u [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) ) [end_math]
+
+[math] = ( 1 ⊗ Δ ​ ( [sub] b u [end_sub] ) ) ​ [error] \shuffle [end_error] ​ ( ∑ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( Δ ​ ( [sub] b v [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] b 𝔳 [end_sub] ) ) + ∑ [sub] a u [end_sub] ⊗ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) [end_math]
+
+[math] = ( [sub] a u [end_sub] ⊗ 1 ⊗ 1 ) ⋅ ( ( 1 ⊗ Δ ​ ( [sub] b u [end_sub] ) ) ​ [error] \shuffle [end_error] ​ ( ∑ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( Δ ​ ( [sub] b v [end_sub] ) ​ [error] \shuffle [end_error] ​ Δ ​ ( [sub] b 𝔳 [end_sub] ) ) + ∑ 1 ⊗ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) ) [end_math]
+
+[math] = ( [sub] a u [end_sub] ⊗ 1 ⊗ 1 ) ⋅ ( ( 1 ⊗ Δ ​ ( [sub] b u [end_sub] ) ) ​ [error] \shuffle [end_error] ​ ( ∑ Δ ​ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) ) . [end_math]
+
+[math] ⋅ [end_math]
+
+[math] ∑ Δ ​ ( [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] = ∑ 1 ⊗ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) + ∑ ( [sub] a u [end_sub] ⊗ 1 ⊗ 1 ) ⋅ ( ( 1 ⊗ Δ ​ ( [sub] b u [end_sub] ) ) ​ [error] \shuffle [end_error] ​ ( ∑ Δ ​ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) ) . [end_math]
+
+[math] [sub] a u [end_sub] [end_math]
+
+[math] [sub] a [arg] v , β [end_arg] [end_sub] [end_math]
+
+[math] [sub] a 𝔳 [end_sub] [end_math]
+
+[math] b [end_math]
+
+[math] Δ ​ ( [sub] a u [end_sub] ) = 1 ⊗ [sub] a u [end_sub] + [under] ∑ [arg] ( 1 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] d [arg] ( 1 ) [end_arg] [end_sub] , Δ ​ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) = [under] ∑ [arg] ( 2 ) [end_arg] [end_under] [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ [sub] d [arg] ( 2 ) [end_arg] [end_sub] . [end_math]
+
+[math] Δ ​ ( [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) = 1 ⊗ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] + [under] ∑ [arg] ( 1 ) , ( 2 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( [sub] d [arg] ( 1 ) [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] d [arg] ( 2 ) [end_arg] [end_sub] ) . [end_math]
+
+[math] ∑ Δ ​ ( [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] [sub] a u [end_sub] [end_math]
+
+[math] [sub] a [arg] v , β [end_arg] [end_sub] [end_math]
+
+[math] [sub] a 𝔳 [end_sub] [end_math]
+
+[math] ( 1 ⊗ [sub] a u [end_sub] ​ [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] + ( [under] ∑ [arg] ( 1 ) , ( 2 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( [sub] d [arg] ( 1 ) [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] d [arg] ( 2 ) [end_arg] [end_sub] ) ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) . [end_math]
+
+[math] Δ ​ ( [sub] a [arg] v , β [end_arg] [end_sub] ​ [sub] a 𝔳 [end_sub] ) [end_math]
+
+[math] [under] ∑ [arg] u , ( v , β ) , 𝔳 [end_arg] [end_under] ( [under] ∑ [arg] ( 1 ) , ( 2 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( [sub] d [arg] ( 1 ) [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] d [arg] ( 2 ) [end_arg] [end_sub] ) ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) [end_math]
+
+[math] − [end_math]
+
+[math] ∑ [sub] a u [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] d [arg] ( 2 ) [end_arg] [end_sub] ⊗ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) . [end_math]
+
+[math] [sub] a u [end_sub] [end_math]
+
+[math] [sub] a [arg] v , β [end_arg] [end_sub] [end_math]
+
+[math] [sub] a 𝔳 [end_sub] [end_math]
+
+[math] [sub] c [arg] ( 2 ) [end_arg] [end_sub] [end_math]
+
+[math] [under] ∑ [arg] ( 1 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( [sub] d [arg] ( 1 ) [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] d [arg] ( 2 ) [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) − [sub] a u [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] d [arg] ( 2 ) [end_arg] [end_sub] ⊗ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) . [end_math]
+
+[math] [under] ∑ [arg] ( 1 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( [sub] d [arg] ( 1 ) [end_arg] [end_sub] ​ [error] \shuffle [end_error] ​ [sub] d [arg] ( 2 ) [end_arg] [end_sub] ) ⊗ ( [sub] b u [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) − [sub] a u [end_sub] ​ [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ ( Δ ​ ( [sub] b u [end_sub] ) ​ [error] \shuffle [end_error] ​ ( [sub] d [arg] ( 2 ) [end_arg] [end_sub] ⊗ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) [end_math]
+
+[math] = ( ( [under] ∑ [arg] ( 1 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] d [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] b u [end_sub] − [sub] a u [end_sub] ⊗ Δ ​ ( [sub] b u [end_sub] ) ) ​ [error] \shuffle [end_error] ​ ( 1 ⊗ [sub] d [arg] ( 2 ) [end_arg] [end_sub] ⊗ [sub] b v [end_sub] ​ [error] \shuffle [end_error] ​ [sub] b 𝔳 [end_sub] ) ) ⋅ ( [sub] c [arg] ( 2 ) [end_arg] [end_sub] ⊗ 1 ⊗ 1 ) , [end_math]
+
+[math] [under] ∑ [arg] ( 1 ) [end_arg] [end_under] [sub] c [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] d [arg] ( 1 ) [end_arg] [end_sub] ⊗ [sub] b u [end_sub] − [sub] a u [end_sub] ⊗ 1 ⊗ Δ ​ ( [sub] b u [end_sub] ) = ( Δ ​ ( [sub] a u [end_sub] ) − 1 ⊗ [sub] a u [end_sub] ) ⊗ [sub] b u [end_sub] − [sub] a u [end_sub] ⊗ 1 ⊗ Δ ​ ( [sub] b u [end_sub] ) . [end_math]
+
+[math] [sub] a u [end_sub] [end_math]
+
+[math] [under] ∑ u [end_under] ( Δ ​ ( [sub] a u [end_sub] ) ⊗ [sub] b u [end_sub] − 1 ⊗ [sub] a u [end_sub] ⊗ [sub] b u [end_sub] − [sub] a u [end_sub] ⊗ 1 ⊗ Δ ​ ( [sub] b u [end_sub] ) ) = 0 , [end_math]
+
+[math] ℭ [end_math]
+
+[math] 𝔲 ∈ Σ [end_math]
+
+[math] 𝔲 ∈ Γ [end_math]
+
+[math] 𝔲 ∈ ⟨ Γ ⟩ [end_math]
+
+[math] 𝔇 [end_math]
+
+[math] ϵ : 𝔇 → [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ϵ ​ ( 1 ) = 1 [end_math]
+
+[math] ϵ ​ ( 𝔲 ) = 0 [end_math]
+
+[math] ( 𝔇 , [error] \shuffle [end_error] , u , Δ , ϵ ) [end_math]
+
+[math] [error] \shuffle [end_error] [end_math]
+
+[math] Δ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] ( 𝔇 , [error] \shuffle [end_error] , u , Δ , ϵ ) [end_math]
+
+[math] ( 𝔇 , [error] \shuffle [end_error] , u , Δ , ϵ ) [end_math]
+
+[math] [sub] 𝔽 q [end_sub] [end_math]
+
+[math] t [end_math]
+
+[math] Γ [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ [ t ] [end_math]
+
+[math] L [end_math]
+
+[math] ℤ [end_math]
+
+[math] t [end_math]
+
+[math] t [end_math]
+
+[math] t [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ [ t ] [end_math]
+
+[math] [sub] G m [end_sub] − [sub] μ N [end_sub] [end_math]
+
+[math] N = 2 , 3 , 4 , 6 [end_math]
+
+[math] 8 [end_math]
+
+[math] Gal ​ ( [over] 𝐐 ¯ [end_over] / 𝐐 ) [end_math]
+
+[math] t [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ [ t ] [end_math]
+
+[math] L [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ [ t ] [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ [ t ] [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ [ t ] [end_math]
+
+[math] t [end_math]
+
+[math] [sub] 𝔽 q [end_sub] ​ ( t ) [end_math]
+
+[math] p [end_math]

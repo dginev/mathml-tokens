@@ -12,6 +12,7 @@ pub enum VisitMode {
   Tokens,
   Skip,
   Args,
+  Literal,
   Unwrap,
 }
 
@@ -35,7 +36,6 @@ pub fn node_to_token(name:&[u8]) -> (&'static str,VisitMode) {
     b"math" => ("math",Tokens),
     b"mrow" | b"mstyle" | b"mi" | b"mn" | b"mo" | b"ms" | b"mtext" | b"mpadded" => ("",Tokens),
     b"semantics" => ("",Unwrap), // "semantics" realized by virtue of skipping all non-presentation children
-    b"mspace" => (" ",Tokens),
     b"mroot" => ("root",Tokens),
     b"msqrt" => ("sqrt",Tokens),
     b"merror" => ("error",Tokens),
@@ -51,20 +51,23 @@ pub fn node_to_token(name:&[u8]) -> (&'static str,VisitMode) {
     b"msup" => ("sup",Args),
     b"mmultiscripts" => ("multiscripts",Args),
     b"mprescripts" => ("prescripts",Args),
+    // PMML cases where we ignore arguments and just replace with literal text
+    b"mspace" => (" ",Literal),
+    b"mglyph" => ("glyph", Literal),
     // Content MathML
     b"annotation" | b"annotation-xml" | b"maction" | b"mphantom" | b"apply" |
     b"vector" | b"matrix" | b"interval" | b"gt" | b"lt" | b"in" | b"set" | b"leq" | b"geq" |
     b"plus" | b"log" | b"sum" | b"floor" | b"matrixrow" | b"cerror" | b"approx" | b"and" |
     b"share" | b"max" | b"min" | b"list" | b"limit" | b"infinity" | b"neq" | b"ceiling" |
     b"union" | b"none" | b"abs" | b"notin" | b"subset" | b"intersect" | b"emptyset" | b"compose" |
-    b"eq" | b"divide" | b"root" | b"csymbol" | b"minus" | b"ci" | b"cn" | b"times" => ("",Skip),
-    // HTML Realm
+    b"eq" | b"divide" | b"root" | b"csymbol" | b"minus" | b"ci" | b"cn" | b"times" | b"factorial" => ("",Skip),
+    // HTML+SVG Realm
     b"span" | b"em" => ("",Unwrap), // some regular HTML elements may show up inside <mtext>
     b"html" | b"body" | b"div" | b"li" | b"ul" | b"ol" | b"p" | b"a" |
-    b"h1" | b"h2" | b"h3" | b"h4" | b"h5" | b"h6" | b"h7" | b"table" | b"tr" | b"td" |
-    b"article" | b"section" | b"tbody" | b"sup" | b"sub" | b"figure" | b"figcaption" => ("",Unwrap),
-    b"svg" | b"img" | b"mglyph" => ("image", Skip),
-    b"head" | b"meta" | b"title" | b"cite" => ("",Skip),
+    b"h1" | b"h2" | b"h3" | b"h4" | b"h5" | b"h6" | b"h7" | b"table" | b"tr" | b"td" | b"br" |
+    b"article" | b"section" | b"tbody" | b"sup" | b"sub" | b"figure" | b"figcaption" |
+    b"svg" | b"foreignObject" |  b"g"=> ("",Unwrap), // unwrap to preserve any math inside SVG diagrams
+    b"head" | b"meta" | b"title" | b"cite" | b"path" | b"nav" | b"main" | b"img" | b"style" => ("",Skip),
     other => {
       eprintln!("-- unexpected node start in MathML: {}; skipping.", String::from_utf8_lossy(other));
       ("", Skip)
@@ -80,8 +83,20 @@ fn text_to_tokens(runtime: &mut Runtime, text:&str) {
     // trim text contents
     let text_trim = text.trim().replace('\u{2062}', "");
     if !text_trim.is_empty() {
-      if !tokens.is_empty() { tokens.push(' ');}
+      if !(tokens.is_empty() || tokens.ends_with(' ')) { tokens.push(' ');}
       tokens.push_str(&text_trim);
+    }
+  }
+}
+
+fn literal_tokens(runtime: &mut Runtime, literal:&str) {
+  use VisitMode::*;
+  let Runtime {current_mode, ref mut tokens, ..} = runtime;
+  if !literal.is_empty() && !matches!(current_mode, Skip | Unwrap) {
+    if !(tokens.is_empty() || tokens.ends_with(' ')) { tokens.push(' '); }
+    let literal_trim_left = literal.trim_start();
+    if !literal_trim_left.is_empty() {
+      tokens.push_str(literal_trim_left);
     }
   }
 }
@@ -107,10 +122,13 @@ fn build_tokens(runtime:&mut Runtime, piece: &str, mut node_mode: VisitMode) {
   } else if matches!(current_mode, Skip) {
     // Skip applies to all descendants, until it is popped.  
     node_mode = Skip;
+  } else if matches!(node_mode, Literal) {
+    literal_tokens(runtime, piece);
+    return;
   }
   // Handle STARTs of tags
   if !piece.is_empty() && matches!(event,Start) && !matches!(current_mode, Skip) {
-    if !tokens.is_empty() && piece != "math" {
+    if !(tokens.is_empty() || tokens.ends_with(' ')) && piece != "math" {
       tokens.push(' ');
     }
     if *math_token || piece != "math" {
@@ -192,7 +210,7 @@ fn build_tokens(runtime:&mut Runtime, piece: &str, mut node_mode: VisitMode) {
     }
     // Handle ENDs of tags
     if !piece.is_empty() && !matches!(*current_mode, Skip) && (*math_token || piece != "math") {
-      if !tokens.is_empty() {
+      if !(tokens.is_empty() || tokens.ends_with(' ')) {
         tokens.push(' ');
       }
       tokens.push(TOKEN_START_CHAR);
