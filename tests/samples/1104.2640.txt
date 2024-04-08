@@ -1,0 +1,3853 @@
+[math] G [end_math]
+
+[math] 𝐤 [end_math]
+
+[math] 2 [end_math]
+
+[math] ℬ [end_math]
+
+[math] G [end_math]
+
+[math] K [end_math]
+
+[math] G [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] G [end_math]
+
+[math] K [end_math]
+
+[math] 𝐤 = ℂ [end_math]
+
+[math] G [end_math]
+
+[math] G [end_math]
+
+[math] ℬ [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] G [end_math]
+
+[math] 𝐤 [end_math]
+
+[math] 2 [end_math]
+
+[math] ℬ [end_math]
+
+[math] G [end_math]
+
+[math] G [end_math]
+
+[math] θ [end_math]
+
+[math] 2 [end_math]
+
+[math] G [end_math]
+
+[math] θ [end_math]
+
+[math] K = [sup] G θ [end_sup] [end_math]
+
+[math] ℬ [end_math]
+
+[math] V [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] K ( v ) ⊂ ℬ [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] X [end_math]
+
+[math] ℬ [end_math]
+
+[math] [over] X ¯ [end_over] [end_math]
+
+[math] X [end_math]
+
+[math] ℬ [end_math]
+
+[math] V [end_math]
+
+[math] ≤ [end_math]
+
+[math] [sub] v 1 [end_sub] ≤ [sub] v 2 [end_sub] if K ( [sub] v 1 [end_sub] ) ⊂ [over] [arg] K ( [sub] v 2 [end_sub] ) [end_arg] ¯ [end_over] , [sub] v 1 [end_sub] , [sub] v 2 [end_sub] ∈ V . [end_math]
+
+[math] 𝐤 = ℂ [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] G [end_math]
+
+[math] ( V , ≤ ) [end_math]
+
+[math] W [end_math]
+
+[math] G [end_math]
+
+[math] S [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] § [end_math]
+
+[math] § [end_math]
+
+[math] V [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] V [end_math]
+
+[math] § [end_math]
+
+[math] W [end_math]
+
+[math] V [end_math]
+
+[math] § [end_math]
+
+[math] ϕ : V → W [end_math]
+
+[math] § [end_math]
+
+[math] [sub] V 0 [end_sub] = { v ∈ V : K ( v ) ⊂ ℬ is closed } [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] W [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] K ( v ) [end_math]
+
+[math] ℬ [end_math]
+
+[math] V [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] V [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] W [end_math]
+
+[math] ϕ ( v ) ∈ W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ( G , θ ) [end_math]
+
+[math] § [end_math]
+
+[math] [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] K ( v ) [end_math]
+
+[math] k = ℂ [end_math]
+
+[math] K [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] G [end_math]
+
+[math] K [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] ℬ [end_math]
+
+[math] § [end_math]
+
+[math] § [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] W [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] § [end_math]
+
+[math] § [end_math]
+
+[math] § [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v [end_math]
+
+[math] § [end_math]
+
+[math] § [end_math]
+
+[math] V [end_math]
+
+[math] ( B , H ) [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] H ⊂ B [end_math]
+
+[math] G [end_math]
+
+[math] θ ( B ) = B [end_math]
+
+[math] θ ( H ) = H [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] § [end_math]
+
+[math] § [end_math]
+
+[math] V [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ W [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ W [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { w ∈ W : K ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ } , [end_math]
+
+[math] B [end_math]
+
+[math] G [end_math]
+
+[math] K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] B ( w ) [end_math]
+
+[math] B [end_math]
+
+[math] ℬ [end_math]
+
+[math] § [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] M ( W , S ) = { m ( w ) : w ∈ W } [end_math]
+
+[math] V [end_math]
+
+[math] m ( w ) ⋅ v [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] § [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ V [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { w ∈ W : v ≤ m ( w ) ⋅ [sub] v 0 [end_sub] } ⊂ W , [end_math]
+
+[math] ≤ [end_math]
+
+[math] V [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] l : W → ℕ [end_math]
+
+[math] ≤ [end_math]
+
+[math] W [end_math]
+
+[math] § [end_math]
+
+[math] § [end_math]
+
+[math] [sub] W 1 [end_sub] [end_math]
+
+[math] W [end_math]
+
+[math] w ∈ [sub] W 1 [end_sub] [end_math]
+
+[math] [sub] w 1 [end_sub] ∈ [sub] W 1 [end_sub] [end_math]
+
+[math] [sub] w 1 [end_sub] ≤ w [end_math]
+
+[math] [sub] w 1 [end_sub] = w [end_math]
+
+[math] [sub] W 1 [end_sub] [end_math]
+
+[math] min ⁡ ( [sub] W 1 [end_sub] ) [end_math]
+
+[math] w ∈ [sub] W 1 [end_sub] [end_math]
+
+[math] l ( w ) ≤ l ( [sub] w 1 [end_sub] ) [end_math]
+
+[math] [sub] w 1 [end_sub] ∈ [sub] W 1 [end_sub] [end_math]
+
+[math] [sub] W 1 [end_sub] [end_math]
+
+[math] [sub] min l [end_sub] ⁡ ( [sub] W 1 [end_sub] ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] = min ⁡ ( [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ) ⊂ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) , [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] = [sub] min l [end_sub] ( [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ) = [sub] min l [end_sub] ( [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ) ⊂ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) . [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ V [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) iff y ≤ w for some y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) . [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] § [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] ℬ [end_math]
+
+[math] 𝐤 = ℂ [end_math]
+
+[math] K [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] G [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ⊂ ℬ [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] ℬ [end_math]
+
+[math] K ( v ) ⊂ ℬ [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ B ( w ) ≠ ∅ 𝑖𝑓𝑓 w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) . [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] Π [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] B [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] H 0 [end_sub] [end_math]
+
+[math] Π [end_math]
+
+[math] [sub] H 0 [end_sub] = B ∩ [sub] G 0 [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] B [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] W [end_math]
+
+[math] Π [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] K ( v ) [end_math]
+
+[math] ( ϕ ( v ) , [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ϕ : V → W [end_math]
+
+[math] § [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] ϕ ( v ) = ϕ ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ∩ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sup] v ′ [end_sup] ) ≠ ∅ , [end_math]
+
+[math] v = [sup] v ′ [end_sup] [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] ϕ ( v ) = ϕ ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ∩ [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sup] v ′ [end_sup] ) ≠ ∅ , [end_math]
+
+[math] v = [sup] v ′ [end_sup] [end_math]
+
+[math] V [end_math]
+
+[math] § [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] ( [sup] 𝐯 ′ [end_sup] , [sup] 𝐬 ′ [end_sup] ) [end_math]
+
+[math] [sup] v ′ [end_sup] [end_math]
+
+[math] v ≤ [sup] v ′ [end_sup] [end_math]
+
+[math] ( [sup] 𝐯 ′ [end_sup] , [sup] 𝐬 ′ [end_sup] ) [end_math]
+
+[math] v [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] y [end_math]
+
+[math] v [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] 𝐯 = ( [sub] v 0 [end_sub] , [sub] v 1 [end_sub] , … , [sub] v k [end_sub] ) [end_math]
+
+[math] V [end_math]
+
+[math] 𝐬 = ( [sub] s 1 [end_sub] , … , [sub] s k [end_sub] ) [end_math]
+
+[math] S [end_math]
+
+[math] j ∈ [ 1 , k ] [end_math]
+
+[math] [sub] v j [end_sub] [end_math]
+
+[math] [sub] s j [end_sub] [end_math]
+
+[math] [sub] v [arg] j - 1 [end_arg] [end_sub] [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] y ( 𝐯 , 𝐬 ) = [sub] s k [end_sub] ⋯ [sub] s 1 [end_sub] ∈ W [end_math]
+
+[math] [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] 𝒫 short [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] = { y ( 𝐯 , 𝐬 ) : ( 𝐯 , 𝐬 ) ∈ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) } [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] = { y ( 𝐯 , 𝐬 ) : ( 𝐯 , 𝐬 ) ∈ [sub] 𝒫 short [end_sub] ( [sub] v 0 [end_sub] , v ) } . [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] W [end_math]
+
+[math] G [end_math]
+
+[math] S [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] V [end_math]
+
+[math] V [end_math]
+
+[math] § [end_math]
+
+[math] Q [end_math]
+
+[math] G [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] [sup] Q g [end_sup] [end_math]
+
+[math] [sup] g [arg] - 1 [end_arg] [end_sup] Q g [end_math]
+
+[math] G [end_math]
+
+[math] G [end_math]
+
+[math] ℬ [end_math]
+
+[math] ℬ × G → ℬ : ( B , g ) ↦ [sup] B g [end_sup] [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] L [end_math]
+
+[math] X [end_math]
+
+[math] L \ X [end_math]
+
+[math] X / L [end_math]
+
+[math] L [end_math]
+
+[math] X [end_math]
+
+[math] X [end_math]
+
+[math] G [end_math]
+
+[math] ℬ [end_math]
+
+[math] ℬ × ℬ [end_math]
+
+[math] [over] X ¯ [end_over] [end_math]
+
+[math] X [end_math]
+
+[math] G [end_math]
+
+[math] ℬ [end_math]
+
+[math] ℬ × ℬ [end_math]
+
+[math] 𝒞 [end_math]
+
+[math] 𝒞 [end_math]
+
+[math] ( B , H ) [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] H ⊂ B [end_math]
+
+[math] G [end_math]
+
+[math] G [end_math]
+
+[math] 𝒞 [end_math]
+
+[math] 𝒞 × G ⟶ 𝒞 : [sup] [arg] ( B , H ) [end_arg] g [end_sup] = ( [sup] B g [end_sup] , [sup] H g [end_sup] ) , ( B , H ) ∈ 𝒞 , g ∈ G . [end_math]
+
+[math] G [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] H [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] G [end_math]
+
+[math] [sub] C [arg] B , H [end_arg] [end_sub] : H \ G ⟶ 𝒞 : H g ⟼ ( [sup] B g [end_sup] , [sup] H g [end_sup] ) , g ∈ G . [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] N G [end_sub] ( H ) [end_math]
+
+[math] H [end_math]
+
+[math] G [end_math]
+
+[math] [sub] W H [end_sub] = [sub] N G [end_sub] ( H ) / H [end_math]
+
+[math] ( G , H ) [end_math]
+
+[math] [sub] S [arg] B , H [end_arg] [end_sub] [end_math]
+
+[math] [sub] W H [end_sub] [end_math]
+
+[math] B [end_math]
+
+[math] H [end_math]
+
+[math] ( B , H ) , ( [sup] B ′ [end_sup] , [sup] H ′ [end_sup] ) ∈ 𝒞 [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] [sup] B ′ [end_sup] = [sup] B g [end_sup] [end_math]
+
+[math] [sup] H ′ [end_sup] = [sup] H g [end_sup] [end_math]
+
+[math] g [end_math]
+
+[math] H [end_math]
+
+[math] [subsup] T [arg] B , H [end_arg] [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_subsup] : H ⟶ [sup] H ′ [end_sup] : h ⟼ [sup] g [arg] - 1 [end_arg] [end_sup] h g , h ∈ H . [end_math]
+
+[math] [sub] N G [end_sub] ( H ) → [sub] N G [end_sub] ( [sup] H ′ [end_sup] ) : n → [sup] g [arg] - 1 [end_arg] [end_sup] n g [end_math]
+
+[math] g [end_math]
+
+[math] [subsup] η [arg] B , H [end_arg] [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_subsup] : [sub] W H [end_sub] ⟶ [sub] W [arg] [sup] H ′ [end_sup] [end_arg] [end_sub] : n H ⟼ [sup] g [arg] - 1 [end_arg] [end_sup] n g [sup] H ′ [end_sup] , n ∈ [sub] N G [end_sub] ( H ) [end_math]
+
+[math] [subsup] η [arg] B , H [end_arg] [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_subsup] ( [sub] S [arg] B , H [end_arg] [end_sub] ) = [sub] S [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_sub] [end_math]
+
+[math] [subsup] η [arg] B , H [end_arg] [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_subsup] : ( [sub] W H [end_sub] , [sub] S [arg] B , H [end_arg] [end_sub] ) → ( [sub] W [arg] [sup] H ′ [end_sup] [end_arg] [end_sub] , [sub] S [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_sub] ) [end_math]
+
+[math] W = ( ℬ × ℬ ) / G [end_math]
+
+[math] G [end_math]
+
+[math] ℬ × ℬ [end_math]
+
+[math] G [end_math]
+
+[math] p : ℬ × ℬ → W [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] η [arg] B , H [end_arg] [end_sub] : [sub] W H [end_sub] ⟶ W : n H ⟼ p ( [sup] B n [end_sup] , B ) , n ∈ [sub] N G [end_sub] ( H ) [end_math]
+
+[math] ( [sup] B ′ [end_sup] , [sup] H ′ [end_sup] ) ∈ 𝒞 [end_math]
+
+[math] [subsup] η [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [arg] - 1 [end_arg] [end_subsup] ∘ [sub] η [arg] B , H [end_arg] [end_sub] = [subsup] η [arg] B , H [end_arg] [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_subsup] : [sub] W H [end_sub] ⟶ [sub] W [arg] [sup] H ′ [end_sup] [end_arg] [end_sub] . [end_math]
+
+[math] W [end_math]
+
+[math] [sub] η [arg] B , H [end_arg] [end_sub] : [sub] W H [end_sub] → W [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] S = [sub] η [arg] B , H [end_arg] [end_sub] ( [sub] S [arg] B , H [end_arg] [end_sub] ) ⊂ W [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] S [end_math]
+
+[math] W [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] ( W , S ) [end_math]
+
+[math] G [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] w [end_math]
+
+[math] w = [sub] s 1 [end_sub] ⋯ [sub] s [arg] l ( w ) [end_arg] [end_sub] [end_math]
+
+[math] w [end_math]
+
+[math] S [end_math]
+
+[math] l ( w ) [end_math]
+
+[math] w [end_math]
+
+[math] W [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] 𝒪 ( w ) = { ( [sup] B ′ [end_sup] , B ) ∈ ℬ × ℬ : p ( [sup] B ′ [end_sup] , B ) = w } ⊂ ℬ × ℬ [end_math]
+
+[math] G [end_math]
+
+[math] ℬ × ℬ [end_math]
+
+[math] W [end_math]
+
+[math] w ≤ [sup] w ′ [end_sup] if 𝒪 ( w ) ⊂ [over] [arg] 𝒪 ( [sup] w ′ [end_sup] ) [end_arg] ¯ [end_over] , w , [sup] w ′ [end_sup] ∈ W . [end_math]
+
+[math] w ≤ [sup] w ′ [end_sup] [end_math]
+
+[math] w ≠ [sup] w ′ [end_sup] [end_math]
+
+[math] w < [sup] w ′ [end_sup] [end_math]
+
+[math] [sup] w ′ [end_sup] > w [end_math]
+
+[math] w , [sup] w ′ [end_sup] ∈ W [end_math]
+
+[math] [sup] w ′ [end_sup] ≤ w [end_math]
+
+[math] w = [sub] s 1 [end_sub] ⋯ [sub] s [arg] l ( w ) [end_arg] [end_sub] [end_math]
+
+[math] w [end_math]
+
+[math] [sup] w ′ [end_sup] = [sub] s [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] i p [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] 1 ≤ [sub] i 1 [end_sub] < ⋯ < [sub] i p [end_sub] ≤ l ( w ) [end_math]
+
+[math] [sub] W 1 [end_sub] [end_math]
+
+[math] W [end_math]
+
+[math] § [end_math]
+
+[math] min ⁡ ( [sub] W 1 [end_sub] ) [end_math]
+
+[math] [sub] W 1 [end_sub] [end_math]
+
+[math] [sub] min l [end_sub] ⁡ ( [sub] W 1 [end_sub] ) [end_math]
+
+[math] [sub] W 1 [end_sub] [end_math]
+
+[math] [sub] W 1 [end_sub] [end_math]
+
+[math] [sub] W 2 [end_sub] [end_math]
+
+[math] W [end_math]
+
+[math] min ⁡ ( [sub] W 2 [end_sub] ) ⊂ [sub] W 1 [end_sub] ⊂ [sub] W 2 [end_sub] [end_math]
+
+[math] min ⁡ ( [sub] W 1 [end_sub] ) = min ⁡ ( [sub] W 2 [end_sub] ) [end_math]
+
+[math] [sub] min l [end_sub] ⁡ ( [sub] W 1 [end_sub] ) = [sub] min l [end_sub] ⁡ ( [sub] W 2 [end_sub] ) [end_math]
+
+[math] ℬ [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] B [end_math]
+
+[math] ℬ [end_math]
+
+[math] W [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] B ( w ) = { [sup] B ′ [end_sup] ∈ ℬ : p ( [sup] B ′ [end_sup] , B ) = w } ⊂ ℬ . [end_math]
+
+[math] B ( w ) [end_math]
+
+[math] B [end_math]
+
+[math] ℬ [end_math]
+
+[math] w ↦ B ( w ) [end_math]
+
+[math] W [end_math]
+
+[math] B [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] q B [end_sub] : G → ℬ [end_math]
+
+[math] [sub] q B [end_sub] ( g ) = [sup] B g [end_sup] [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] B w B = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( B ( w ) ) = { g ∈ G : p ( [sup] B g [end_sup] , B ) = w } ⊂ G . [end_math]
+
+[math] B w B [end_math]
+
+[math] ( B , B ) [end_math]
+
+[math] G [end_math]
+
+[math] w , [sup] w ′ [end_sup] ∈ W [end_math]
+
+[math] w ≤ [sup] w ′ [end_sup] iff B ( w ) ⊂ [over] [arg] B ( [sup] w ′ [end_sup] ) [end_arg] ¯ [end_over] iff B w B ⊂ [over] [arg] B [sup] w ′ [end_sup] B [end_arg] ¯ [end_over] . [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] V [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] ( W , S ) [end_math]
+
+[math] M ( W , S ) = { m ( w ) : w ∈ W } [end_math]
+
+[math] m ( s ) m ( w ) = { [table] [tr] [td] m ( s w ) , [end_td] [td] if s w > w [end_td] [end_tr] [tr] [td] m ( w ) , [end_td] [td] if s w < w [end_td] [end_tr] [end_table] , s ∈ S , w ∈ W . [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] B w B = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( B ( w ) ) ⊂ G [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] ∗ : W × W → W [end_math]
+
+[math] [over] [arg] B ( [sub] w 1 [end_sub] ∗ [sub] w 2 [end_sub] ) B [end_arg] ¯ [end_over] = [over] [arg] ( B [sub] w 1 [end_sub] B ) ( B [sub] w 2 [end_sub] B ) [end_arg] ¯ [end_over] , [sub] w 1 [end_sub] , [sub] w 2 [end_sub] ∈ W . [end_math]
+
+[math] ∗ [end_math]
+
+[math] W [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] ( W , ∗ ) → M ( W , S ) : w ↦ m ( w ) [end_math]
+
+[math] [sub] q K [end_sub] : G → G / K [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] B v K = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( K ( v ) ) ⊂ G . [end_math]
+
+[math] [sub] q K [end_sub] ( B v K ) [end_math]
+
+[math] B [end_math]
+
+[math] G / K [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] q K [end_sub] ( ( B w B ) ( B v K ) ) ⊂ G / K [end_math]
+
+[math] B [end_math]
+
+[math] G / K [end_math]
+
+[math] V [end_math]
+
+[math] m ( w ) ⋅ v [end_math]
+
+[math] [over] [arg] [sub] q K [end_sub] ( ( B w B ) ( B v K ) [end_arg] ¯ [end_over] = [over] [arg] [sub] q K [end_sub] ( B ( m ( w ) ⋅ v ) K ) [end_arg] ¯ [end_over] [end_math]
+
+[math] [over] ¯ [end_over] [end_math]
+
+[math] G / K [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [over] [arg] B ( m ( w ) ⋅ v ) K [end_arg] ¯ [end_over] = [over] [arg] ( B w B ) ( B v K ) [end_arg] ¯ [end_over] . [end_math]
+
+[math] M ( W , S ) × V ⟶ V : ( m ( w ) , v ) ⟼ m ( w ) ⋅ v , w ∈ W , v ∈ V , [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] V [end_math]
+
+[math] B ∈ ℬ , [sub] g 0 [end_sub] ∈ G [end_math]
+
+[math] [sup] B ′ [end_sup] = [sup] B [arg] [sub] g 0 [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sup] B ′ [end_sup] w [sup] B ′ [end_sup] = [subsup] g 0 [arg] - 1 [end_arg] [end_subsup] B w B [sub] g 0 [end_sub] [end_math]
+
+[math] [sup] B ′ [end_sup] v K = [subsup] g 0 [arg] - 1 [end_arg] [end_subsup] B v K [end_math]
+
+[math] B [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] ( W , ∗ ) → M ( W , S ) [end_math]
+
+[math] M ( W , S ) [end_math]
+
+[math] V [end_math]
+
+[math] B ∈ ℬ , v ∈ V [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [over] [arg] B ( m ( w ) ⋅ v ) K [end_arg] ¯ [end_over] = [over] [arg] B w B [end_arg] ¯ [end_over] [over] [arg] B v K [end_arg] ¯ [end_over] . [end_math]
+
+[math] w = [sub] s 1 [end_sub] [sub] s 2 [end_sub] ⋯ [sub] s l [end_sub] [end_math]
+
+[math] 1 ≤ j ≤ l [end_math]
+
+[math] [sub] P j [end_sub] = B ∪ B [sub] s j [end_sub] B [end_math]
+
+[math] [sub] P j [end_sub] [end_math]
+
+[math] G [end_math]
+
+[math] [over] [arg] B w B [end_arg] ¯ [end_over] = [sub] P 1 [end_sub] [sub] P 2 [end_sub] ⋯ [sub] P j [end_sub] [end_math]
+
+[math] [over] [arg] B w B [end_arg] ¯ [end_over] [over] [arg] B v K [end_arg] ¯ [end_over] [end_math]
+
+[math] G [end_math]
+
+[math] [over] [arg] B w B [end_arg] ¯ [end_over] [over] [arg] B v K [end_arg] ¯ [end_over] = [over] [arg] ( B w B ) ( B v K ) [end_arg] ¯ [end_over] = [over] [arg] B ( m ( w ) ⋅ v ) K [end_arg] ¯ [end_over] [end_math]
+
+[math] [sub] V 0 [end_sub] = { [sub] v 0 [end_sub] ∈ V : K ( [sub] v 0 [end_sub] ) ⊂ ℬ is closed } [end_math]
+
+[math] X [end_math]
+
+[math] ℬ [end_math]
+
+[math] X ⋅ K = { [sup] B k [end_sup] : B ∈ X , k ∈ K } . [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [over] [arg] K ( m ( w ) ⋅ [sub] v 0 [end_sub] ) [end_arg] ¯ [end_over] = [over] [arg] B ( w ) ⋅ K [end_arg] ¯ [end_over] = [over] [arg] B ( w ) [end_arg] ¯ [end_over] ⋅ K . [end_math]
+
+[math] K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] ℬ [end_math]
+
+[math] B [sub] v 0 [end_sub] K = B K = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( K ( [sub] v 0 [end_sub] ) ) [end_math]
+
+[math] G [end_math]
+
+[math] [over] [arg] B ( m ( w ) ⋅ [sub] v 0 [end_sub] ) K [end_arg] ¯ [end_over] = [over] [arg] B w B [end_arg] ¯ [end_over] [over] [arg] B K [end_arg] ¯ [end_over] = [over] [arg] B w B [end_arg] ¯ [end_over] K . [end_math]
+
+[math] [sub] q B [end_sub] : G → ℬ [end_math]
+
+[math] w , [sup] w ′ [end_sup] ∈ W [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] w ≤ [sup] w ′ [end_sup] [end_math]
+
+[math] v ≤ [sup] v ′ [end_sup] [end_math]
+
+[math] m ( w ) ⋅ v ≤ m ( [sup] w ′ [end_sup] ) ⋅ v 𝑎𝑛𝑑 m ( w ) ⋅ v ≤ m ( w ) ⋅ [sup] v ′ [end_sup] . [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] § [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] W [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { w ∈ W : K ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ } , [end_math]
+
+[math] B [end_math]
+
+[math] G [end_math]
+
+[math] K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ V [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] B , [sup] B ′ [end_sup] ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sup] B ′ [end_sup] = [sup] B k [end_sup] [end_math]
+
+[math] k ∈ K [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [sup] B ′ [end_sup] ( w ) = { [subsup] B 1 k [end_subsup] : [sub] B 1 [end_sub] ∈ B ( w ) } [end_math]
+
+[math] K ( v ) ∩ [over] [arg] [sup] B ′ [end_sup] ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] K ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { w ∈ W : v ≤ m ( w ) ⋅ [sub] v 0 [end_sub] } . [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] V [end_math]
+
+[math] v ≤ m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] K ( v ) ⊂ [over] [arg] K ( m ( w ) ⋅ [sub] v 0 [end_sub] ) [end_arg] ¯ [end_over] = [over] [arg] B ( w ) [end_arg] ¯ [end_over] ⋅ K [end_math]
+
+[math] K ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] § [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] W [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] w ≥ y [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] w ≥ y [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] w ≥ y [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] K ( v ) ∩ [over] [arg] B ( y ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] [over] [arg] B ( y ) [end_arg] ¯ [end_over] ⊂ [over] [arg] B ( w ) [end_arg] ¯ [end_over] [end_math]
+
+[math] K ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = W [end_math]
+
+[math] v = [sub] v 0 [end_sub] [end_math]
+
+[math] 1 [end_math]
+
+[math] W [end_math]
+
+[math] 1 ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] v 0 [end_sub] ) = W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = W [end_math]
+
+[math] 1 ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v ≤ [sub] v 0 [end_sub] [end_math]
+
+[math] K ( [sub] v 0 [end_sub] ) ⊂ ℬ [end_math]
+
+[math] v = [sub] v 0 [end_sub] [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) = { w ∈ W : K ( v ) ∩ B ( w ) ≠ ∅ } . [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) [end_math]
+
+[math] B [end_math]
+
+[math] K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] B ( w ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) = { w ∈ W : w = p ( [sup] B ′ [end_sup] , B ) for some [sup] B ′ [end_sup] ∈ K ( v ) , B ∈ K ( [sub] v 0 [end_sub] ) } . [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) ⊂ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) . [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = min ⁡ ( [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = [sub] min l [end_sub] ⁡ ( [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) ) [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) ⊂ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] w ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] K ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] K ( v ) ∩ B ( [sup] w ′ [end_sup] ) = ∅ [end_math]
+
+[math] [sup] w ′ [end_sup] ∈ W [end_math]
+
+[math] [sup] w ′ [end_sup] < w [end_math]
+
+[math] K ( v ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] w ∈ [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = min ⁡ ( [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = [sub] min l [end_sub] ⁡ ( [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) ) [end_math]
+
+[math] [over] G ~ [end_over] = G × G [end_math]
+
+[math] [over] θ ~ [end_over] : [over] G ~ [end_over] ⟶ [over] G ~ [end_over] : [over] θ ~ [end_over] ( [sub] g 1 [end_sub] , [sub] g 2 [end_sub] ) = ( [sub] g 2 [end_sub] , [sub] g 1 [end_sub] ) , ( [sub] g 1 [end_sub] , [sub] g 2 [end_sub] ) ∈ [over] G ~ [end_over] . [end_math]
+
+[math] [over] K ~ [end_over] [end_math]
+
+[math] [over] θ ~ [end_over] [end_math]
+
+[math] [over] G ~ [end_over] [end_math]
+
+[math] [over] K ~ [end_over] = { ( g , g ) : g ∈ G } [end_math]
+
+[math] [over] V ~ [end_over] [end_math]
+
+[math] [over] K ~ [end_over] [end_math]
+
+[math] [over] ℬ ~ [end_over] = ℬ × ℬ [end_math]
+
+[math] W [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [over] K ~ [end_over] ( w ) = 𝒪 ( w ) [end_math]
+
+[math] 𝒪 ( w ) [end_math]
+
+[math] G [end_math]
+
+[math] [over] ℬ ~ [end_over] [end_math]
+
+[math] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_sub] ∈ [over] V ~ [end_over] = W [end_math]
+
+[math] [over] K ~ [end_over] ( [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_sub] ) [end_math]
+
+[math] [over] ℬ ~ [end_over] [end_math]
+
+[math] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_sub] = 1 [end_math]
+
+[math] W [end_math]
+
+[math] [over] W ~ [end_over] = W × W [end_math]
+
+[math] w ∈ W = [over] V ~ [end_over] [end_math]
+
+[math] [subsup] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( w ) ⊂ [sub] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_sub] [end_arg] [end_sub] ( w ) ⊂ [over] W ~ [end_over] [end_math]
+
+[math] ( [over] G ~ [end_over] , [over] θ ~ [end_over] ) [end_math]
+
+[math] w ∈ W = [over] V ~ [end_over] [end_math]
+
+[math] [sub] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_sub] [end_arg] [end_sub] ( w ) = { ( [sub] w 1 [end_sub] , [sub] w 2 [end_sub] ) ∈ W × W : w ≤ [sub] w 1 [end_sub] ∗ [subsup] w 2 [arg] - 1 [end_arg] [end_subsup] } , [end_math]
+
+[math] § [end_math]
+
+[math] ∗ [end_math]
+
+[math] W [end_math]
+
+[math] [subsup] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( w ) = { ( [sub] w 1 [end_sub] , [sub] w 2 [end_sub] ) ∈ W × W : B w B ⊂ B [sub] w 1 [end_sub] B [subsup] w 2 [arg] - 1 [end_arg] [end_subsup] B } , [end_math]
+
+[math] B [end_math]
+
+[math] G [end_math]
+
+[math] [subsup] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( w ) [end_math]
+
+[math] [sub] w 1 [end_sub] [end_math]
+
+[math] s ∈ S [end_math]
+
+[math] u ∈ W [end_math]
+
+[math] B s B u B = B s u B [end_math]
+
+[math] s u > u [end_math]
+
+[math] B s B u B = B s u B ∪ B u B [end_math]
+
+[math] s u < u [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] min ( [sub] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_sub] [end_arg] [end_sub] ( w ) ) [end_math]
+
+[math] = min ( [subsup] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( w ) ) [end_math]
+
+[math] = { ( [sub] w 1 [end_sub] , [sub] w 2 [end_sub] ) ∈ W × W : w = [sub] w 1 [end_sub] [subsup] w 2 [arg] - 1 [end_arg] [end_subsup] , l ( w ) = l ( [sub] w 1 [end_sub] ) + l ( [sub] w 2 [end_sub] ) } , [end_math]
+
+[math] min ( [sub] [arg] [over] W ~ [end_arg] [arg] [end_over] [sub] [arg] [over] v ~ [end_arg] [arg] [end_over] 0 [end_arg] [end_sub] [end_arg] [end_sub] ( w ) ) [end_math]
+
+[math] l ( w ) [end_math]
+
+[math] m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [sub] V w [end_sub] = { v ∈ V : K ( v ) ∩ B ( w ) ≠ ∅ } . [end_math]
+
+[math] [sub] V w [end_sub] [end_math]
+
+[math] w [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] B ( w ) ∩ K ( m ( w ) ⋅ [sub] v 0 [end_sub] ) [end_math]
+
+[math] B ( w ) [end_math]
+
+[math] m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] V w [end_sub] [end_math]
+
+[math] V [end_math]
+
+[math] B ( w ) [end_math]
+
+[math] ℬ = [sub] ⊔ [arg] v ∈ V [end_arg] [end_sub] K ( v ) [end_math]
+
+[math] [sub] v w [end_sub] ∈ V [end_math]
+
+[math] B ( w ) ∩ K ( [sub] v w [end_sub] ) [end_math]
+
+[math] B ( w ) [end_math]
+
+[math] v ∈ [sub] V w [end_sub] [end_math]
+
+[math] ∅ ≠ B ( w ) ∩ K ( v ) ⊂ B ( w ) ⊂ [over] [arg] B ( w ) [end_arg] ¯ [end_over] = [over] [arg] B ( w ) ∩ K ( [sub] v w [end_sub] ) [end_arg] ¯ [end_over] ⊂ [over] [arg] K ( [sub] v w [end_sub] ) [end_arg] ¯ [end_over] , [end_math]
+
+[math] v ≤ [sub] v w [end_sub] [end_math]
+
+[math] [sub] v w [end_sub] [end_math]
+
+[math] [sub] V w [end_sub] [end_math]
+
+[math] V [end_math]
+
+[math] [sub] v w [end_sub] = m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] v w [end_sub] ) [end_math]
+
+[math] [sub] v w [end_sub] ≤ m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [over] [arg] K ( m ( w ) ⋅ [sub] v 0 [end_sub] ) [end_arg] ¯ [end_over] = [over] [arg] B ( w ) ⋅ K [end_arg] ¯ [end_over] [end_math]
+
+[math] K ( m ( w ) ⋅ [sub] v 0 [end_sub] ) ∩ ( B ( w ) ⋅ K ) ≠ ∅ [end_math]
+
+[math] K ( m ( w ) ⋅ [sub] v 0 [end_sub] ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] m ( w ) ⋅ [sub] v 0 [end_sub] ∈ [sub] V w [end_sub] [end_math]
+
+[math] m ( w ) ⋅ [sub] v 0 [end_sub] ≤ [sub] v w [end_sub] [end_math]
+
+[math] [sub] v w [end_sub] = m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] B [end_math]
+
+[math] 𝐤 = ℂ [end_math]
+
+[math] [sub] G 0 [end_sub] = { g ∈ G : τ ( g ) = g } [end_math]
+
+[math] G [end_math]
+
+[math] τ [end_math]
+
+[math] G [end_math]
+
+[math] σ [end_math]
+
+[math] G [end_math]
+
+[math] τ [end_math]
+
+[math] θ = σ τ [end_math]
+
+[math] K = [sup] G θ [end_sup] [end_math]
+
+[math] [sub] K 0 [end_sub] = [sub] G 0 [end_sub] ∩ K [end_math]
+
+[math] [sub] K 0 [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] [sub] K 0 [end_sub] [end_math]
+
+[math] X [end_math]
+
+[math] ℬ [end_math]
+
+[math] [over] X ¯ [end_over] [end_math]
+
+[math] X [end_math]
+
+[math] ℬ [end_math]
+
+[math] X = K ( v ) [end_math]
+
+[math] X = B ( w ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] B [end_math]
+
+[math] G [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] X [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ K ( v ) [end_math]
+
+[math] [sub] K 0 [end_sub] [end_math]
+
+[math] v ↦ [sub] G 0 [end_sub] ( v ) [end_math]
+
+[math] V = ℬ / K [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] ℬ / [sub] G 0 [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] [end_math]
+
+[math] ℬ [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] K 0 [end_sub] ( v ) = [sub] G 0 [end_sub] ( v ) ∩ K ( v ) . [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] v ≤ [sup] v ′ [end_sup] 𝑖𝑓𝑓 [sub] G 0 [end_sub] ( [sup] v ′ [end_sup] ) ⊂ [over] [arg] [sub] G 0 [end_sub] ( v ) [end_arg] ¯ [end_over] 𝑖𝑓𝑓 [sub] G 0 [end_sub] ( v ) ∩ K ( [sup] v ′ [end_sup] ) ≠ ∅ . [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sub] q B [end_sub] : G → ℬ : g ↦ [sup] B g [end_sup] [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] B v [sub] G 0 [end_sub] = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( [sub] G 0 [end_sub] ( v ) ) , B v [sub] K 0 [end_sub] = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( [sub] K 0 [end_sub] ( v ) ) , [end_math]
+
+[math] B v K = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( K ( v ) ) [end_math]
+
+[math] [sub] B K [end_sub] = K ∩ B [end_math]
+
+[math] K = [sub] K 0 [end_sub] [sub] B K [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] K = [sub] G 0 [end_sub] [sub] B K [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] B v [sub] G 0 [end_sub] K = [sub] ⊔ [arg] [sup] v ′ [end_sup] ∈ V , [sup] v ′ [end_sup] ≥ v [end_arg] [end_sub] B [sup] v ′ [end_sup] K [end_math]
+
+[math] U = { g ∈ G : σ ( g ) = g } [end_math]
+
+[math] H = B ∩ σ ( B ) [end_math]
+
+[math] U [end_math]
+
+[math] G [end_math]
+
+[math] H [end_math]
+
+[math] G [end_math]
+
+[math] A = { h ∈ H : σ ( h ) = [sup] h [arg] - 1 [end_arg] [end_sup] } [end_math]
+
+[math] N [end_math]
+
+[math] B [end_math]
+
+[math] G = U A N [end_math]
+
+[math] G [end_math]
+
+[math] U [end_math]
+
+[math] A [end_math]
+
+[math] N [end_math]
+
+[math] θ [end_math]
+
+[math] k ∈ K [end_math]
+
+[math] k = u a n [end_math]
+
+[math] u ∈ U , a ∈ A [end_math]
+
+[math] n ∈ N [end_math]
+
+[math] θ ( k ) = k [end_math]
+
+[math] u ∈ [sub] K 0 [end_sub] [end_math]
+
+[math] a n ∈ [sub] B K [end_sub] [end_math]
+
+[math] K = [sub] K 0 [end_sub] [sub] B K [end_sub] [end_math]
+
+[math] [sub] K 0 [end_sub] ⊂ [sub] G 0 [end_sub] [end_math]
+
+[math] [sub] G 0 [end_sub] K = [sub] G 0 [end_sub] [sub] B K [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] B v [sub] G 0 [end_sub] K [end_math]
+
+[math] ( B , K ) [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] B [sup] v ′ [end_sup] K ⊂ B v [sub] G 0 [end_sub] K iff B [sup] v ′ [end_sup] K ∩ B v [sub] G 0 [end_sub] ≠ ∅ , [end_math]
+
+[math] v ≤ [sup] v ′ [end_sup] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ B ( w ) ≠ ∅ iff v ≤ m ( w ) ⋅ [sub] v 0 [end_sub] . [end_math]
+
+[math] B w B = [subsup] q B [arg] - 1 [end_arg] [end_subsup] ( B ( w ) ) ⊂ G [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] ( B v [sub] G 0 [end_sub] ) ∩ ( B w B ) ≠ ∅ [end_math]
+
+[math] [sub] B K [end_sub] ⊂ B [end_math]
+
+[math] ( B v [sub] G 0 [end_sub] [sub] B K [end_sub] ) ∩ ( B w B ) ≠ ∅ [end_math]
+
+[math] ( B v [sub] G 0 [end_sub] K ) ∩ ( B w B ) ≠ ∅ [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] v ≤ [sup] v ′ [end_sup] [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ [sub] V w [end_sub] [end_math]
+
+[math] [sub] V w [end_sub] = { [sup] v ′ [end_sup] ∈ V : K ( [sup] v ′ [end_sup] ) ∩ B ( w ) ≠ ∅ } [end_math]
+
+[math] m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] V w [end_sub] [end_math]
+
+[math] V [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] v ≤ m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] [over] [arg] [sub] G 0 [end_sub] ( v ) [end_arg] ¯ [end_over] ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] [sub] G 0 [end_sub] ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] [over] [arg] [sub] G 0 [end_sub] ( v ) [end_arg] ¯ [end_over] ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] K ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] [sub] K 0 [end_sub] ( v ) ∩ [over] [arg] B ( w ) [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] [sub] v 1 [end_sub] ∈ V [end_math]
+
+[math] [sub] w 1 [end_sub] ∈ W [end_math]
+
+[math] [sub] v 1 [end_sub] ≥ v [end_math]
+
+[math] [sub] w 1 [end_sub] ≤ w [end_math]
+
+[math] [sub] G 0 [end_sub] ( [sub] v 1 [end_sub] ) ∩ B ( [sub] w 1 [end_sub] ) ≠ ∅ [end_math]
+
+[math] [sub] v 1 [end_sub] ≤ m ( [sub] w 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] v ≤ [sub] v 1 [end_sub] ≤ m ( [sub] w 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] ≤ m ( w ) ⋅ [sub] v 0 [end_sub] . [end_math]
+
+[math] v ≤ m ( w ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] K = [sub] K 0 [end_sub] [sub] B K [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] K ( v ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] [sub] K 0 [end_sub] ( v ) ∩ B ( w ) ≠ ∅ [end_math]
+
+[math] K = [sub] K 0 [end_sub] [sub] B K [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] § [end_math]
+
+[math] V [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] § [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] W [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] § [end_math]
+
+[math] 𝒞 [end_math]
+
+[math] ( B , H ) [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] H ⊂ B [end_math]
+
+[math] G [end_math]
+
+[math] [over] 𝒞 ~ [end_over] = { ( B , H , h ) ∈ 𝒞 × G : ( B , H ) ∈ 𝒞 , h ∈ H } [end_math]
+
+[math] G [end_math]
+
+[math] [over] 𝒞 ~ [end_over] [end_math]
+
+[math] [sup] [arg] ( B , H , h ) [end_arg] g [end_sup] = ( [sup] B g [end_sup] , [sup] H g [end_sup] , [sup] g [arg] - 1 [end_arg] [end_sup] h g ) , ( B , H , h ) ∈ [over] 𝒞 ~ [end_over] , g ∈ G . [end_math]
+
+[math] [sub] H can [end_sub] = [over] 𝒞 ~ [end_over] / G [end_math]
+
+[math] G [end_math]
+
+[math] [over] 𝒞 ~ [end_over] [end_math]
+
+[math] [over] 𝒞 ~ [end_over] → [sub] H can [end_sub] : ( B , H , h ) → [ B , H , h ] [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] T [arg] B , H [end_arg] [end_sub] : H ⟶ [sub] H can [end_sub] : h ⟼ [ B , H , h ] , h ∈ H . [end_math]
+
+[math] [subsup] T [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [arg] - 1 [end_arg] [end_subsup] ∘ [sub] T [arg] B , H [end_arg] [end_sub] = [subsup] T [arg] B , H [end_arg] [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_subsup] : H → [sup] H ′ [end_sup] [end_math]
+
+[math] ( B , H ) , ( [sup] B ′ [end_sup] , [sup] H ′ [end_sup] ) ∈ 𝒞 [end_math]
+
+[math] [subsup] T [arg] B , H [end_arg] [arg] [sup] B ′ [end_sup] , [sup] H ′ [end_sup] [end_arg] [end_subsup] [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] [sub] T [arg] B , H [end_arg] [end_sub] : H → [sub] H can [end_sub] [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] G [end_math]
+
+[math] W [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] [sub] W H [end_sub] [end_math]
+
+[math] H [end_math]
+
+[math] [subsup] η [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] : W → [sub] W H [end_sub] [end_math]
+
+[math] [subsup] T [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] : [sub] H can [end_sub] → H [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] ( B , H ) , ( [sup] B ′ [end_sup] , H ) ∈ 𝒞 [end_math]
+
+[math] p ( [sup] B ′ [end_sup] , B ) ( [ B , H , h ] ) = [ [sup] B ′ [end_sup] , H , h ] , h ∈ H . [end_math]
+
+[math] W [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] G [end_math]
+
+[math] [sub] X can [end_sub] [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] X H [end_sub] [end_math]
+
+[math] H [end_math]
+
+[math] [sub] R [arg] B , H [end_arg] [end_sub] : [sub] X H [end_sub] → [sub] X can [end_sub] [end_math]
+
+[math] [subsup] T [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] : [sub] H can [end_sub] → H [end_math]
+
+[math] G [end_math]
+
+[math] [sub] X can [end_sub] [end_math]
+
+[math] Δ = [sub] R [arg] B , H [end_arg] [end_sub] ( [sub] Δ H [end_sub] ) , [sup] Δ + [end_sup] = [sub] R [arg] B , H [end_arg] [end_sub] ( [subsup] Δ [arg] B , H [end_arg] + [end_subsup] ) , Γ = [sub] R [arg] B , H [end_arg] [end_sub] ( [sub] Γ [arg] B , H [end_arg] [end_sub] ) , [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] Δ H [end_sub] ⊃ [subsup] Δ [arg] B , H [end_arg] + [end_subsup] ⊃ [sub] Γ [arg] B , H [end_arg] [end_sub] [end_math]
+
+[math] [sub] X H [end_sub] [end_math]
+
+[math] H [end_math]
+
+[math] ( G , H ) [end_math]
+
+[math] B [end_math]
+
+[math] Γ ⊂ [sup] Δ + [end_sup] ⊂ Δ ⊂ [sub] X can [end_sub] [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] α ∈ Δ [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] α H [end_sub] = [subsup] R [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] ( α ) ∈ [sub] Δ H [end_sub] [end_math]
+
+[math] [sub] s [arg] [sub] α H [end_sub] [end_arg] [end_sub] ∈ [sub] W H [end_sub] [end_math]
+
+[math] [sub] α H [end_sub] [end_math]
+
+[math] [sub] s α [end_sub] = [sub] η [arg] B , H [end_arg] [end_sub] ( [sub] s [arg] [sub] α H [end_sub] [end_arg] [end_sub] ) ∈ W [end_math]
+
+[math] [sub] s α [end_sub] [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] S = { [sub] s α [end_sub] : α ∈ Γ } [end_math]
+
+[math] θ [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] Γ [end_math]
+
+[math] W [end_math]
+
+[math] θ [end_math]
+
+[math] G [end_math]
+
+[math] 2 [end_math]
+
+[math] θ : [sub] H can [end_sub] ⟶ [sub] H can [end_sub] : [ B , H , h ] ⟼ [ θ ( B ) , θ ( H ) , θ ( h ) ] , ( B , H , h ) ∈ [over] 𝒞 ~ [end_over] . [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] θ = [sub] [arg] [sub] T [arg] θ ( B ) , θ ( H ) [end_arg] [end_sub] ∘ θ | [end_arg] H [end_sub] ∘ [subsup] T [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] [end_math]
+
+[math] [sub] [arg] θ | [end_arg] H [end_sub] : H → θ ( H ) [end_math]
+
+[math] θ [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] θ [end_math]
+
+[math] [sub] g 1 [end_sub] ∈ G [end_math]
+
+[math] θ ( g ) = [sub] g 1 [end_sub] g [subsup] g 1 [arg] - 1 [end_arg] [end_subsup] [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] θ [end_math]
+
+[math] [sub] H can [end_sub] [end_math]
+
+[math] θ [end_math]
+
+[math] Δ [end_math]
+
+[math] θ ( [sup] Δ + [end_sup] ) = [sup] Δ + [end_sup] [end_math]
+
+[math] θ ( Γ ) = Γ [end_math]
+
+[math] θ [end_math]
+
+[math] θ : W ⟶ W : p ( [sub] B 1 [end_sub] , [sub] B 2 [end_sub] ) ⟼ p ( θ ( [sub] B 1 [end_sub] ) , θ ( [sub] B 2 [end_sub] ) ) , [sub] B 1 [end_sub] , [sub] B 2 [end_sub] ∈ ℬ , [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] θ [arg] [sub] W H [end_sub] [end_arg] [end_sub] : [sub] W H [end_sub] → [sub] W [arg] θ ( H ) [end_arg] [end_sub] [end_math]
+
+[math] [sub] [arg] θ | [end_arg] [arg] [sub] N G [end_sub] ( H ) [end_arg] [end_sub] : [sub] N G [end_sub] ( H ) → [sub] N G [end_sub] ( θ ( H ) ) [end_math]
+
+[math] θ = [sub] η [arg] θ ( B ) , θ ( H ) [end_arg] [end_sub] ∘ [sub] θ [arg] [sub] W H [end_sub] [end_arg] [end_sub] ∘ [subsup] η [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] : W ⟶ W . [end_math]
+
+[math] θ [end_math]
+
+[math] W [end_math]
+
+[math] θ ( [sub] s α [end_sub] ) = [sub] s [arg] θ ( α ) [end_arg] [end_sub] [end_math]
+
+[math] α ∈ Δ [end_math]
+
+[math] γ : [sub] 𝒞 θ [end_sub] / K → V [end_math]
+
+[math] [sup] 𝒯 θ [end_sup] [end_math]
+
+[math] θ [end_math]
+
+[math] G [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] H ∈ [sup] 𝒯 θ [end_sup] [end_math]
+
+[math] [sub] H 1 [end_sub] , [sub] H 2 [end_sub] ∈ [sup] 𝒯 θ [end_sup] [end_math]
+
+[math] B [end_math]
+
+[math] [sub] H 1 [end_sub] = [sup] k [arg] - 1 [end_arg] [end_sup] [sub] H 2 [end_sub] k [end_math]
+
+[math] k ∈ B ∩ K [end_math]
+
+[math] [sub] 𝒞 θ [end_sub] = { ( B , H ) ∈ 𝒞 : H ∈ [sup] 𝒯 θ [end_sup] } [end_math]
+
+[math] K [end_math]
+
+[math] [sub] 𝒞 θ [end_sub] [end_math]
+
+[math] γ : [sub] 𝒞 θ [end_sub] / K ⟶ V = ℬ / K : 𝐾 -orbit of ( B , H ) in 𝒞 ⟼ 𝐾 -orbit of B in ℬ , [end_math]
+
+[math] W [end_math]
+
+[math] V [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] ( [sup] B ′ [end_sup] , H ) ∈ 𝒞 [end_math]
+
+[math] w = p ( [sup] B ′ [end_sup] , B ) [end_math]
+
+[math] W × 𝒞 ⟶ 𝒞 : w ⋅ ( B , H ) = ( [sup] B ′ [end_sup] , H ) , ( B , H ) , ( [sup] B ′ [end_sup] , H ) ∈ 𝒞 , w = p ( [sup] B ′ [end_sup] , B ) . [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] [sub] η [arg] B , H [end_arg] [end_sub] : [sub] W H [end_sub] → W [end_math]
+
+[math] [sub] C [arg] B , H [end_arg] [end_sub] : H \ G → 𝒞 : H g ↦ ( [sup] B g [end_sup] , [sup] H g [end_sup] ) [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] [sub] W H [end_sub] × H \ G ⟶ H \ G : ( n H , H g ) ⟼ H n g , n ∈ [sub] N G [end_sub] ( H ) , g ∈ G , [end_math]
+
+[math] [sub] W H [end_sub] [end_math]
+
+[math] H \ G [end_math]
+
+[math] W [end_math]
+
+[math] 𝒞 [end_math]
+
+[math] W [end_math]
+
+[math] G [end_math]
+
+[math] 𝒞 [end_math]
+
+[math] [sub] 𝒞 θ [end_sub] ⊂ 𝒞 [end_math]
+
+[math] W [end_math]
+
+[math] W [end_math]
+
+[math] [sub] 𝒞 θ [end_sub] / K [end_math]
+
+[math] V [end_math]
+
+[math] [sub] 𝒞 θ [end_sub] / K [end_math]
+
+[math] γ [end_math]
+
+[math] W [end_math]
+
+[math] V [end_math]
+
+[math] W [end_math]
+
+[math] V [end_math]
+
+[math] W × V ⟶ V : ( w , v ) ⟼ w ⋅ v , w ∈ W , v ∈ V . [end_math]
+
+[math] ϕ : V → W [end_math]
+
+[math] ϕ : V → W [end_math]
+
+[math] ϕ ( v ) = p ( B , θ ( B ) ) , v ∈ V , B ∈ K ( v ) . [end_math]
+
+[math] ϕ ( v ) ∈ W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] K [end_math]
+
+[math] K ( v ) ⊂ ℬ [end_math]
+
+[math] [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] K ( v ) [end_math]
+
+[math] ℬ [end_math]
+
+[math] 1 [end_math]
+
+[math] W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] v ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] ϕ ( v ) = 1 [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] ϕ ( v ) = ϕ ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] v [end_math]
+
+[math] [sup] v ′ [end_sup] [end_math]
+
+[math] W [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] θ ( B ) = B [end_math]
+
+[math] θ ( H ) = H [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] ( [sup] B g [end_sup] , [sup] H g [end_sup] ) ∈ [sub] 𝒞 θ [end_sub] [end_math]
+
+[math] g θ [sup] [arg] ( g ) [end_arg] [arg] - 1 [end_arg] [end_sup] ∈ [sub] N G [end_sub] ( H ) [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] p ( [sup] B g [end_sup] , θ ( [sup] B g [end_sup] ) ) = p ( [sup] B g [end_sup] , [sup] B [arg] θ ( g ) [end_arg] [end_sup] ) = p ( [sup] B [arg] g θ [sup] [arg] ( g ) [end_arg] [arg] - 1 [end_arg] [end_sup] [end_arg] [end_sup] , B ) = [sub] η [arg] B , H [end_arg] [end_sub] ( g θ [sup] [arg] ( g ) [end_arg] [arg] - 1 [end_arg] [end_sup] H ) ∈ W . [end_math]
+
+[math] [sub] 𝒱 H [end_sub] = { g ∈ G : g θ [sup] [arg] ( g ) [end_arg] [arg] - 1 [end_arg] [end_sup] ∈ [sub] N G [end_sub] ( H ) } [end_math]
+
+[math] H \ [sub] 𝒱 H [end_sub] / K ⟶ V : H g K ⟼ the 𝐾 -orbit in ℬ through [sup] B g [end_sup] . [end_math]
+
+[math] V [end_math]
+
+[math] H \ [sub] 𝒱 H [end_sub] / K [end_math]
+
+[math] W [end_math]
+
+[math] [sub] W H [end_sub] [end_math]
+
+[math] [sub] η [arg] B , H [end_arg] [end_sub] [end_math]
+
+[math] ϕ : V → W [end_math]
+
+[math] ϕ ( H g K ) = g θ [sup] [arg] ( g ) [end_arg] [arg] - 1 [end_arg] [end_sup] H [end_math]
+
+[math] g ∈ [sub] 𝒱 H [end_sub] [end_math]
+
+[math] W [end_math]
+
+[math] V [end_math]
+
+[math] ( n H ) ⋅ ( H g K ) = H n g K [end_math]
+
+[math] n ∈ [sub] N G [end_sub] ( H ) [end_math]
+
+[math] g ∈ [sub] 𝒱 H [end_sub] [end_math]
+
+[math] V [end_math]
+
+[math] ϕ ( w ⋅ v ) = w ϕ ( v ) θ [sup] [arg] ( w ) [end_arg] [arg] - 1 [end_arg] [end_sup] [end_math]
+
+[math] w ∈ W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] K [end_math]
+
+[math] ℬ [end_math]
+
+[math] [sup] W θ [end_sup] = { w ∈ W : θ ( w ) = w } [end_math]
+
+[math] { w ∈ W : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } = { w ∈ [sup] W θ [end_sup] : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } , ∀ [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] . [end_math]
+
+[math] [sup] W θ [end_sup] [end_math]
+
+[math] [sub] V 0 [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] W K [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] § [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [subsup] v 0 ′ [end_subsup] ) [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sup] B ′ [end_sup] ∈ K ( [subsup] v 0 ′ [end_subsup] ) [end_math]
+
+[math] H ∈ [sup] 𝒯 θ [end_sup] [end_math]
+
+[math] H ⊂ B ∩ [sup] B ′ [end_sup] [end_math]
+
+[math] K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] K ( [subsup] v 0 ′ [end_subsup] ) [end_math]
+
+[math] B [end_math]
+
+[math] [sup] B ′ [end_sup] [end_math]
+
+[math] θ [end_math]
+
+[math] B ∩ [sup] B ′ [end_sup] [end_math]
+
+[math] θ [end_math]
+
+[math] G [end_math]
+
+[math] B ∩ [sup] B ′ [end_sup] [end_math]
+
+[math] θ [end_math]
+
+[math] G [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] p : K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) → W [end_math]
+
+[math] p ( K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) ) = { w ∈ W : w = p ( [sup] B ′ [end_sup] , B ) for some [sup] B ′ [end_sup] ∈ K ( [subsup] v 0 ′ [end_subsup] ) , B ∈ K ( [sub] v 0 [end_sub] ) } . [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] p ( K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) ) = { w ∈ W : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } . [end_math]
+
+[math] W [end_math]
+
+[math] { w ∈ W : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } ⊂ p ( K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) ) [end_math]
+
+[math] w = p ( [sup] B ′ [end_sup] , B ) [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sup] B ′ [end_sup] ∈ K ( [subsup] v 0 ′ [end_subsup] ) [end_math]
+
+[math] W [end_math]
+
+[math] V [end_math]
+
+[math] w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] [end_math]
+
+[math] [sub] ℬ K [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] K [end_math]
+
+[math] [sub] ℬ K [end_sub] [end_math]
+
+[math] [sup] [arg] ( [sub] B K [end_sub] ) [end_arg] k [end_sup] := [sup] k [arg] - 1 [end_arg] [end_sup] [sub] B K [end_sub] k [end_math]
+
+[math] [sub] B K [end_sub] ∈ [sub] ℬ K [end_sub] [end_math]
+
+[math] k ∈ K [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] ℐ [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] : K ( [sub] v 0 [end_sub] ) ⟶ [sub] ℬ K [end_sub] : B ⟼ B ∩ K , B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] K [end_math]
+
+[math] B ∩ K ∈ [sub] ℬ K [end_sub] [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sub] ℐ [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sub] ℐ [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] [sub] ℐ [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sub] ℐ [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sub] ℬ K [end_sub] [end_math]
+
+[math] K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] ( B ∩ K ) \ K ≅ [sub] ℬ K [end_sub] [end_math]
+
+[math] ( B ∩ K ) \ K ⟶ [sub] ℬ K [end_sub] : ( B ∩ K ) k ⟼ [sup] [arg] ( B ∩ K ) [end_arg] k [end_sup] , k ∈ K . [end_math]
+
+[math] η : K → K ( [sub] v 0 [end_sub] ) : k ↦ [sup] B k [end_sup] [end_math]
+
+[math] k ∈ K [end_math]
+
+[math] [over] η ~ [end_over] : ( B ∩ K ) \ K → K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] η [end_math]
+
+[math] [sub] ℐ [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [over] η ~ [end_over] [end_math]
+
+[math] η [end_math]
+
+[math] 𝔟 , 𝔨 , [end_math]
+
+[math] 𝔤 [end_math]
+
+[math] B , K [end_math]
+
+[math] G [end_math]
+
+[math] d θ : 𝔤 → 𝔤 [end_math]
+
+[math] θ [end_math]
+
+[math] char ( 𝐤 ) ≠ 2 [end_math]
+
+[math] θ [end_math]
+
+[math] G [end_math]
+
+[math] B [end_math]
+
+[math] 𝔨 = [sup] 𝔤 [arg] d θ [end_arg] [end_sup] = { x ∈ 𝔤 : d θ ( x ) = x } [end_math]
+
+[math] B ∩ K [end_math]
+
+[math] 𝔟 ∩ 𝔨 [end_math]
+
+[math] G → B \ G : g → [sup] B g [end_sup] , g ∈ G [end_math]
+
+[math] η [end_math]
+
+[math] [sub] W K [end_sub] = ( [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] ) / K [end_math]
+
+[math] K [end_math]
+
+[math] [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] [end_math]
+
+[math] x ∈ [sub] W K [end_sub] [end_math]
+
+[math] [sub] 𝒪 K [end_sub] ( x ) ⊂ [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] [end_math]
+
+[math] [sub] ≤ K [end_sub] [end_math]
+
+[math] [sub] W K [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] 𝒥 [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] = [sup] [arg] ( [sub] ℐ [arg] [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] × [sub] ℐ [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ) [end_arg] [arg] - 1 [end_arg] [end_sup] : [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] ⟶ K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) . [end_math]
+
+[math] x ∈ [sub] W K [end_sub] [end_math]
+
+[math] [sub] 𝒪 [arg] K , [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( x ) [end_math]
+
+[math] K [end_math]
+
+[math] K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sub] 𝒪 [arg] K , [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( x ) = [sub] 𝒥 [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] 𝒪 K [end_sub] ( x ) ) ⊂ K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) . [end_math]
+
+[math] [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] : [sub] W K [end_sub] ⟶ W : x ⟼ p ( [sub] 𝒪 [arg] K , [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( x ) ) , x ∈ [sub] W K [end_sub] . [end_math]
+
+[math] 1 [end_math]
+
+[math] [sub] W K [end_sub] [end_math]
+
+[math] [sub] 𝒪 [arg] K , [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( 1 ) = { ( [sup] B ′ [end_sup] , B ) ∈ K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) : [sup] B ′ [end_sup] ∩ K = B ∩ K } . [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] y [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ∈ [sup] W θ [end_sup] [end_math]
+
+[math] [sub] y [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] = [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( 1 ) = p ( [sup] B ′ [end_sup] , B ) , ∀ ( [sup] B ′ [end_sup] , B ) ∈ [sub] 𝒪 [arg] K , [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( 1 ) . [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] [end_math]
+
+[math] [sub] W K [end_sub] [end_math]
+
+[math] { w ∈ [sup] W θ [end_sup] : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } [end_math]
+
+[math] [sub] x 1 [end_sub] , [sub] x 2 [end_sub] ∈ [sub] W K [end_sub] [end_math]
+
+[math] [sub] x 1 [end_sub] [sub] ≤ K [end_sub] [sub] x 2 [end_sub] [end_math]
+
+[math] [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] x 1 [end_sub] ) ≤ [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] x 2 [end_sub] ) [end_math]
+
+[math] [sub] y [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ∈ [sup] W θ [end_sup] [end_math]
+
+[math] { w ∈ [sup] W θ [end_sup] : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } [end_math]
+
+[math] W [end_math]
+
+[math] [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] [end_math]
+
+[math] { w ∈ [sup] W θ [end_sup] : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } [end_math]
+
+[math] [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] [end_math]
+
+[math] B , [sub] B 1 [end_sub] ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sup] B ′ [end_sup] , [subsup] B 1 ′ [end_subsup] ∈ K ( [subsup] v 0 ′ [end_subsup] ) [end_math]
+
+[math] p ( [sup] B ′ [end_sup] , B ) = p ( [subsup] B 1 ′ [end_subsup] , [sub] B 1 [end_sub] ) ∈ W [end_math]
+
+[math] ( [sup] B ′ [end_sup] , B ) [end_math]
+
+[math] ( [subsup] B 1 ′ [end_subsup] , [sub] B 1 [end_sub] ) [end_math]
+
+[math] K [end_math]
+
+[math] K ( [subsup] v 0 ′ [end_subsup] ) × K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] K [end_math]
+
+[math] [sub] B 1 [end_sub] = B [end_math]
+
+[math] [sup] B ′ [end_sup] = [sup] [arg] ( [subsup] B 1 ′ [end_subsup] ) [end_arg] k [end_sup] [end_math]
+
+[math] k ∈ B ∩ K [end_math]
+
+[math] H , [sub] H 1 [end_sub] ∈ [sup] 𝒯 θ [end_sup] [end_math]
+
+[math] H ⊂ B ∩ [sup] B ′ [end_sup] [end_math]
+
+[math] [sub] H 1 [end_sub] ⊂ B ∩ [subsup] B 1 ′ [end_subsup] [end_math]
+
+[math] k ∈ B ∩ K [end_math]
+
+[math] H = [sup] [arg] ( [sub] H 1 [end_sub] ) [end_arg] k [end_sup] [end_math]
+
+[math] H ⊂ B ∩ [sup] B ′ [end_sup] ∩ [sup] [arg] ( [subsup] B 1 ′ [end_subsup] ) [end_arg] k [end_sup] [end_math]
+
+[math] p ( [sup] B ′ [end_sup] , B ) = p ( [subsup] B 1 ′ [end_subsup] , B ) = p ( [sup] [arg] ( [subsup] B 1 ′ [end_subsup] ) [end_arg] k [end_sup] , [sup] B k [end_sup] ) = p ( [sup] [arg] ( [subsup] B 1 ′ [end_subsup] ) [end_arg] k [end_sup] , B ) [end_math]
+
+[math] [sup] B ′ [end_sup] = [sup] [arg] ( [subsup] B 1 ′ [end_subsup] ) [end_arg] k [end_sup] [end_math]
+
+[math] [sub] x 1 [end_sub] , [sub] x 2 [end_sub] ∈ [sub] W K [end_sub] [end_math]
+
+[math] [sub] x 1 [end_sub] [sub] ≤ K [end_sub] [sub] x 2 [end_sub] [end_math]
+
+[math] i = 1 , 2 [end_math]
+
+[math] [sub] w i [end_sub] = [sub] I [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] x i [end_sub] ) ∈ W [end_math]
+
+[math] [sub] 𝒪 [arg] K , [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] x i [end_sub] ) ⊂ 𝒪 ( [sub] w i [end_sub] ) [end_math]
+
+[math] § [end_math]
+
+[math] 𝒪 ( [sub] w i [end_sub] ) [end_math]
+
+[math] G [end_math]
+
+[math] ℬ × ℬ [end_math]
+
+[math] [sub] w i [end_sub] ∈ W [end_math]
+
+[math] X [end_math]
+
+[math] [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] [end_math]
+
+[math] ℬ × ℬ [end_math]
+
+[math] [sup] [arg] [over] X ¯ [end_arg] [arg] [end_over] [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] [end_arg] [end_sup] [end_math]
+
+[math] [sup] [arg] [over] X ¯ [end_arg] [arg] [end_over] ℬ × ℬ [end_arg] [end_sup] [end_math]
+
+[math] X [end_math]
+
+[math] [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] [end_math]
+
+[math] ℬ × ℬ [end_math]
+
+[math] [sub] 𝒥 [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] : [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] → ℬ × ℬ [end_math]
+
+[math] [sub] 𝒪 [arg] K , [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] x 1 [end_sub] ) [end_math]
+
+[math] = [sub] 𝒥 [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] 𝒪 K [end_sub] ( [sub] x 1 [end_sub] ) ) ⊂ [sub] 𝒥 [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sup] [arg] [over] [arg] [sub] 𝒪 K [end_sub] ( [sub] x 1 [end_sub] ) [end_arg] ¯ [end_arg] [arg] [end_over] [sub] ℬ K [end_sub] × [sub] ℬ K [end_sub] [end_arg] [end_sup] ) ⊂ [sup] [arg] [over] [arg] [sub] 𝒥 [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ( [sub] 𝒪 K [end_sub] ( [sub] x 1 [end_sub] ) ) [end_arg] ¯ [end_arg] [arg] [end_over] ℬ × ℬ [end_arg] [end_sup] [end_math]
+
+[math] ⊂ [sup] [arg] [over] [arg] 𝒪 ( [sub] w 2 [end_sub] ) [end_arg] ¯ [end_arg] [arg] [end_over] ℬ × ℬ [end_arg] [end_sup] . [end_math]
+
+[math] 𝒪 ( [sub] w 1 [end_sub] ) ∩ [sup] [arg] [over] [arg] 𝒪 ( [sub] w 2 [end_sub] ) [end_arg] ¯ [end_arg] [arg] [end_over] ℬ × ℬ [end_arg] [end_sup] ≠ ∅ [end_math]
+
+[math] [sub] w 1 [end_sub] ≤ [sub] w 2 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] W K [end_sub] ( [sub] v 0 [end_sub] ) = { w ∈ W : w ⋅ [sub] v 0 [end_sub] = [sub] v 0 [end_sub] } [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] { w ∈ [sup] W θ [end_sup] : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } [end_math]
+
+[math] [sub] y [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] [sub] W K [end_sub] ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sup] W θ [end_sup] [end_math]
+
+[math] [sub] I [arg] [sub] v 0 [end_sub] , [sub] v 0 [end_sub] [end_arg] [end_sub] : [sub] W K [end_sub] → [sub] W K [end_sub] ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] [sup] W θ [end_sup] / [sub] W K [end_sub] ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] K [end_math]
+
+[math] G = P G L ( 4 ) [end_math]
+
+[math] K [end_math]
+
+[math] G L ( 2 ) × G L ( 2 ) [end_math]
+
+[math] G [end_math]
+
+[math] [sub] θ v [end_sub] : [sub] H can [end_sub] → [sub] H can [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ( B , H ) ∈ [sub] 𝒞 θ [end_sub] [end_math]
+
+[math] B ∈ K ( v ) [end_math]
+
+[math] [sub] [arg] θ | [end_arg] H [end_sub] : H → H [end_math]
+
+[math] θ [end_math]
+
+[math] H [end_math]
+
+[math] [sub] θ v [end_sub] := [sub] [arg] [sub] T [arg] B , H [end_arg] [end_sub] ∘ θ | [end_arg] H [end_sub] ∘ [subsup] T [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] : [sub] H can [end_sub] ⟶ [sub] H can [end_sub] : [ B , H , h ] ⟼ [ B , H , θ ( h ) ] , h ∈ H . [end_math]
+
+[math] ( [sup] B ′ [end_sup] , [sup] H ′ [end_sup] ) ∈ [sub] 𝒞 θ [end_sub] [end_math]
+
+[math] [sup] B ′ [end_sup] ∈ K ( v ) [end_math]
+
+[math] k ∈ K [end_math]
+
+[math] [sup] B ′ [end_sup] = [sup] B k [end_sup] [end_math]
+
+[math] [sup] H ′ [end_sup] = [sup] H k [end_sup] [end_math]
+
+[math] h ∈ H [end_math]
+
+[math] [ B , H , h ] = [ [sup] B k [end_sup] , [sup] H k [end_sup] , [sup] k [arg] - 1 [end_arg] [end_sup] h k ] ∈ [sub] H can [end_sub] [end_math]
+
+[math] [ [sup] B k [end_sup] , [sup] H k [end_sup] , θ ( [sup] k [arg] - 1 [end_arg] [end_sup] h k ) ] = [ [sup] B k [end_sup] , [sup] H k [end_sup] , [sup] k [arg] - 1 [end_arg] [end_sup] θ ( h ) k ] = [ B , H , θ ( h ) ] . [end_math]
+
+[math] [sub] θ v [end_sub] : [sub] H can [end_sub] → [sub] H can [end_sub] [end_math]
+
+[math] ( B , H ) ∈ [sub] 𝒞 θ [end_sub] [end_math]
+
+[math] [sub] θ v [end_sub] = ϕ ( v ) θ : [sub] H can [end_sub] ⟶ [sub] H can [end_sub] . [end_math]
+
+[math] Δ [end_math]
+
+[math] G [end_math]
+
+[math] § [end_math]
+
+[math] [sub] θ v [end_sub] [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] G [end_math]
+
+[math] α [end_math]
+
+[math] B ∪ B [sub] s α [end_sub] B [end_math]
+
+[math] B ∈ ℬ [end_math]
+
+[math] [sub] 𝒫 α [end_sub] [end_math]
+
+[math] G [end_math]
+
+[math] α [end_math]
+
+[math] G [end_math]
+
+[math] [sub] 𝒫 α [end_sub] [end_math]
+
+[math] G [end_math]
+
+[math] [sub] π α [end_sub] : ℬ ⟶ [sub] 𝒫 α [end_sub] : [sub] π α [end_sub] ( B ) = B ∪ ( B [sub] s α [end_sub] B ) , B ∈ ℬ . [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { [sup] v ′ [end_sup] ∈ V : K ( [sup] v ′ [end_sup] ) ⊂ [subsup] π α [arg] - 1 [end_arg] [end_subsup] ( [sub] π α [end_sub] ( K ( v ) ) } . [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] V [end_math]
+
+[math] α [end_math]
+
+[math] v [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] V [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] α [end_math]
+
+[math] v [end_math]
+
+[math] ( [sub] B 0 [end_sub] , [sub] H 0 [end_sub] ) ∈ 𝒞 [end_math]
+
+[math] ( [sub] B 0 [end_sub] , [sub] H 0 [end_sub] ) [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] v [end_math]
+
+[math] [sub] θ v [end_sub] ( α ) = α [end_math]
+
+[math] [sub] θ v [end_sub] ( α ) = - α , [sub] θ v [end_sub] ( α ) ≠ ± α [end_math]
+
+[math] α [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v = v [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v ≠ v [end_math]
+
+[math] α [end_math]
+
+[math] [sub] s α [end_sub] ⋅ v = v [end_math]
+
+[math] [sub] s α [end_sub] ⋅ v ≠ v [end_math]
+
+[math] α [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] [subsup] I v c [end_subsup] [end_math]
+
+[math] = { α ∈ Γ : α is compact imaginary for v } , [end_math]
+
+[math] [subsup] I v [arg] n , = [end_arg] [end_subsup] [end_math]
+
+[math] = { α ∈ Γ : α is non-compact imaginary and cancellative for v } , [end_math]
+
+[math] [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] = { α ∈ Γ : α is non-compact imaginary and non-cancellative for v } , [end_math]
+
+[math] [subsup] R v = [end_subsup] [end_math]
+
+[math] = { α ∈ Γ : α is real and cancellative for v } , [end_math]
+
+[math] [subsup] R v ≠ [end_subsup] [end_math]
+
+[math] = { α ∈ Γ : α is real and non-cancellative for v } , [end_math]
+
+[math] [subsup] C v + [end_subsup] [end_math]
+
+[math] = { α ∈ Γ : α is complex for v and [sub] θ v [end_sub] ( α ) ∈ [sup] Δ + [end_sup] } , [end_math]
+
+[math] [subsup] C v - [end_subsup] [end_math]
+
+[math] = { α ∈ Γ : α is complex for v and [sub] θ v [end_sub] ( α ) ∈ - [sup] Δ + [end_sup] } . [end_math]
+
+[math] [subsup] I v n [end_subsup] = [subsup] I v [arg] n , = [end_arg] [end_subsup] ∪ [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] [sub] I v [end_sub] = [subsup] I v c [end_subsup] ∪ [subsup] I v n [end_subsup] [end_math]
+
+[math] [sub] R v [end_sub] = [subsup] R v = [end_subsup] ∪ [subsup] R v ≠ [end_subsup] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] α ∈ [subsup] I v c [end_subsup] [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { v } [end_math]
+
+[math] α ∈ [subsup] I v [arg] n , = [end_arg] [end_subsup] [end_math]
+
+[math] [sub] s α [end_sub] ⋅ v = v ≠ m ( [sub] s α [end_sub] ) ⋅ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { v , m ( [sub] s α [end_sub] ) ⋅ v } [end_math]
+
+[math] α ∈ [subsup] R [arg] m ( [sub] s α [end_sub] ) ⋅ v [end_arg] = [end_subsup] [end_math]
+
+[math] α ∈ [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] s α [end_sub] ⋅ v [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { v , [sub] s α [end_sub] ⋅ v , m ( [sub] s α [end_sub] ) ⋅ v } [end_math]
+
+[math] α ∈ [subsup] I [arg] [sub] s α [end_sub] ⋅ v [end_arg] [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] α ∈ [subsup] R [arg] m ( [sub] s α [end_sub] ) ⋅ v [end_arg] ≠ [end_subsup] [end_math]
+
+[math] α ∈ [subsup] R v = [end_subsup] . [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] [sup] v ′ [end_sup] ≠ v [end_math]
+
+[math] [sub] s α [end_sub] ⋅ [sup] v ′ [end_sup] = [sup] v ′ [end_sup] , v = m ( [sub] s α [end_sub] ) ⋅ [sup] v ′ [end_sup] = [sub] s α [end_sub] ⋅ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { [sup] v ′ [end_sup] , v } [end_math]
+
+[math] α ∈ [subsup] I [arg] [sup] v ′ [end_arg] [arg] [end_sup] n , = [end_arg] [end_subsup] [end_math]
+
+[math] α ∈ [subsup] R v ≠ [end_subsup] [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] [sup] v ′ [end_sup] , [sub] s α [end_sub] ⋅ [sup] v ′ [end_sup] [end_math]
+
+[math] v = m ( [sub] s α [end_sub] ) ⋅ [sup] v ′ [end_sup] = [sub] s α [end_sub] ⋅ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { [sup] v ′ [end_sup] , [sub] s α [end_sub] ⋅ [sup] v ′ [end_sup] , v } [end_math]
+
+[math] α ∈ [subsup] I [arg] [sup] v ′ [end_arg] [arg] [end_sup] n , ≠ [end_arg] [end_subsup] ∩ [subsup] I [arg] [sub] s α [end_sub] ⋅ [sup] v ′ [end_sup] [end_arg] [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] α ∈ [subsup] C v + [end_subsup] . [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v = [sub] s α [end_sub] ⋅ v ≠ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { v , m ( [sub] s α [end_sub] ) ⋅ v } [end_math]
+
+[math] α ∈ [subsup] C [arg] m ( [sub] s α [end_sub] ) ⋅ v [end_arg] - [end_subsup] [end_math]
+
+[math] α ∈ [subsup] C v - [end_subsup] . [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v = v ≠ [sub] s α [end_sub] ⋅ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , v ) = { v , [sub] s α [end_sub] ⋅ v } [end_math]
+
+[math] α ∈ [subsup] C [arg] [sub] s α [end_sub] ⋅ v [end_arg] + [end_subsup] [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ [sup] v ′ [end_sup] = m ( [sub] s α [end_sub] ) ⋅ v [end_math]
+
+[math] p ( [sub] s α [end_sub] , [sup] v ′ [end_sup] ) = p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ p ( [sub] s α [end_sub] , v ) . [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v ≠ v [end_math]
+
+[math] α ∈ [subsup] C v + [end_subsup] ∪ [subsup] I v n [end_subsup] [end_math]
+
+[math] α ∈ [subsup] C v + [end_subsup] [end_math]
+
+[math] ϕ ( m ( [sub] s α [end_sub] ) ⋅ v ) = [sub] s α [end_sub] ϕ ( v ) [sub] s [arg] θ ( α ) [end_arg] [end_sub] [end_math]
+
+[math] l ( ϕ ( m ( [sub] s α [end_sub] ) ⋅ v ) ) = l ( ϕ ( v ) ) + 2 [end_math]
+
+[math] α ∈ [subsup] I v n [end_subsup] [end_math]
+
+[math] ϕ ( m ( [sub] s α [end_sub] ) ⋅ v ) = [sub] s α [end_sub] ϕ ( v ) = ϕ ( v ) [sub] s [arg] θ ( α ) [end_arg] [end_sub] > ϕ ( v ) [end_math]
+
+[math] ϕ ( [sub] s α [end_sub] ⋅ v ) = ϕ ( v ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] v [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] 𝐯 = ( [sub] v 0 [end_sub] , [sub] v 1 [end_sub] , … , [sub] v k [end_sub] ) [end_math]
+
+[math] V [end_math]
+
+[math] 𝐬 = ( [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] W [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] v k [end_sub] = v [end_math]
+
+[math] j ∈ [ 1 , k ] [end_math]
+
+[math] [sub] α j [end_sub] ∈ [subsup] C [arg] [sub] v [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] + [end_arg] [end_subsup] ∪ [subsup] I [arg] [sub] v [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] n [end_arg] [end_subsup] and [sub] v j [end_sub] = m ( [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] ) ⋅ [sub] v [arg] j - 1 [end_arg] [end_sub] . [end_math]
+
+[math] k [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] v [end_math]
+
+[math] l ( v ) [end_math]
+
+[math] v [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ( 𝐯 = ( [sub] v 0 [end_sub] , [sub] v 1 [end_sub] , … , [sub] v k [end_sub] ) , 𝐬 = ( [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ) ) [end_math]
+
+[math] v [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] 𝐮 = ( [sub] u 0 [end_sub] , [sub] u 1 [end_sub] , … , [sub] u k [end_sub] ) [end_math]
+
+[math] V [end_math]
+
+[math] [sub] u 0 [end_sub] = [sub] v 0 [end_sub] [end_math]
+
+[math] j ∈ [ 1 , k ] [end_math]
+
+[math] [sub] u j [end_sub] = [sub] u [arg] j - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sub] α j [end_sub] ∈ [subsup] C [arg] [sub] u [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] + [end_arg] [end_subsup] ∪ [subsup] I [arg] [sub] u [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] n [end_arg] [end_subsup] [end_math]
+
+[math] [sub] u j [end_sub] = m ( [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] ) ⋅ [sub] u [arg] j - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sub] α j [end_sub] ∈ [subsup] I [arg] [sub] u [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] [sub] u j [end_sub] = [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] ⋅ [sub] u [arg] j - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sub] u k [end_sub] [end_math]
+
+[math] 𝐮 = ( [sub] u 0 [end_sub] , [sub] u 1 [end_sub] , … , [sub] u k [end_sub] ) [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] v [end_math]
+
+[math] [sup] v ′ [end_sup] ≤ v [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] [sup] v ′ [end_sup] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] = [sub] ⋃ [arg] v ∈ V [end_arg] [end_sub] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] l [end_math]
+
+[math] W [end_math]
+
+[math] V [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] y ∈ W [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] l ( m ( y ) ⋅ [sub] v 0 [end_sub] ) = l ( y ) [end_math]
+
+[math] l ( m ( y ) ⋅ [sub] v 0 [end_sub] ) ≤ l ( y ) [end_math]
+
+[math] y ∈ W [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] l ( m ( y ) ⋅ [sub] v 0 [end_sub] ) < l ( y ) [end_math]
+
+[math] [sub] y 1 [end_sub] < y [end_math]
+
+[math] m ( [sub] y 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] = m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] y 1 [end_sub] ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] l ( m ( y ) ⋅ [sub] v 0 [end_sub] ) = l ( y ) [end_math]
+
+[math] l ( m ( y ) ⋅ [sub] v 0 [end_sub] ) = l ( y ) [end_math]
+
+[math] v = m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] y ∈ W [end_math]
+
+[math] y = [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] y [end_math]
+
+[math] 𝐬 = ( [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] [sup] y [arg] - 1 [end_arg] [end_sup] [end_math]
+
+[math] R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) = { 𝐬 : 𝐬 is a reduced word of [sup] y [arg] - 1 [end_arg] [end_sup] } . [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] 𝐬 = ( [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ) ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) = ( [sub] v 0 [end_sub] , m ( [sub] y 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] , ⋯ , m ( [sub] y k [end_sub] ) ⋅ [sub] v 0 [end_sub] ) , [end_math]
+
+[math] [sub] y j [end_sub] = [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] j ∈ [ 1 , k ] [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] 𝐬 [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] l ( m ( y ) ⋅ [sub] v 0 [end_sub] ) < l ( y ) [end_math]
+
+[math] y ∉ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] ∗ [end_math]
+
+[math] W [end_math]
+
+[math] § [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( m ( [sub] s α [end_sub] ) ⋅ v ) [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] s α [end_sub] ∗ w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] [sup] v ′ [end_sup] ≤ m ( [sub] s α [end_sub] ) ⋅ v [end_math]
+
+[math] [sup] v ′ [end_sup] ∈ p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] m ( [sub] s α [end_sub] ) ⋅ v ≤ m ( [sub] s α [end_sub] ) ⋅ m ( w ) ⋅ [sub] v 0 [end_sub] = m ( [sub] s α [end_sub] ∗ w ) ⋅ [sub] v 0 [end_sub] . [end_math]
+
+[math] [sub] s α [end_sub] ∗ w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( m ( [sub] s α [end_sub] ) ⋅ v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ W [end_math]
+
+[math] y = [sub] s α [end_sub] [sup] y ′ [end_sup] > [sup] y ′ [end_sup] [end_math]
+
+[math] u ∈ p ( [sub] s α [end_sub] , v ) \ { v , m ( [sub] s α [end_sub] ) ⋅ v } [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] α ∈ [subsup] C u + [end_subsup] [end_math]
+
+[math] v = m ( [sub] s α [end_sub] ) ⋅ u [end_math]
+
+[math] α ∈ [subsup] C v - [end_subsup] [end_math]
+
+[math] α ∈ [subsup] I v n [end_subsup] [end_math]
+
+[math] v = m ( [sub] s α [end_sub] ) ⋅ u [end_math]
+
+[math] α ∈ [sub] R v [end_sub] [end_math]
+
+[math] α ∈ [subsup] I u [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] v = [sub] s α [end_sub] ⋅ u [end_math]
+
+[math] α ∈ [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] [sup] y ′ [end_sup] = [sub] s [arg] [sub] α [arg] k - 1 [end_arg] [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sup] y ′ [end_sup] [end_math]
+
+[math] 𝐬 = ( [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] α [arg] k - 1 [end_arg] [end_sub] [end_arg] [end_sub] , [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ) ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) , [end_math]
+
+[math] [sub] α k [end_sub] = α [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] 𝐮 = ( [sub] u 0 [end_sub] = [sub] v 0 [end_sub] , [sub] u 1 [end_sub] , , … , , [sub] u [arg] k - 1 [end_arg] [end_sub] , [sub] u k [end_sub] ) [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] [sub] u k [end_sub] = v [end_math]
+
+[math] u = [sub] u [arg] k - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sup] y ′ [end_sup] < y [end_math]
+
+[math] u ≤ m ( [sup] y ′ [end_sup] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] u ≠ v [end_math]
+
+[math] u ≠ m ( [sub] s α [end_sub] ) ⋅ u = m ( [sub] s α [end_sub] ) ⋅ v [end_math]
+
+[math] α ∈ [subsup] C v - [end_subsup] [end_math]
+
+[math] α ∈ [sub] R v [end_sub] [end_math]
+
+[math] α ∈ [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] u ≤ m ( [sup] y ′ [end_sup] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] [sup] y ′ [end_sup] ∉ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] [sup] y ′′ [end_sup] ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] [sup] y ′′ [end_sup] < [sup] y ′ [end_sup] [end_math]
+
+[math] [sub] s α [end_sub] ∗ [sup] y ′′ [end_sup] ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] s α [end_sub] ∗ [sup] y ′′ [end_sup] ≤ [sub] s α [end_sub] ∗ [sup] y ′ [end_sup] = y [end_math]
+
+[math] l ( [sub] s α [end_sub] ∗ [sup] y ′′ [end_sup] ) ≤ 1 + l ( [sup] y ′′ [end_sup] ) < 1 + l ( [sup] y ′ [end_sup] ) = l ( y ) [end_math]
+
+[math] [sub] s α [end_sub] ∗ [sup] y ′′ [end_sup] < y [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] v , [sup] v ′ [end_sup] ∈ V [end_math]
+
+[math] ϕ ( v ) = ϕ ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ∩ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] l ( y ) [end_math]
+
+[math] v = [sup] v ′ [end_sup] [end_math]
+
+[math] l ( y ) = 0 [end_math]
+
+[math] y = 1 [end_math]
+
+[math] v = [sup] v ′ [end_sup] = [sub] v 0 [end_sub] [end_math]
+
+[math] l ( y ) ≥ 1 [end_math]
+
+[math] α ∈ Γ [end_math]
+
+[math] [sup] y ′ [end_sup] := [sub] s α [end_sub] y < y [end_math]
+
+[math] u ∈ p ( [sub] s α [end_sub] , v ) [end_math]
+
+[math] [sup] u ′ [end_sup] ∈ p ( [sub] s α [end_sub] , [sup] v ′ [end_sup] ) [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) ∩ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sup] u ′ [end_sup] ) [end_math]
+
+[math] α ∈ ( [subsup] C v - [end_subsup] ∪ [sub] R v [end_sub] ∪ [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] ) ∩ ( [subsup] C [arg] [sup] v ′ [end_arg] [arg] [end_sup] - [end_arg] [end_subsup] ∪ [sub] R [arg] [sup] v ′ [end_sup] [end_arg] [end_sub] ∪ [subsup] I [arg] [sup] v ′ [end_arg] [arg] [end_sup] n , ≠ [end_arg] [end_subsup] ) . [end_math]
+
+[math] ϕ ( v ) = ϕ ( [sup] v ′ [end_sup] ) [end_math]
+
+[math] [sub] θ v [end_sub] ( α ) = [sub] θ [arg] [sup] v ′ [end_sup] [end_arg] [end_sub] ( α ) [end_math]
+
+[math] α ∈ [subsup] C v - [end_subsup] [end_math]
+
+[math] [sub] R v [end_sub] , [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] α ∈ [subsup] C [arg] [sup] v ′ [end_arg] [arg] [end_sup] - [end_arg] [end_subsup] [end_math]
+
+[math] [sub] R [arg] [sup] v ′ [end_sup] [end_arg] [end_sub] , [subsup] I [arg] [sup] v ′ [end_arg] [arg] [end_sup] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] α ∈ [subsup] C v - [end_subsup] [end_math]
+
+[math] α ∈ [subsup] C [arg] [sup] v ′ [end_arg] [arg] [end_sup] - [end_arg] [end_subsup] [end_math]
+
+[math] v = m ( [sub] s α [end_sub] ) ⋅ u = [sub] s α [end_sub] ⋅ u [end_math]
+
+[math] [sup] v ′ [end_sup] = m ( [sub] s α [end_sub] ) ⋅ [sup] u ′ [end_sup] = [sub] s α [end_sub] ⋅ [sup] u ′ [end_sup] [end_math]
+
+[math] ϕ ( u ) = [sub] s α [end_sub] ϕ ( v ) θ ( [sub] s α [end_sub] ) = [sub] s α [end_sub] ϕ ( [sup] v ′ [end_sup] ) θ ( [sub] s α [end_sub] ) = ϕ ( [sup] u ′ [end_sup] ) . [end_math]
+
+[math] u = [sup] u ′ [end_sup] [end_math]
+
+[math] v = [sub] s α [end_sub] ⋅ u = [sub] s α [end_sub] ⋅ [sup] u ′ [end_sup] = [sup] v ′ [end_sup] [end_math]
+
+[math] α ∈ [sub] R v [end_sub] [end_math]
+
+[math] α ∈ [sub] R [arg] [sup] v ′ [end_sup] [end_arg] [end_sub] [end_math]
+
+[math] v = m ( [sub] s α [end_sub] ) ⋅ u [end_math]
+
+[math] [sup] v ′ [end_sup] = m ( [sub] s α [end_sub] ) ⋅ [sup] u ′ [end_sup] [end_math]
+
+[math] ϕ ( u ) = [sub] s α [end_sub] ϕ ( v ) = [sub] s α [end_sub] ϕ ( [sup] v ′ [end_sup] ) = ϕ ( [sup] u ′ [end_sup] ) [end_math]
+
+[math] u = [sup] u ′ [end_sup] [end_math]
+
+[math] v = m ( [sub] s α [end_sub] ) ⋅ u = m ( [sub] s α [end_sub] ) ⋅ [sup] u ′ [end_sup] = [sup] v ′ [end_sup] [end_math]
+
+[math] α ∈ [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] α ∈ [subsup] I [arg] [sup] v ′ [end_arg] [arg] [end_sup] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] u = [sub] s α [end_sub] ⋅ v [end_math]
+
+[math] [sup] u ′ [end_sup] = [sub] s α [end_sub] ⋅ [sup] v ′ [end_sup] [end_math]
+
+[math] ϕ ( u ) = ϕ ( v ) = ϕ ( [sup] v ′ [end_sup] ) = ϕ ( [sup] u ′ [end_sup] ) [end_math]
+
+[math] u = [sup] u ′ [end_sup] [end_math]
+
+[math] v = [sub] s α [end_sub] ⋅ u = [sub] s α [end_sub] ⋅ [sup] u ′ [end_sup] = [sup] v ′ [end_sup] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] u [end_math]
+
+[math] α ∈ [subsup] I u [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] s α [end_sub] ⋅ u ) [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( m ( [sub] s α [end_sub] ) ⋅ v ) [end_math]
+
+[math] u [end_math]
+
+[math] α ∈ [subsup] I u [arg] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] ϕ ( u ) = ϕ ( [sub] s α [end_sub] ⋅ u ) [end_math]
+
+[math] [sup] y ′ [end_sup] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] s α [end_sub] ⋅ u ) [end_math]
+
+[math] u [end_math]
+
+[math] y ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] s α [end_sub] ⋅ u ) [end_math]
+
+[math] [sub] y 1 [end_sub] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] s α [end_sub] ⋅ u ) [end_math]
+
+[math] [sub] y 1 [end_sub] ≤ y [end_math]
+
+[math] [sub] s α [end_sub] ∗ [sub] y 1 [end_sub] ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] s α [end_sub] ∗ [sub] y 1 [end_sub] ≤ [sub] s α [end_sub] ∗ y = y [end_math]
+
+[math] [sub] s α [end_sub] ∗ [sub] y 1 [end_sub] = y [end_math]
+
+[math] [sub] s α [end_sub] [sub] y 1 [end_sub] > [sub] y 1 [end_sub] [end_math]
+
+[math] [sub] s α [end_sub] [sub] y 1 [end_sub] = [sub] s α [end_sub] ∗ [sub] y 1 [end_sub] = y [end_math]
+
+[math] [sub] y 1 [end_sub] = [sub] s α [end_sub] y = [sup] y ′ [end_sup] [end_math]
+
+[math] [sup] y ′ [end_sup] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( u ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] s α [end_sub] ⋅ u ) [end_math]
+
+[math] [sub] s α [end_sub] [sub] y 1 [end_sub] < [sub] y 1 [end_sub] [end_math]
+
+[math] y = [sub] s α [end_sub] ∗ [sub] y 1 [end_sub] = [sub] y 1 [end_sub] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] s α [end_sub] ⋅ u ) [end_math]
+
+[math] y = [sub] s α [end_sub] [sup] y ′ [end_sup] ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( m ( [sub] s α [end_sub] ) ⋅ v ) [end_math]
+
+[math] [sub] y 2 [end_sub] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( m ( [sub] s α [end_sub] ) ⋅ v ) [end_math]
+
+[math] [sub] y 2 [end_sub] ≤ y [end_math]
+
+[math] [sub] y 2 [end_sub] ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] y = [sub] y 2 [end_sub] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( m ( [sub] s α [end_sub] ) ⋅ v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] , v ∈ V [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] 𝐬 = ( [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] [sup] y [arg] - 1 [end_arg] [end_sup] [end_math]
+
+[math] 𝐮 = ( [sub] v 0 [end_sub] , [sub] u 1 [end_sub] , … , [sub] u k [end_sub] ) [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] 1 ≤ j ≤ k [end_math]
+
+[math] [sub] u j [end_sub] ≠ [sub] u [arg] j - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] [sub] s [arg] [sub] α [arg] j - 1 [end_arg] [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] u j [end_sub] ) [end_math]
+
+[math] 𝐮 = ( [sub] u 0 [end_sub] = [sub] v 0 [end_sub] , [sub] u 1 [end_sub] , … , [sub] u [arg] k - 1 [end_arg] [end_sub] , [sub] u k [end_sub] ) [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] α = [sub] α k [end_sub] [end_math]
+
+[math] [sup] y ′ [end_sup] = [sub] s [arg] [sub] α [arg] k - 1 [end_arg] [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [sub] u [arg] k - 1 [end_arg] [end_sub] ) [end_math]
+
+[math] [sub] u [arg] k - 1 [end_arg] [end_sub] [end_math]
+
+[math] ( [sub] v 0 [end_sub] , v , y , α ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] 𝐬 ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] 𝐯 = ( [sub] v 0 [end_sub] , [sub] v 1 [end_sub] , … , [sub] v k [end_sub] = v ) [end_math]
+
+[math] V [end_math]
+
+[math] 𝐬 = ( [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] , [sub] s [arg] [sub] α 2 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] α k [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] W [end_math]
+
+[math] k ≥ 1 [end_math]
+
+[math] j ∈ [ 1 , k ] [end_math]
+
+[math] [sub] α j [end_sub] ∈ [subsup] C [arg] [sub] v [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] + [end_arg] [end_subsup] ∪ [subsup] I [arg] [sub] v [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] n [end_arg] [end_subsup] [end_math]
+
+[math] [sub] v j [end_sub] = m ( [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] ) ⋅ [sub] v [arg] j - 1 [end_arg] [end_sub] [end_math]
+
+[math] [sub] α j [end_sub] ∈ [subsup] I [arg] [sub] v [arg] j - 1 [end_arg] [end_arg] [arg] [end_sub] n , ≠ [end_arg] [end_subsup] [end_math]
+
+[math] [sub] v j [end_sub] = [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] ⋅ [sub] v [arg] j - 1 [end_arg] [end_sub] [end_math]
+
+[math] ( 𝐯 = { [sub] v 0 [end_sub] } , 𝐬 = ∅ ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] k = 0 [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] 𝒫 ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) ∈ 𝒫 ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] k [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] l ( 𝐯 , 𝐬 ) [end_math]
+
+[math] [sub] y 0 [end_sub] ( 𝐯 , 𝐬 ) = 1 ∈ W [end_math]
+
+[math] [sub] y j [end_sub] ( 𝐯 , 𝐬 ) = [sub] s [arg] [sub] α j [end_sub] [end_arg] [end_sub] [sub] s [arg] [sub] α [arg] j - 1 [end_arg] [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] α 1 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] j ∈ [ 1 , k ] [end_math]
+
+[math] y ( 𝐯 , 𝐬 ) = [sub] y k [end_sub] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ( 𝐯 , 𝐬 ) ∈ 𝒫 ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] l ( 𝐯 , 𝐬 ) ≤ l ( [sup] 𝐯 ′ [end_sup] , [sup] 𝐬 ′ [end_sup] ) [end_math]
+
+[math] ( [sup] 𝐯 ′ [end_sup] , [sup] 𝐬 ′ [end_sup] ) ∈ 𝒫 ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] l [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] V [end_math]
+
+[math] V [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ( 𝐯 , 𝐬 ) ∈ 𝒫 ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] 𝐬 = ( [sub] s 1 [end_sub] , … [sub] s k [end_sub] ) [end_math]
+
+[math] v ≤ m ( [sub] s k [end_sub] ∗ ⋯ ∗ [sub] s 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] 𝐯 = ( [sub] v 0 [end_sub] , [sub] v 1 [end_sub] … , [sub] v [arg] k - 1 [end_arg] [end_sub] , [sub] v k [end_sub] = v ) [end_math]
+
+[math] v ≤ m ( [sub] s k [end_sub] ) ⋅ [sub] v [arg] k - 1 [end_arg] [end_sub] ≤ ⋯ ≤ m ( [sub] s k [end_sub] ) m ( [sub] s [arg] k - 1 [end_arg] [end_sub] ) ⋯ m ( [sub] s 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] = m ( [sub] s k [end_sub] ∗ ⋯ ∗ [sub] s 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] . [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] , v ∈ V , y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] 𝐬 ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] 𝐬 [end_math]
+
+[math] W [end_math]
+
+[math] 𝒫 ( [sub] v 0 [end_sub] , v , 𝐬 ) = { ( [sup] 𝐯 ′ [end_sup] , [sup] 𝐬 ′ [end_sup] ) ∈ 𝒫 ( [sub] v 0 [end_sub] , v ) : [sup] 𝐬 ′ [end_sup] is a subsequence of 𝐬 } . [end_math]
+
+[math] ( 𝐯 , 𝐬 ) ∈ 𝒫 ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] 𝒫 ( [sub] v 0 [end_sub] , v , 𝐬 ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] 𝐬 ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) ∈ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) ∈ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] y = y ( 𝐯 , 𝐬 ) [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] 𝐬 ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) = ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] 𝐬 ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) [end_math]
+
+[math] 𝐬 = ( [sub] s 1 [end_sub] , … , [sub] s k [end_sub] ) [end_math]
+
+[math] [sup] 𝐬 ′ [end_sup] = ( [sub] s [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] i p [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] 𝐬 [end_math]
+
+[math] ( [sup] 𝐯 ′ [end_sup] , [sup] 𝐬 ′ [end_sup] ) ∈ 𝒫 ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] v ≤ m ( [sub] s [arg] [sub] i p [end_sub] [end_arg] [end_sub] ∗ ⋯ ∗ [sub] s [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] s [arg] [sub] i p [end_sub] [end_arg] [end_sub] ∗ ⋯ ∗ [sub] s [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] ≤ y [end_math]
+
+[math] [sub] s [arg] [sub] i p [end_sub] [end_arg] [end_sub] ∗ ⋯ ∗ [sub] s [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] = y [end_math]
+
+[math] [sup] 𝐬 ′ [end_sup] = 𝐬 [end_math]
+
+[math] [sup] 𝐯 ′ [end_sup] [end_math]
+
+[math] ( [sub] 𝐯 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sup] 𝐯 ′ [end_sup] = [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) [end_math]
+
+[math] ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) ∈ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) ∈ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] y = y ( 𝐯 , 𝐬 ) [end_math]
+
+[math] 𝐬 = ( [sub] s 1 [end_sub] , … , [sub] s k [end_sub] ) [end_math]
+
+[math] v ≤ m ( [sub] s k [end_sub] ∗ ⋯ ∗ [sub] s 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] s k [end_sub] ∗ ⋯ ∗ [sub] s 1 [end_sub] ≠ [sub] s k [end_sub] ⋯ [sub] s 1 [end_sub] [end_math]
+
+[math] [sup] 𝐬 ′ [end_sup] = ( [sub] s [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] , … , [sub] s [arg] [sub] i p [end_sub] [end_arg] [end_sub] ) [end_math]
+
+[math] 𝐬 [end_math]
+
+[math] [sup] 𝐬 ′ [end_sup] [end_math]
+
+[math] [sup] y ′ [end_sup] = [sub] s k [end_sub] ∗ ⋯ ∗ [sub] s 1 [end_sub] = [sub] s [arg] [sub] i p [end_sub] [end_arg] [end_sub] ⋯ [sub] s [arg] [sub] i 1 [end_sub] [end_arg] [end_sub] [end_math]
+
+[math] [sup] 𝐬 ′ [end_sup] [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( [sup] 𝐬 ′ [end_sup] ) , [sup] 𝐬 ′ [end_sup] ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] y = [sub] s k [end_sub] ∗ ⋯ ∗ [sub] s 1 [end_sub] = [sub] s k [end_sub] ⋯ [sub] s 1 [end_sub] [end_math]
+
+[math] 𝐬 [end_math]
+
+[math] [sup] y [arg] - 1 [end_arg] [end_sup] [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) = ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] 𝒴 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { ( y , 𝐬 ) : y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) , 𝐬 ∈ R ( [sup] y [arg] - 1 [end_arg] [end_sup] ) } . [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] Ω : [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) ⟶ [sub] 𝒴 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) : ( 𝐯 , 𝐬 ) ⟼ ( y ( 𝐯 , 𝐬 ) , 𝐬 ) [end_math]
+
+[math] [sup] Ω [arg] - 1 [end_arg] [end_sup] : [sub] 𝒴 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⟶ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) : ( y , 𝐬 ) ⟼ ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) . [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] , v ∈ V [end_math]
+
+[math] ( y , 𝐬 ) ∈ [sub] 𝒴 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] ( [sub] 𝐮 [arg] [sub] v 0 [end_sub] , v [end_arg] [end_sub] ( 𝐬 ) , 𝐬 ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] 𝐬 [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ V [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { y ( 𝐯 , 𝐬 ) : ( 𝐯 , 𝐬 ) ∈ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) } . [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] 𝒫 short [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] [sub] 𝒫 short [end_sub] ( [sub] v 0 [end_sub] , v ) ⊂ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] 𝒵 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { ( z , 𝐬 ) : z ∈ [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) , 𝐬 ∈ R ( [sup] z [arg] - 1 [end_arg] [end_sup] ) } . [end_math]
+
+[math] [sub] 𝒵 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [sub] 𝒴 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] Ω [end_math]
+
+[math] [sub] 𝒫 short [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] 𝒵 [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] l ( 𝐯 , 𝐬 ) = l ( y ( 𝐯 , 𝐬 ) ) [end_math]
+
+[math] ( 𝐯 , 𝐬 ) ∈ [sub] 𝒫 min [end_sub] ( [sub] v 0 [end_sub] , v ) [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { y ( 𝐯 , 𝐬 ) : ( 𝐯 , 𝐬 ) ∈ [sub] 𝒫 short [end_sub] ( [sub] v 0 [end_sub] , v ) } . [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] M ( W , S ) ⋅ [sub] v 0 [end_sub] = { m ( w ) ⋅ [sub] v 0 [end_sub] : w ∈ W } [end_math]
+
+[math] v ∈ M ( W , S ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { z ∈ W : m ( z ) ⋅ [sub] v 0 [end_sub] = v , l ( z ) = l ( v ) } . [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] l ( v ) ≤ l ( m ( w ) ⋅ [sub] v 0 [end_sub] ) ≤ l ( w ) . [end_math]
+
+[math] v ∈ M ( W , S ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] z 0 [end_sub] ∈ W [end_math]
+
+[math] v = m ( [sub] z 0 [end_sub] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] l ( [sub] z 0 [end_sub] ) = l ( v ) [end_math]
+
+[math] l ( v ) = min ⁡ { l ( w ) : w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) } [end_math]
+
+[math] [subsup] Z [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) [end_math]
+
+[math] [subsup] Z [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) ⊂ [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] z ∈ [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] l ( z ) = l ( v ) [end_math]
+
+[math] l ( v ) ≤ l ( m ( z ) ⋅ [sub] v 0 [end_sub] ) ≤ l ( z ) [end_math]
+
+[math] v = m ( z ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ⊂ [subsup] Z [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = [subsup] Z [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( v ) [end_math]
+
+[math] § [end_math]
+
+[math] v ∈ M ( W , S ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] K [end_math]
+
+[math] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [subsup] v 0 ′ [end_subsup] ) [end_math]
+
+[math] § [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [subsup] v 0 ′ [end_subsup] ) = min ⁡ ( [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( [subsup] v 0 ′ [end_subsup] ) ) [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( [subsup] v 0 ′ [end_subsup] ) = { w ∈ W : w = p ( [sup] B ′ [end_sup] , B ) for some [sup] B ′ [end_sup] ∈ K ( [subsup] v 0 ′ [end_subsup] ) , B ∈ K ( [sub] v 0 [end_sub] ) } , [end_math]
+
+[math] p : ℬ × ℬ → W = ( ℬ × ℬ ) / G [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( [subsup] v 0 ′ [end_subsup] ) = { w ∈ [sup] W θ [end_sup] : w ⋅ [sub] v 0 [end_sub] = [subsup] v 0 ′ [end_subsup] } . [end_math]
+
+[math] [sub] y [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] ∈ [sup] W θ [end_sup] [end_math]
+
+[math] [sub] y [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] [end_math]
+
+[math] [subsup] W [arg] [sub] v 0 [end_arg] [arg] [end_sub] ′ [end_arg] [end_subsup] ( [subsup] v 0 ′ [end_subsup] ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( [subsup] v 0 ′ [end_subsup] ) = { [sub] y [arg] [sub] v 0 [end_sub] , [subsup] v 0 ′ [end_subsup] [end_arg] [end_sub] } [end_math]
+
+[math] [sub] V 0 [end_sub] = { [sub] v 0 [end_sub] } [end_math]
+
+[math] M ( W , S ) ⋅ [sub] v 0 [end_sub] = V [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) = { z ∈ W : m ( z ) ⋅ [sub] v 0 [end_sub] = v , l ( z ) = l ( v ) } . [end_math]
+
+[math] ϕ : V → W [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ϕ ( [sub] s α [end_sub] ⋅ v ) = ϕ ( v ) [end_math]
+
+[math] α ∈ [subsup] I v n [end_subsup] [end_math]
+
+[math] [subsup] I v [arg] n , ≠ [end_arg] [end_subsup] = ∅ [end_math]
+
+[math] ( 𝐯 , 𝐬 ) [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] v [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v = m ( y ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] l ( y ) = l ( v ) [end_math]
+
+[math] y ∈ [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] ∪ [arg] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_arg] [end_sub] { z ∈ W : m ( z ) ⋅ [sub] v 0 [end_sub] = v , l ( z ) = l ( v ) } [end_math]
+
+[math] v [end_math]
+
+[math] G [end_math]
+
+[math] ( G , θ ) [end_math]
+
+[math] K [end_math]
+
+[math] ( G , θ ) [end_math]
+
+[math] ( B , H ) ∈ 𝒞 [end_math]
+
+[math] P [end_math]
+
+[math] G [end_math]
+
+[math] B [end_math]
+
+[math] K [end_math]
+
+[math] P [end_math]
+
+[math] H [end_math]
+
+[math] [sub] α 0 [end_sub] ∈ Γ [end_math]
+
+[math] P [end_math]
+
+[math] J = Γ \ { [sub] α 0 [end_sub] } [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ V [end_math]
+
+[math] B ∈ K ( [sub] v 0 [end_sub] ) [end_math]
+
+[math] α ∈ J [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] [sub] W J [end_sub] [end_math]
+
+[math] W [end_math]
+
+[math] J [end_math]
+
+[math] [sup] W J [end_sup] [end_math]
+
+[math] W / [sub] W J [end_sub] [end_math]
+
+[math] W [end_math]
+
+[math] [sup] W J [end_sup] [end_math]
+
+[math] ( B , P ) [end_math]
+
+[math] G [end_math]
+
+[math] [sup] W J [end_sup] ∋ d ⟼ B d P := B [subsup] η [arg] B , H [end_arg] [arg] - 1 [end_arg] [end_subsup] ( d ) P ⊂ G , [end_math]
+
+[math] [sub] η [arg] B , H [end_arg] [end_sub] : [sub] W H [end_sub] → W [end_math]
+
+[math] ( B , K ) [end_math]
+
+[math] G [end_math]
+
+[math] ( B , P ) [end_math]
+
+[math] ν : V ⟶ [sup] W J [end_sup] : ν ( v ) = d ∈ [sup] W J [end_sup] if B v K ⊂ B d P . [end_math]
+
+[math] η : V ⟶ W × [sup] W J [end_sup] : η ( v ) = ( ϕ ( v ) , ν ( v ) ) [end_math]
+
+[math] ( G , θ ) [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ν ( v ) ∈ [sup] W J [end_sup] [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] P = B K [end_math]
+
+[math] v ∈ V [end_math]
+
+[math] ν ( v ) [end_math]
+
+[math] B v K ⊂ B ν ( v ) P ⊂ [over] [arg] B ν ( v ) P [end_arg] ¯ [end_over] = [over] [arg] B ν ( v ) B K [end_arg] ¯ [end_over] = [over] [arg] B ν ( v ) B [end_arg] ¯ [end_over] K = [over] [arg] B ( m ( ν ( v ) ) ⋅ [sub] v 0 [end_sub] ) K [end_arg] ¯ [end_over] . [end_math]
+
+[math] ν ( v ) ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] w ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] w = d x [end_math]
+
+[math] d ∈ [sup] W J [end_sup] [end_math]
+
+[math] x ∈ [sub] W J [end_sub] [end_math]
+
+[math] α ∈ J [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] m ( x ) ⋅ [sub] v 0 [end_sub] = [sub] v 0 [end_sub] [end_math]
+
+[math] v ≤ m ( w ) ⋅ [sub] v 0 [end_sub] = m ( d ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] B v K ⊂ [over] [arg] B ( m ( d ) ⋅ [sub] v 0 [end_sub] ) K [end_arg] ¯ [end_over] = [over] [arg] B d B [end_arg] ¯ [end_over] K = [over] [arg] B d P [end_arg] ¯ [end_over] . [end_math]
+
+[math] B v K ⊂ B ν ( v ) P [end_math]
+
+[math] B ν ( v ) P ∩ [over] [arg] B d P [end_arg] ¯ [end_over] ≠ ∅ [end_math]
+
+[math] ν ( v ) ≤ d ≤ w [end_math]
+
+[math] ν ( v ) [end_math]
+
+[math] [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) ≠ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] G = S L ( 4 , ℂ ) [end_math]
+
+[math] θ ∈ Aut ( G ) [end_math]
+
+[math] θ ( g ) = [sub] I [arg] 2 , 2 [end_arg] [end_sub] [sup] [arg] ( [sup] g t [end_sup] ) [end_arg] [arg] - 1 [end_arg] [end_sup] [sub] I [arg] 2 , 2 [end_arg] [end_sub] [end_math]
+
+[math] g ∈ G [end_math]
+
+[math] [sup] g t [end_sup] [end_math]
+
+[math] g [end_math]
+
+[math] [sub] I [arg] 2 , 2 [end_arg] [end_sub] = diag ( [sub] I 2 [end_sub] , - [sub] I 2 [end_sub] ) [end_math]
+
+[math] [sub] I 2 [end_sub] [end_math]
+
+[math] 2 × 2 [end_math]
+
+[math] K = S ( G L ( 2 , ℂ ) × G L ( 2 , ℂ ) ) [end_math]
+
+[math] S U ( 2 , 2 ) [end_math]
+
+[math] G [end_math]
+
+[math] 6 [end_math]
+
+[math] [sub] V 0 [end_sub] [end_math]
+
+[math] [sub] v 0 [end_sub] ∈ [sub] V 0 [end_sub] [end_math]
+
+[math] 3 [end_math]
+
+[math] v [end_math]
+
+[math] 19 [end_math]
+
+[math] [sub] v 0 [end_sub] [end_math]
+
+[math] [sub] α 1 [end_sub] [end_math]
+
+[math] [sub] α 3 [end_sub] [end_math]
+
+[math] [sub] α 2 [end_sub] [end_math]
+
+[math] v = m ( [sub] s 3 [end_sub] [sub] s 2 [end_sub] [sub] s 1 [end_sub] ) ⋅ [sub] v 0 [end_sub] ∈ M ( W , S ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] l ( z ) = 3 [end_math]
+
+[math] z ∈ [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] y = [sub] s 2 [end_sub] [sub] s 1 [end_sub] [sub] s 2 [end_sub] [sub] s 3 [end_sub] ∈ W [end_math]
+
+[math] m ( y ) ⋅ [sub] v 0 [end_sub] = [sub] v max [end_sub] [end_math]
+
+[math] [sub] v max [end_sub] [end_math]
+
+[math] V [end_math]
+
+[math] v ≤ [sub] v max [end_sub] [end_math]
+
+[math] y ∈ [sub] W [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] y ∉ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sup] y ′ [end_sup] ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sup] y ′ [end_sup] < y [end_math]
+
+[math] l ( y ) ≥ l ( v ) = 3 [end_math]
+
+[math] l ( y ) = 3 [end_math]
+
+[math] [sup] y ′ [end_sup] [end_math]
+
+[math] y = [sub] s 2 [end_sub] [sub] s 1 [end_sub] [sub] s 2 [end_sub] [sub] s 3 [end_sub] [end_math]
+
+[math] 3 [end_math]
+
+[math] [sup] y ′ [end_sup] = [sub] s 1 [end_sub] [sub] s 2 [end_sub] [sub] s 3 [end_sub] [end_math]
+
+[math] [sub] s 2 [end_sub] [sub] s 1 [end_sub] [sub] s 3 [end_sub] [end_math]
+
+[math] [sub] s 2 [end_sub] [sub] s 1 [end_sub] [sub] s 2 [end_sub] [end_math]
+
+[math] v ≤ m ( [sup] y ′ [end_sup] ) ⋅ [sub] v 0 [end_sub] [end_math]
+
+[math] y ∈ [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] l ( y ) = 4 [end_math]
+
+[math] y ∉ [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Z [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] [sub] Y [arg] [sub] v 0 [end_sub] [end_arg] [end_sub] ( v ) [end_math]
+
+[math] 𝒟 [end_math]
+
+[math] K [end_math]

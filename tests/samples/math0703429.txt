@@ -84,7 +84,7 @@
 
 [math] 𝒍 [end_math]
 
-[math] [sub] ℒ n [end_sub] ≜ { 𝒍 ∈ [subsup] ℤ + n [end_subsup] such that [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] ≤ 1 } . such that [end_math]
+[math] [sub] ℒ n [end_sub] ≜ { 𝒍 ∈ [subsup] ℤ + n [end_subsup] such that [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] ≤ 1 } . [end_math]
 
 [math] w ( i ) [end_math]
 
@@ -334,7 +334,7 @@
 
 [math] a [end_math]
 
-[math] ℙ [ success ] = [sup] a [arg] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) [end_arg] [end_sup] = [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] . success [end_math]
+[math] ℙ [ success ] = [sup] a [arg] [sub] L a [end_sub] ( 𝒑 , 𝒍 ) [end_arg] [end_sup] = [underover] ∑ [arg] i = 1 [end_arg] n [end_underover] [sub] p i [end_sub] [sup] a [arg] [sub] l i [end_sub] [end_arg] [end_sup] . [end_math]
 
 [math] a > 0.5 [end_math]
 
@@ -1042,7 +1042,7 @@
 
 [math] 𝒍 [end_math]
 
-[math] [sup] R [arg] - 1 [end_arg] [end_sup] ( 𝒑 , 𝒍 ) = - lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 0 , given [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 1 . given [end_math]
+[math] [sup] R [arg] - 1 [end_arg] [end_sup] ( 𝒑 , 𝒍 ) = - lg [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 0 , given [under] ∑ [arg] i ∈ 𝒳 [end_arg] [end_under] [sup] 2 [arg] - [sub] l i [end_sub] [end_arg] [end_sup] = 1 . [end_math]
 
 [math] [table] [tr] [td] 0 ≤ [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( 𝒑 ) ≤ [subsup] R opt d [end_subsup] ( 𝒑 ) ≤ [subsup] R opt * [end_subsup] ( 𝒑 ) < 1 , [end_td] [td] d > 0 [end_td] [end_tr] [tr] [td] 0 ≤ [subsup] R opt d [end_subsup] ( 𝒑 ) ≤ [sub] [arg] [over] R ¯ [end_arg] [arg] [end_over] opt [end_arg] [end_sub] ( 𝒑 ) ≤ [subsup] R opt * [end_subsup] ( 𝒑 ) < 1 , [end_td] [td] d ∈ ( - 1 , 0 ) [end_td] [end_tr] [end_table] [end_math]
 
@@ -1104,7 +1104,7 @@
 
 [math] a ≤ 0.5 [end_math]
 
-[math] [sup] 𝒄 u [end_sup] ( n ) ≜ ( 0 , 10 , 110 , … , [sup] 1 [arg] n - 2 [end_arg] [end_sup] 0 , [sup] 1 [arg] n - 1 [end_arg] [end_sup] ) . u [end_math]
+[math] [sup] 𝒄 u [end_sup] ( n ) ≜ ( 0 , 10 , 110 , … , [sup] 1 [arg] n - 2 [end_arg] [end_sup] 0 , [sup] 1 [arg] n - 1 [end_arg] [end_sup] ) . [end_math]
 
 [math] a > 0.5 [end_math]
 
@@ -1404,7 +1404,7 @@
 
 [math] [subsup] S 2 4 [end_subsup] [end_math]
 
-[math] [table] [tr] [td] If | [subsup] S 2 4 [end_subsup] | > 1 , [end_td] [end_tr] [tr] [td] w ( [subsup] S 2 4 [end_subsup] ) = [end_td] [end_tr] [tr] [td] a w ( [subsup] S 2 ′ [end_subsup] ) + a w ( [subsup] S 2 ′′ [end_subsup] ) [end_td] [end_tr] [end_table] If [end_math]
+[math] [table] [tr] [td] If | [subsup] S 2 4 [end_subsup] | > 1 , [end_td] [end_tr] [tr] [td] w ( [subsup] S 2 4 [end_subsup] ) = [end_td] [end_tr] [tr] [td] a w ( [subsup] S 2 ′ [end_subsup] ) + a w ( [subsup] S 2 ′′ [end_subsup] ) [end_td] [end_tr] [end_table] [end_math]
 
 [math] [subsup] S 2 ′ [end_subsup] [end_math]
 
@@ -1432,15 +1432,15 @@
 
 [math] ≤ [end_math]
 
-[math] [frac] 3 [arg] 2 a + 3 [end_arg] [end_frac] , , [end_math]
+[math] [frac] 3 [arg] 2 a + 3 [end_arg] [end_frac] , [end_math]
 
 [math] w ( [subsup] S 2 4 [end_subsup] ) [end_math]
 
 [math] ≥ [end_math]
 
-[math] w ( [subsup] S 3 4 [end_subsup] ) , , [end_math]
+[math] w ( [subsup] S 3 4 [end_subsup] ) , [end_math]
 
-[math] and w ( [subsup] S 2 4 [end_subsup] ) and [end_math]
+[math] and w ( [subsup] S 2 4 [end_subsup] ) [end_math]
 
 [math] ≥ [end_math]
 
@@ -1700,7 +1700,7 @@
 
 [math] [subsup] L a opt [end_subsup] ∈ [ 2.372 … , 2.707 … ) [end_math]
 
-[math] ℙ [ success ] ∈ ( 0.241 , 0.316 ) success [end_math]
+[math] ℙ [ success ] ∈ ( 0.241 , 0.316 ) [end_math]
 
 [math] [subsup] L a opt [end_subsup] ∈ [ 2.259 … , 2.783 … ] [end_math]
 
