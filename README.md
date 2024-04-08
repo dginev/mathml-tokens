@@ -36,7 +36,6 @@ They are tokenized in 4 categories
     - Simplified: if an argument is a single token, omit the wrappers. For example, avoid `[arg] x [end_arg]` and simply use `x`.
     - Incldues `mfrac`, `mover`, `munder`, `munderover`, `msub`, `msup`, `msubsup`, `mmultiscripts`, `mprescripts`
 5. `Literal`: replace with literal token, ignoring descendants (if any)
-    - `mglyph` is replaced with the literal `glyph`
     - `mspace` replaced with a literal space ` `
     - text content in in `WrappedTokens` and `WrappedArgs` modes is preserved as-is
 
